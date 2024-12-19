@@ -4,6 +4,10 @@ This repository contains the code to run the analysis and reproduce all figures 
 
 Bantje, D., Sacchi, R., Arendt R., Bauer, C., Luderer, G.: *Prospective analysis of external environmental costs of energy provision*
 
+## System requirements
+
+The code has no specific system requirements and should run an any computer with the required Python packages available (see "Installation").
+
 ## Installation
 
 Using [conda](https://anaconda.org/anaconda/conda) and the `environment.yml` file provided, the environment needed to run the code can be set up:
@@ -14,11 +18,11 @@ conda env create -f environment.yml
 
 If you still run into issues running the code, contact the owner of this repo.
 
-## Instructions
+## Instructions for use
 
 The analysis code is contained in Juptyter notebooks, that can be run in suitable editors or locally via a browser.
 
-To fully reproduce all steps of the analysis, run all scripts in `scripts` in the order indicated by the filename prefixes, starting with `01_prepare_brightway.ipynb`.
+To fully reproduce all steps of the analysis, run all scripts in `scripts` in the order indicated by the filename prefixes, starting with `01_prepare_brightway.ipynb` (see "Note on data availability" below). The output generated are environmental impacts, external costs, and figures.
 
 To only reproduce figures, run `09_make_plots_main.ipynb` for the main article figures, and `10a_make_plots_extended-data.ipynb` for extended data figures.
 
