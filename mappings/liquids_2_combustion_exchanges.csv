@@ -1,0 +1,49 @@
+short name,reference product,ecoinvent name,sector,base_fuel,scaling_fuel
+"diesel, refinery",diesel,"diesel production, petroleum refinery operation",liquids,"diesel, passenger car",
+"diesel, low-sulfur, refinery","diesel, low-sulfur","diesel production, low-sulfur, petroleum refinery operation",liquids,"diesel, passenger car",
+"heavy fuel oil, refinery",heavy fuel oil,"heavy fuel oil production, petroleum refinery operation",liquids,"heavy fuel oil, container ship",
+"kerosene, refinery",kerosene,"kerosene production, petroleum refinery operation",liquids,"kerosene, aircraft",
+"petrol, refinery","petrol, unleaded","petrol production, unleaded, petroleum refinery operation",liquids,"petrol, passenger car",
+"diesel, gas FT","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, from natural gas, energy allocation",liquids,"coal FT diesel, HDV",
+"diesel, gas FT, w CCS","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, from natural gas, energy allocation, with carbon capture and storage",liquids,"coal FT diesel, HDV",
+"diesel, coal FT","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation",liquids,"coal FT diesel, HDV",
+"diesel, coal FT, w CCS","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation",liquids,"coal FT diesel, HDV",
+"diesel, bio FT","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation",liquids,"coal FT diesel, HDV",
+"diesel, bio FT, w CCS","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation",liquids,"coal FT diesel, HDV",
+"diesel, electrolysis FT","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, hydrogen from electrolysis, energy allocation",liquids,"coal FT diesel, HDV",
+"diesel, electrolysis FT, VRE","diesel, synthetic","diesel production, synthetic, Fischer Tropsch process, hydrogen from electrolysis, VRE inputs, energy allocation",liquids,"coal FT diesel, HDV",
+"kerosene, gas FT","kerosene, synthetic","kerosene production, synthetic, Fischer Tropsch process, from natural gas, energy allocation",liquids,"kerosene, aircraft",
+"kerosene, gas FT, w CCS","kerosene, synthetic","kerosene production, synthetic, Fischer Tropsch process, from natural gas, energy allocation, with carbon capture and storage",liquids,"kerosene, aircraft",
+"kerosene, coal FT","kerosene, synthetic","kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation",liquids,"kerosene, aircraft",
+"kerosene, coal FT, w CCS","kerosene, synthetic","kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation",liquids,"kerosene, aircraft",
+"kerosene, bio FT","kerosene, synthetic","kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation",liquids,"kerosene, aircraft",
+"kerosene, bio FT, w CCS","kerosene, synthetic","kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation",liquids,"kerosene, aircraft",
+"kerosene, electrolysis FT","kerosene, synthetic","kerosene production, synthetic, Fischer Tropsch process, hydrogen from electrolysis, energy allocation",liquids,"kerosene, aircraft",
+"bioethanol, corn","ethanol, from corn","ethanol production, via fermentation, from corn, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, corn, CCS","ethanol, from corn","ethanol production, via fermentation, from corn, with carbon capture and storage, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, poplar","ethanol, from poplar","ethanol production, via fermentation, from poplar, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, poplar, CCS","ethanol, from poplar","ethanol production, via fermentation, from poplar, with carbon capture and storage, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, switchgrass","ethanol, from switchgrass","ethanol production, via fermentation, from switchgrass, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, switchgrass, CCS","ethanol, from switchgrass","ethanol production, via fermentation, from switchgrass, with carbon capture and storage, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, eucalyptus","ethanol, from eucalyptus","ethanol production, via fermentation, from eucalyptus",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, eucalyptus, CCS","ethanol, from eucalyptus","ethanol production, via fermentation, from eucalyptus, with carbon capture and storage",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, miscanthus","ethanol, from miscanthus","ethanol production, via fermentation, from miscanthus, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, miscanthus, CCS","ethanol, from miscanthus","ethanol production, via fermentation, from miscanthus, with carbon capture and storage, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, sugarbeet","ethanol, from sugarbeet","ethanol production, via fermentation, from sugarbeet, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, sugarbeet, CCS","ethanol, from sugarbeet","ethanol production, via fermentation, from sugarbeet, with carbon capture and storage, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, sugarcane","ethanol, from sugarcane","ethanol production, via fermentation, from sugarcane, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, sugarcane, CCS","ethanol, from sugarcane","ethanol production, via fermentation, from sugarcane, with carbon capture and storage, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, sugarcane straw","ethanol, from sugarcane straw","ethanol production, via fermentation, from sugarcane straw, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, forest residue","ethanol, from forest residue","ethanol production, via fermentation, from forest residue, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, willow","ethanol, from willow","ethanol production, via fermentation, from willow, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, forage sorghum","ethanol, from forage sorghum","ethanol production, via fermentation, from forage sorghum, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, grain sorghum","ethanol, from grain sorghum","ethanol production, via fermentation, from grain sorghum, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, wheat straw","ethanol, from wheat straw pellets","ethanol production, via fermentation, from wheat straw, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, wheat grains","ethanol, from wheat grains","ethanol production, via fermentation, from wheat grains, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, corn starch","ethanol, from corn starch","ethanol production, via fermentation, from corn starch, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, corn stover","ethanol, from corn stover","ethanol production, via fermentation, from corn stover, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"bioethanol, sweet sorghum","ethanol, from sweet sorghum","ethanol production, via fermentation, from sweet sorghum, energy allocation",liquids,"petrol, passenger car","bioethanol, passenger car"
+"biodiesel, palm oil","biodiesel, from palm oil","biodiesel production, via transesterification, from palm oil, energy allocation",liquids,"diesel, passenger car","biodiesel, passenger car"
+"biodiesel, rapeseed oil","biodiesel, from rapeseed oil","biodiesel production, via transesterification, from rapeseed oil, energy allocation",liquids,"diesel, passenger car","biodiesel, passenger car"
+"biodiesel, used cooking oil","biodiesel, from cooking oil","biodiesel production, via transesterification, from used cooking oil, energy allocation",liquids,"diesel, passenger car","biodiesel, passenger car"
+"biodiesel, used cooking oil, CCS","biodiesel, from cooking oil","biodiesel production, via transesterification, from used cooking oil, with carbon capture and storage, energy allocation",liquids,"diesel, passenger car","biodiesel, passenger car"

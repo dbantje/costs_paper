@@ -1,0 +1,14 @@
+source name,impact category,short name,unit,currency,year,cost
+Trinomics,"total",hard coal power plant,MWh,euro,2018,127
+Trinomics,"total",lignite power plant,MWh,euro,2018,147
+Trinomics,"total",natural gas power plant,MWh,euro,2018,55
+Trinomics,"total",oil power plant,MWh,euro,2018,120
+Trinomics,"total","nuclear, pressure water reactor",MWh,euro,2018,15
+Trinomics,"total",wood CHP modern,MWh,euro,2018,53
+Trinomics,"total","CSP, tower",MWh,euro,2018,15
+Trinomics,"total","PV residential",MWh,euro,2018,17
+Trinomics,"total","wind, onshore, medium",MWh,euro,2018,3
+Trinomics,"total","wind, offshore",MWh,euro,2018,3
+Trinomics,"total","hydro, reservoir, alpine region",MWh,euro,2018,3
+Trinomics,"total","hydro, run-of-river",MWh,euro,2018,3
+Trinomics,"total",geothermal,MWh,euro,2018,8

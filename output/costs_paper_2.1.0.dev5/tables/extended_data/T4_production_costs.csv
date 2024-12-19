@@ -1,0 +1,108 @@
+short name,sector,source,cost,estimate,currency,unit,year
+PV commercial,electricity production,LAZARD LCOE v16,0.0043861191601217,min,euro,MJ,2022
+PV commercial,electricity production,LAZARD LCOE v16,0.0175444766404871,max,euro,MJ,2022
+PV residential,electricity production,LAZARD LCOE v16,0.0213823309055937,min,euro,MJ,2022
+PV residential,electricity production,LAZARD LCOE v16,0.0515369001314309,max,euro,MJ,2022
+geothermal,electricity production,LAZARD LCOE v16,0.0111480528653095,min,euro,MJ,2022
+geothermal,electricity production,LAZARD LCOE v16,0.0186410064305175,max,euro,MJ,2022
+"wind, onshore, medium",electricity production,LAZARD LCOE v16,0.0043861191601217,min,euro,MJ,2022
+"wind, onshore, medium",electricity production,LAZARD LCOE v16,0.0137066223753805,max,euro,MJ,2022
+"wind, offshore",electricity production,LAZARD LCOE v16,0.0131583574803653,min,euro,MJ,2022
+"wind, offshore",electricity production,LAZARD LCOE v16,0.0255856951007104,max,euro,MJ,2022
+hard coal power plant,electricity production,LAZARD LCOE v16,0.012427337620345,min,euro,MJ,2022
+hard coal power plant,electricity production,LAZARD LCOE v16,0.0303373241908423,max,euro,MJ,2022
+"nuclear, pressure water reactor",electricity production,LAZARD LCOE v16,0.0257684500657154,min,euro,MJ,2022
+"nuclear, pressure water reactor",electricity production,LAZARD LCOE v16,0.0403888472661214,max,euro,MJ,2022
+NGCC,electricity production,LAZARD LCOE v16,0.0071274436351979,min,euro,MJ,2022
+NGCC,electricity production,LAZARD LCOE v16,0.0184582514655125,max,euro,MJ,2022
+"wind, onshore, medium",electricity production,IRENA 2022,0.0062791666666666,central,euro,MJ,2022
+"wind, onshore, medium",electricity production,IRENA 2022,0.003425,min,euro,MJ,2022
+"wind, onshore, medium",electricity production,IRENA 2022,0.0110361111111111,max,euro,MJ,2022
+PV commercial,electricity production,IRENA 2022,0.0093236111111111,central,euro,MJ,2022
+PV commercial,electricity production,IRENA 2022,0.0060888888888888,min,euro,MJ,2022
+PV commercial,electricity production,IRENA 2022,0.0226430555555555,max,euro,MJ,2022
+"wind, offshore",electricity production,IRENA 2022,0.0154125,central,euro,MJ,2022
+"wind, offshore",electricity production,IRENA 2022,0.0108458333333333,min,euro,MJ,2022
+"wind, offshore",electricity production,IRENA 2022,0.0414805555555555,max,euro,MJ,2022
+"CSP, tower",electricity production,IRENA 2022,0.0224527777777777,central,euro,MJ,2022
+"hydro, reservoir, non-alpine region",electricity production,IRENA 2022,0.0116069444444444,central,euro,MJ,2022
+"hydro, reservoir, non-alpine region",electricity production,IRENA 2022,0.0041861111111111,min,euro,MJ,2022
+"hydro, reservoir, non-alpine region",electricity production,IRENA 2022,0.0237847222222222,max,euro,MJ,2022
+geothermal,electricity production,IRENA 2022,0.0106555555555555,central,euro,MJ,2022
+geothermal,electricity production,IRENA 2022,0.0085625,min,euro,MJ,2022
+geothermal,electricity production,IRENA 2022,0.0323472222222222,max,euro,MJ,2022
+BIGCC,electricity production,IRENA 2022,0.0116069444444444,central,euro,MJ,2022
+BIGCC,electricity production,IRENA 2022,0.0091333333333333,min,euro,MJ,2022
+BIGCC,electricity production,IRENA 2022,0.0237847222222222,max,euro,MJ,2022
+wood CHP modern,electricity production,IRENA 2022,0.0116069444444444,central,euro,MJ,2022
+wood CHP modern,electricity production,IRENA 2022,0.0091333333333333,min,euro,MJ,2022
+wood CHP modern,electricity production,IRENA 2022,0.0237847222222222,max,euro,MJ,2022
+"biodiesel, rapeseed oil",liquids,Advanced biofuels,0.0240909920128175,central,euro,MJ,2022
+"biodiesel, rapeseed oil",liquids,Advanced biofuels,0.0157518024699191,min,euro,MJ,2022
+"biodiesel, rapeseed oil",liquids,Advanced biofuels,0.0281061573482871,max,euro,MJ,2022
+"biodiesel, palm oil",liquids,Advanced biofuels,0.0240909920128175,central,euro,MJ,2022
+"biodiesel, palm oil",liquids,Advanced biofuels,0.0157518024699191,min,euro,MJ,2022
+"biodiesel, palm oil",liquids,Advanced biofuels,0.0281061573482871,max,euro,MJ,2022
+"diesel, bio FT",liquids,Advanced biofuels,0.0231644153969399,min,euro,MJ,2022
+"diesel, bio FT",liquids,Advanced biofuels,0.0444756775621247,max,euro,MJ,2022
+"diesel, bio FT",liquids,Dimitriou et al,0.0209278765613519,min,euro,MJ,2022
+"diesel, bio FT",liquids,Dimitriou et al,0.0271196252755326,max,euro,MJ,2022
+"kerosene, bio FT",liquids,Dimitriou et al,0.0209278765613519,min,euro,MJ,2022
+"kerosene, bio FT",liquids,Dimitriou et al,0.0271196252755326,max,euro,MJ,2022
+"diesel, electrolysis FT, VRE",liquids,Ueckert et al,0.0584069893304468,min,euro,MJ,2022
+"diesel, electrolysis FT, VRE",liquids,Ueckert et al,0.0680411319004174,max,euro,MJ,2022
+brine-water heat pump,residential heating,Hansen et al,0.0340727839398661,central,euro,MJ,2022
+air-water heat pump,residential heating,Hansen et al,0.0246622055183793,central,euro,MJ,2022
+"oil boiler, condensing",residential heating,Hansen et al,0.0298542487854065,central,euro,MJ,2022
+natural gas boiler,residential heating,Hansen et al,0.0171986433220276,central,euro,MJ,2022
+"wood heater, modern",residential heating,Hansen et al,0.0343972866440553,central,euro,MJ,2022
+geothermal heat plant,district or industrial heat,Hansen et al,0.0084370703089192,central,euro,MJ,2022
+natural gas heating plant,district or industrial heat,Hansen et al,0.0100595838298652,central,euro,MJ,2022
+"hardwood heating plant, modern",district or industrial heat,Hansen et al,0.0133046108717572,central,euro,MJ,2022
+"bioethanol, sugarcane",liquids,Manochio et al,0.0094343644905879,min,euro,MJ,2022
+"bioethanol, sugarcane",liquids,Manochio et al,0.0164687590669035,max,euro,MJ,2022
+"bioethanol, corn",liquids,Manochio et al,0.0196135472304328,min,euro,MJ,2022
+"bioethanol, corn",liquids,Manochio et al,0.0340961242993179,max,euro,MJ,2022
+"bioethanol, sugarbeet",liquids,Manochio et al,0.0180411531486682,min,euro,MJ,2022
+"bioethanol, sugarbeet",liquids,Manochio et,0.0302065178865316,max,euro,MJ,2022
+"hydrogen, natural gas",hydrogen and gases,Global Hydrogen review,0.0056580937165571,min,euro,MJ,2022
+"hydrogen, natural gas",hydrogen and gases,Global Hydrogen review,0.0138162753543836,max,euro,MJ,2022
+"hydrogen, natural gas, CCS",hydrogen and gases,Global Hydrogen review,0.0078950144882192,min,euro,MJ,2022
+"hydrogen, natural gas, CCS",hydrogen and gases,Global Hydrogen review,0.0177637825984932,max,euro,MJ,2022
+"hydrogen, hard coal",hydrogen and gases,Global Hydrogen review,0.0092108502362557,min,euro,MJ,2022
+"hydrogen, hard coal",hydrogen and gases,Global Hydrogen review,0.012500439606347,max,euro,MJ,2022
+"hydrogen, hard coal, CCS",hydrogen and gases,Global Hydrogen review,0.0111846038583105,min,euro,MJ,2022
+"hydrogen, hard coal, CCS",hydrogen and gases,Global Hydrogen review,0.019737536220548,max,euro,MJ,2022
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,Global Hydrogen review,0.019737536220548,min,euro,MJ,2022
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,Global Hydrogen review,0.0657917874018267,max,euro,MJ,2022
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,LAZARD LCOH v3,0.026185131385927,min,euro,MJ,2022
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,LAZARD LCOH v3,0.0403961574647216,max,euro,MJ,2022
+"natural gas, onshore",hydrogen and gases,IEA WEO 2019,0.0009910569085723,min,euro,MJ,2022
+"natural gas, onshore",hydrogen and gases,IEA WEO 2019,0.0055041775999173,max,euro,MJ,2022
+"natural gas, offshore",hydrogen and gases,IEA WEO 2019,0.0021345841107712,min,euro,MJ,2022
+"natural gas, offshore",hydrogen and gases,IEA WEO 2019,0.0066324577727536,max,euro,MJ,2022
+"bioethanol, switchgrass",liquids,Advanced biofuels + Domingues et al,0.0232968960509153,min,euro,MJ,2022
+"bioethanol, switchgrass",liquids,Advanced biofuels + Domingues et al,0.0263854847705073,central,euro,MJ,2022
+"bioethanol, switchgrass",liquids,Advanced biofuels + Domingues et al,0.0381221219049569,max,euro,MJ,2022
+"bioethanol, eucalyptus",liquids,Advanced biofuels + Domingues et al,0.0240006417499352,min,euro,MJ,2022
+"bioethanol, eucalyptus",liquids,Advanced biofuels + Domingues et al,0.0270892304695272,central,euro,MJ,2022
+"bioethanol, eucalyptus",liquids,Advanced biofuels + Domingues et al,0.0388258676039768,max,euro,MJ,2022
+"bioethanol, miscanthus",liquids,Advanced biofuels + Domingues et al,0.0232968960509153,min,euro,MJ,2022
+"bioethanol, miscanthus",liquids,Advanced biofuels + Domingues et al,0.0263854847705073,central,euro,MJ,2022
+"bioethanol, miscanthus",liquids,Advanced biofuels + Domingues et al,0.0381221219049569,max,euro,MJ,2022
+"bioethanol, forest residue",liquids,Advanced biofuels + Domingues et al,0.025629310367667,min,euro,MJ,2022
+"bioethanol, forest residue",liquids,Advanced biofuels + Domingues et al,0.028717899087259,central,euro,MJ,2022
+"bioethanol, forest residue",liquids,Advanced biofuels + Domingues et al,0.0404545362217086,max,euro,MJ,2022
+"bioethanol, willow",liquids,Advanced biofuels + Domingues et al,0.0240006417499352,min,euro,MJ,2022
+"bioethanol, willow",liquids,Advanced biofuels + Domingues et al,0.0270892304695272,central,euro,MJ,2022
+"bioethanol, willow",liquids,Advanced biofuels + Domingues et al,0.0388258676039768,max,euro,MJ,2022
+"bioethanol, wheat straw",liquids,Advanced biofuels + Domingues et al,0.0259711297071909,min,euro,MJ,2022
+"bioethanol, wheat straw",liquids,Advanced biofuels + Domingues et al,0.0290597184267829,central,euro,MJ,2022
+"bioethanol, wheat straw",liquids,Advanced biofuels + Domingues et al,0.0407963555612325,max,euro,MJ,2022
+"bioethanol, corn stover",liquids,Advanced biofuels + Domingues et al,0.0259711297071909,min,euro,MJ,2022
+"bioethanol, corn stover",liquids,Advanced biofuels + Domingues et al,0.0290597184267829,central,euro,MJ,2022
+"bioethanol, corn stover",liquids,Advanced biofuels + Domingues et al,0.0407963555612325,max,euro,MJ,2022
+"kerosene, refinery",liquids,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm,0.0114204590135758,central,euro,MJ,2022
+"petrol, refinery",liquids,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm,0.0143511924028488,central,euro,MJ,2022
+"diesel, refinery",liquids,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm,0.0119599172414486,central,euro,MJ,2022
+"heavy fuel oil, refinery",liquids,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm,0.0084819057162663,central,euro,MJ,2022

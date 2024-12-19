@@ -1,0 +1,83 @@
+short name,sector,cost,estimate,currency,unit,year,source
+PV commercial,electricity production,24,min,dollar,MWh,2023,LAZARD LCOE v16
+PV commercial,electricity production,96,max,dollar,MWh,2023,LAZARD LCOE v16
+PV residential,electricity production,117,min,dollar,MWh,2023,LAZARD LCOE v16
+PV residential,electricity production,282,max,dollar,MWh,2023,LAZARD LCOE v16
+geothermal,electricity production,61,min,dollar,MWh,2023,LAZARD LCOE v16
+geothermal,electricity production,102,max,dollar,MWh,2023,LAZARD LCOE v16
+"wind, onshore, medium",electricity production,24,min,dollar,MWh,2023,LAZARD LCOE v16
+"wind, onshore, medium",electricity production,75,max,dollar,MWh,2023,LAZARD LCOE v16
+"wind, offshore",electricity production,72,min,dollar,MWh,2023,LAZARD LCOE v16
+"wind, offshore",electricity production,140,max,dollar,MWh,2023,LAZARD LCOE v16
+hard coal power plant,electricity production,68,min,dollar,MWh,2023,LAZARD LCOE v16
+hard coal power plant,electricity production,166,max,dollar,MWh,2023,LAZARD LCOE v16
+"nuclear, pressure water reactor",electricity production,141,min,dollar,MWh,2023,LAZARD LCOE v16
+"nuclear, pressure water reactor",electricity production,221,max,dollar,MWh,2023,LAZARD LCOE v16
+NGCC,electricity production,39,min,dollar,MWh,2023,LAZARD LCOE v16
+NGCC,electricity production,101,max,dollar,MWh,2023,LAZARD LCOE v16
+"wind, onshore, medium",electricity production,33,central,dollar,MWh,2022,IRENA 2022
+"wind, onshore, medium",electricity production,18,min,dollar,MWh,2022,IRENA 2022
+"wind, onshore, medium",electricity production,58,max,dollar,MWh,2022,IRENA 2022
+"PV commercial",electricity production,49,central,dollar,MWh,2022,IRENA 2022
+"PV commercial",electricity production,32,min,dollar,MWh,2022,IRENA 2022
+"PV commercial",electricity production,119,max,dollar,MWh,2022,IRENA 2022
+"wind, offshore",electricity production,81,central,dollar,MWh,2022,IRENA 2022
+"wind, offshore",electricity production,57,min,dollar,MWh,2022,IRENA 2022
+"wind, offshore",electricity production,218,max,dollar,MWh,2022,IRENA 2022
+"CSP, tower",electricity production,118,central,dollar,MWh,2022,IRENA 2022
+"hydro, reservoir, non-alpine region",electricity production,61,central,dollar,MWh,2022,IRENA 2022
+"hydro, reservoir, non-alpine region",electricity production,22,min,dollar,MWh,2022,IRENA 2022
+"hydro, reservoir, non-alpine region",electricity production,125,max,dollar,MWh,2022,IRENA 2022
+geothermal,electricity production,56,central,dollar,MWh,2022,IRENA 2022
+geothermal,electricity production,45,min,dollar,MWh,2022,IRENA 2022
+geothermal,electricity production,170,max,dollar,MWh,2022,IRENA 2022
+BIGCC,electricity production,61,central,dollar,MWh,2022,IRENA 2022
+BIGCC,electricity production,48,min,dollar,MWh,2022,IRENA 2022
+BIGCC,electricity production,125,max,dollar,MWh,2022,IRENA 2022
+wood CHP modern,electricity production,61,central,dollar,MWh,2022,IRENA 2022
+wood CHP modern,electricity production,48,min,dollar,MWh,2022,IRENA 2022
+wood CHP modern,electricity production,125,max,dollar,MWh,2022,IRENA 2022
+"biodiesel, rapeseed oil",liquids,78,central,euro,MWh,2020,Advanced biofuels
+"biodiesel, rapeseed oil",liquids,51,min,euro,MWh,2020,Advanced biofuels
+"biodiesel, rapeseed oil",liquids,91,max,euro,MWh,2020,Advanced biofuels
+"biodiesel, palm oil",liquids,78,central,euro,MWh,2020,Advanced biofuels
+"biodiesel, palm oil",liquids,51,min,euro,MWh,2020,Advanced biofuels
+"biodiesel, palm oil",liquids,91,max,euro,MWh,2020,Advanced biofuels
+"diesel, bio FT",liquids,75,min,euro,MWh,2020,Advanced biofuels
+"diesel, bio FT",liquids,144,max,euro,MWh,2020,Advanced biofuels
+"diesel, bio FT",liquids,17.88,min,euro,GJ,2014,Dimitriou et al
+"diesel, bio FT",liquids,23.17,max,euro,GJ,2014,Dimitriou et al
+"kerosene, bio FT",liquids,17.88,min,euro,GJ,2014,Dimitriou et al
+"kerosene, bio FT",liquids,23.17,max,euro,GJ,2014,Dimitriou et al
+"diesel, electrolysis FT, VRE",liquids,194,min,euro,MWh,2021,Ueckert et al
+"diesel, electrolysis FT, VRE",liquids,226,max,euro,MWh,2021,Ueckert et al
+brine-water heat pump,residential heating,105,central,euro,MWh,2015,Hansen et al
+air-water heat pump,residential heating,76,central,euro,MWh,2015,Hansen et al
+"oil boiler, condensing",residential heating,92,central,euro,MWh,2015,Hansen et al
+"natural gas boiler",residential heating,53,central,euro,MWh,2015,Hansen et al
+"wood heater, modern",residential heating,106,central,euro,MWh,2015,Hansen et al
+"geothermal heat plant",district or industrial heat,26,central,euro,MWh,2015,Hansen et al
+"natural gas heating plant",district or industrial heat,31,central,euro,MWh,2015,Hansen et al
+"hardwood heating plant, modern",district or industrial heat,41,central,euro,MWh,2015,Hansen et al
+"bioethanol, sugarcane",liquids,1.14e-2,min,dollar,MJ,2017,Manochio et al
+"bioethanol, sugarcane",liquids,1.99e-2,max,dollar,MJ,2017,Manochio et al
+"bioethanol, corn",liquids,2.37e-2,min,dollar,MJ,2017,Manochio et al
+"bioethanol, corn",liquids,4.12e-2,max,dollar,MJ,2017,Manochio et al
+"bioethanol, sugarbeet",liquids,2.18e-2,min,dollar,MJ,2017,Manochio et al
+"bioethanol, sugarbeet",liquids,3.65e-2,max,dollar,MJ,2017,Manochio et
+"hydrogen, natural gas",hydrogen and gases,8.6e-3,min,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, natural gas",hydrogen and gases,2.1e-02,max,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, natural gas, CCS",hydrogen and gases,1.2e-2,min,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, natural gas, CCS",hydrogen and gases,2.7e-02,max,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, hard coal",hydrogen and gases,1.4e-02,min,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, hard coal",hydrogen and gases,1.9e-02,max,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, hard coal, CCS",hydrogen and gases,1.7e-02,min,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, hard coal, CCS",hydrogen and gases,3.0e-02,max,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,3.0e-02,min,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,0.1,max,dollar,MJ,2023,Global Hydrogen review
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,3.98e-02,min,dollar,MJ,2023,LAZARD LCOH v3
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,6.14e-02,max,dollar,MJ,2023,LAZARD LCOH v3
+"natural gas, onshore",hydrogen and gases,1.3,min,dollar,MBtu,2018,IEA WEO 2019
+"natural gas, onshore",hydrogen and gases,7.22,max,dollar,MBtu,2018,IEA WEO 2019
+"natural gas, offshore",hydrogen and gases,2.8,min,dollar,MBtu,2018,IEA WEO 2019
+"natural gas, offshore",hydrogen and gases,8.7,max,dollar,MBtu,2018,IEA WEO 2019

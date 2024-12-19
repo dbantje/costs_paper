@@ -1,0 +1,405 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\burl{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\bibcommenthead
+
+\bibitem{steffen_trajectory_2015}
+\bibinfo{author}{Steffen, W.}, \bibinfo{author}{Broadgate, W.}, \bibinfo{author}{Deutsch, L.}, \bibinfo{author}{Gaffney, O.} \& \bibinfo{author}{Ludwig, C.}
+\newblock \bibinfo{title}{The trajectory of the {Anthropocene}: {The} {Great} {Acceleration}}.
+\newblock \emph{\bibinfo{journal}{The Anthropocene Review}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{81--98} (\bibinfo{year}{2015}).
+\newblock \urlprefix\url{http://journals.sagepub.com/doi/10.1177/2053019614564785}.
+
+\bibitem{intergovernmental_panel_on_climate_change_ipcc_climate_2023}
+\bibinfo{author}{{Intergovernmental Panel On Climate Change (Ipcc)}}.
+\newblock \emph{\bibinfo{title}{Climate {Change} 2022 – {Impacts}, {Adaptation} and {Vulnerability}: {Working} {Group} {II} {Contribution} to the {Sixth} {Assessment} {Report} of the {Intergovernmental} {Panel} on {Climate} {Change}}} \bibinfo{edition}{1} edn (\bibinfo{publisher}{Cambridge University Press}, \bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://www.cambridge.org/core/product/identifier/9781009325844/type/book}.
+
+\bibitem{pozzer_mortality_2023}
+\bibinfo{author}{Pozzer, A.} \emph{et~al.}
+\newblock \bibinfo{title}{Mortality {Attributable} to {Ambient} {Air} {Pollution}: {A} {Review} of {Global} {Estimates}}.
+\newblock \emph{\bibinfo{journal}{GeoHealth}} \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{e2022GH000711} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1029/2022GH000711}.
+
+\bibitem{ipbes_summary_2019}
+\bibinfo{author}{IPBES}.
+\newblock \bibinfo{title}{Summary for policymakers of the global assessment report on biodiversity and ecosystem services}.
+\newblock \bibinfo{institution}{IPBES secretariat} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://zenodo.org/records/3553579}.
+
+\bibitem{mekonnen_four_2016}
+\bibinfo{author}{Mekonnen, M.~M.} \& \bibinfo{author}{Hoekstra, A.~Y.}
+\newblock \bibinfo{title}{Four billion people facing severe water scarcity}.
+\newblock \emph{\bibinfo{journal}{Science Advances}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{e1500323} (\bibinfo{year}{2016}).
+\newblock \urlprefix\url{https://www.science.org/doi/10.1126/sciadv.1500323}.
+
+\bibitem{sabater_effects_2018}
+\bibinfo{author}{Sabater, S.} \emph{et~al.}
+\newblock \bibinfo{title}{Effects of human-driven water stress on river ecosystems: a meta-analysis}.
+\newblock \emph{\bibinfo{journal}{Scientific Reports}} \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{11462} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{https://www.nature.com/articles/s41598-018-29807-7}.
+
+\bibitem{programme_global_2019}
+\bibinfo{author}{UN Environment Programme}
+\newblock \emph{\bibinfo{title}{Global {Chemicals} {Outlook} {II} – {From} {Legacies} to {Innovative} {Solutions}: {Implementing} the 2030 {Agenda} for {Sustainable} {Development} - {Synthesis} {Report}}}  (\bibinfo{publisher}{United Nations Environment Programme}, \bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://wedocs.unep.org/xmlui/handle/20.500.11822/27651}.
+
+\bibitem{eea_chapter_2010}
+\bibinfo{author}{EEA}
+\newblock \bibinfo{title}{The {European} environment - state and outlook 2010: synthesis.}
+\newblock \bibinfo{institution}{European Environment Agency} (\bibinfo{year}{2010}).
+\newblock \urlprefix\url{https://www.eea.europa.eu/soer/2010/synthesis/synthesis}
+
+\bibitem{undp_interconnected_2023}
+\bibinfo{author}{UNDP}.
+\newblock \bibinfo{title}{Interconnected crises of climate change, biodiversity loss and pollution demand urgent action to ensure a healthy future for all} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://www.undp.org/asia-pacific/news/interconnected-crises-climate-change-biodiversity-loss-and-pollution-demand-urgent-action-ensure-healthy-future-all}.
+
+\bibitem{rockstrom_safe_2009}
+\bibinfo{author}{Rockström, J.} \emph{et~al.}
+\newblock \bibinfo{title}{A safe operating space for humanity}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{461}}, \bibinfo{pages}{472--475} (\bibinfo{year}{2009}).
+\newblock \urlprefix\url{https://www.nature.com/articles/461472a}.
+
+\bibitem{richardson_earth_2023}
+\bibinfo{author}{Richardson, K.} \emph{et~al.}
+\newblock \bibinfo{title}{Earth beyond six of nine planetary boundaries}.
+\newblock \emph{\bibinfo{journal}{Science Advances}} \textbf{\bibinfo{volume}{9}} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://www.science.org/doi/10.1126/sciadv.adh2458}.
+
+\bibitem{pigou_welfare_2002}
+\bibinfo{author}{Pigou, A.~C.}
+\newblock \bibinfo{title}{ in \textit{Welfare and {Economic} {Welfare}}}   (\bibinfo{publisher}{Routledge}, \bibinfo{year}{2002}).
+
+\bibitem{union_externe_2009}
+\bibinfo{author}{European Commission}
+\newblock \bibinfo{title}{{ExternE} : {Externalities} of {Energy}. {Volume} 1, {Summary}.} (\bibinfo{year}{2009}).
+\newblock \urlprefix\url{https://op.europa.eu/de/publication-detail/-/publication/8bf62940-c92f-11e6-ad7c-01aa75ed71a1}.
+
+\bibitem{european_commission_final_2009}
+\bibinfo{author}{European Commission}
+\newblock \bibinfo{title}{Final {Report} {Summary} - {NEEDS} ({New} {Energy} {Externalities} {Development} for {Sustainability}) {\textbar} {FP6}} (\bibinfo{year}{2009}).
+\newblock \urlprefix\url{https://cordis.europa.eu/project/id/502687/reporting}.
+
+\bibitem{european_commission_external_2020}
+\bibinfo{author}{European Commission}
+\newblock \emph{\bibinfo{title}{External costs: energy costs, taxes and the impact of government interventions on investments : final report}}  (\bibinfo{publisher}{Publications Office of the European Union}, \bibinfo{address}{LU}, \bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://data.europa.eu/doi/10.2833/81390}.
+
+\bibitem{ce_delft_handbook_2020}
+\bibinfo{author}{CE Delft}
+\newblock \emph{\bibinfo{title}{Handbook on the external costs of transport: version 2019 – 1.1}}  (\bibinfo{publisher}{Publications Office of the European Union}, \bibinfo{address}{LU}, \bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://data.europa.eu/doi/10.2832/51388}.
+
+\bibitem{sovacool_hidden_2021}
+\bibinfo{author}{Sovacool, B.~K.}, \bibinfo{author}{Kim, J.} \& \bibinfo{author}{Yang, M.}
+\newblock \bibinfo{title}{The hidden costs of energy and mobility: {A} global meta-analysis and research synthesis of electricity and transport externalities}.
+\newblock \emph{\bibinfo{journal}{Energy Research \& Social Science}} \textbf{\bibinfo{volume}{72}}, \bibinfo{pages}{101885} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2214629620304606}.
+
+\bibitem{pizzol_monetary_2015}
+\bibinfo{author}{Pizzol, M.}, \bibinfo{author}{Weidema, B.}, \bibinfo{author}{Brandão, M.} \& \bibinfo{author}{Osset, P.}
+\newblock \bibinfo{title}{Monetary valuation in {Life} {Cycle} {Assessment}: a review}.
+\newblock \emph{\bibinfo{journal}{Journal of Cleaner Production}} \textbf{\bibinfo{volume}{86}}, \bibinfo{pages}{170--179} (\bibinfo{year}{2015}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0959652614008294}.
+
+\bibitem{arendt_comparison_2020}
+\bibinfo{author}{Arendt, R.}, \bibinfo{author}{Bachmann, T.~M.}, \bibinfo{author}{Motoshita, M.}, \bibinfo{author}{Bach, V.} \& \bibinfo{author}{Finkbeiner, M.}
+\newblock \bibinfo{title}{Comparison of {Different} {Monetization} {Methods} in {LCA}: {A} {Review}}.
+\newblock \emph{\bibinfo{journal}{Sustainability}} \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{10493} (\bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://www.mdpi.com/2071-1050/12/24/10493}.
+
+\bibitem{amadei_review_2021}
+\bibinfo{author}{Amadei, A.~M.}, \bibinfo{author}{De~Laurentiis, V.} \& \bibinfo{author}{Sala, S.}
+\newblock \bibinfo{title}{A review of monetary valuation in life cycle assessment: {State} of the art and future needs}.
+\newblock \emph{\bibinfo{journal}{Journal of Cleaner Production}} \textbf{\bibinfo{volume}{329}}, \bibinfo{pages}{129668} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0959652621038452}.
+
+\bibitem{bachmann_monetization_2024}
+\bibinfo{author}{Bachmann, T.~M.}, \bibinfo{author}{Arendt, R.} \& \bibinfo{author}{Kamp, J. v.~d.}
+\newblock \bibinfo{title}{ in \textit{Monetization for integration of {LCSA} results - state of the art and perspectives}}  \bibinfo{pages}{213--231} (\bibinfo{publisher}{Edward Elgar Publishing}, \bibinfo{year}{2024}).
+\newblock \urlprefix\url{https://www.elgaronline.com/edcollchap/book/9781800378650/book-part-9781800378650-26.xml}.
+
+\bibitem{pehl_understanding_2017}
+\bibinfo{author}{Pehl, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Understanding future emissions from low-carbon power systems by integration of life-cycle assessment and integrated energy modelling}.
+\newblock \emph{\bibinfo{journal}{Nature Energy}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{939--945} (\bibinfo{year}{2017}).
+\newblock \urlprefix\url{https://www.nature.com/articles/s41560-017-0032-9.}
+
+\bibitem{arvesen_deriving_2018}
+\bibinfo{author}{Arvesen, A.}, \bibinfo{author}{Luderer, G.}, \bibinfo{author}{Pehl, M.}, \bibinfo{author}{Bodirsky, B.~L.} \& \bibinfo{author}{Hertwich, E.~G.}
+\newblock \bibinfo{title}{Deriving life cycle assessment coefficients for application in integrated assessment modelling}.
+\newblock \emph{\bibinfo{journal}{Environmental Modelling \& Software}} \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{111--125} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1364815216304005}.
+
+\bibitem{hertwich_integrated_2015}
+\bibinfo{author}{Hertwich, E.~G.} \emph{et~al.}
+\newblock \bibinfo{title}{Integrated life-cycle assessment of electricity-supply scenarios confirms global environmental benefit of low-carbon technologies}.
+\newblock \emph{\bibinfo{journal}{Proceedings of the National Academy of Sciences}} \textbf{\bibinfo{volume}{112}}, \bibinfo{pages}{6277--6282} (\bibinfo{year}{2015}).
+\newblock \urlprefix\url{https://www.pnas.org/doi/10.1073/pnas.1312753111}.
+
+\bibitem{gibon_life_2017}
+\bibinfo{author}{Gibon, T.}, \bibinfo{author}{Arvesen, A.} \& \bibinfo{author}{Hertwich, E.~G.}
+\newblock \bibinfo{title}{Life cycle assessment demonstrates environmental co-benefits and trade-offs of low-carbon electricity supply options}.
+\newblock \emph{\bibinfo{journal}{Renewable and Sustainable Energy Reviews}} \textbf{\bibinfo{volume}{76}}, \bibinfo{pages}{1283--1290} (\bibinfo{year}{2017}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1364032117304215}.
+
+\bibitem{sacchi_prospective_2022}
+\bibinfo{author}{Sacchi, R.} \emph{et~al.}
+\newblock \bibinfo{title}{{PRospective} {EnvironMental} {Impact} {asSEment} (premise): {A} streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models}.
+\newblock \emph{\bibinfo{journal}{Renewable and Sustainable Energy Reviews}} \textbf{\bibinfo{volume}{160}}, \bibinfo{pages}{112311} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S136403212200226X}.
+
+\bibitem{luderer_environmental_2019}
+\bibinfo{author}{Luderer, G.} \emph{et~al.}
+\newblock \bibinfo{title}{Environmental co-benefits and adverse side-effects of alternative power sector decarbonization strategies}.
+\newblock \emph{\bibinfo{journal}{Nature Communications}} \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{5229} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://doi.org/10.1038/s41467-019-13067-8}.
+
+\bibitem{rauner_coal-exit_2020}
+\bibinfo{author}{Rauner, S.} \emph{et~al.}
+\newblock \bibinfo{title}{Coal-exit health and environmental damage reductions outweigh economic impacts}.
+\newblock \emph{\bibinfo{journal}{Nature Climate Change}} \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{308--312} (\bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://www.nature.com/articles/s41558-020-0728-x}.
+
+\bibitem{soergel_sustainable_2021}
+\bibinfo{author}{Soergel, B.} \emph{et~al.}
+\newblock \bibinfo{title}{A sustainable development pathway for climate action within the {UN} 2030 {Agenda}}.
+\newblock \emph{\bibinfo{journal}{Nature Climate Change}} \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{656--664} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://www.nature.com/articles/s41558-021-01098-3}.
+
+\bibitem{baumstark_remind21_2021}
+\bibinfo{author}{Baumstark, L.} \emph{et~al.}
+\newblock \bibinfo{title}{{REMIND2}.1: transformation and innovation dynamics of the energy-economic system within climate and sustainability limits}.
+\newblock \emph{\bibinfo{journal}{Geoscientific Model Development}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{6571--6603} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://gmd.copernicus.org/articles/14/6571/2021/}.
+
+\bibitem{ueckerdt_potential_2021}
+\bibinfo{author}{Ueckerdt, F.} \emph{et~al.}
+\newblock \bibinfo{title}{Potential and risks of hydrogen-based e-fuels in climate change mitigation}.
+\newblock \emph{\bibinfo{journal}{Nature Climate Change}} \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{384--393} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://www.nature.com/articles/s41558-021-01032-7}.
+
+\bibitem{irena_renewable_2023}
+\bibinfo{author}{IRENA}.
+\newblock \bibinfo{title}{Renewable {Power} {Generation} {Costs} in 2022}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{International Renewable Energy Agency}, \bibinfo{address}{Abu Dhabi} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://www.irena.org/Publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022}.
+
+\bibitem{brown_advanced_nodate}
+\bibinfo{author}{Brown, A.}
+\newblock \bibinfo{title}{Advanced {Biofuels} – {Potential} for {Cost} {Reduction}}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{IEA} (\bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://www.ieabioenergy.com/blog/publications/new-publication-advanced-biofuels-potential-for-cost-reduction/}.
+
+\bibitem{iea_global_2023}
+\bibinfo{author}{IEA}.
+\newblock \bibinfo{title}{Global {Hydrogen} {Review} 2023}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{IEA}, \bibinfo{address}{Paris} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://www.iea.org/reports/global-hydrogen-review-2023}.
+
+\bibitem{manochio_ethanol_2017}
+\bibinfo{author}{Manochio, C.}, \bibinfo{author}{Andrade, B.~R.}, \bibinfo{author}{Rodriguez, R.~P.} \& \bibinfo{author}{Moraes, B.~S.}
+\newblock \bibinfo{title}{Ethanol from biomass: {A} comparative overview}.
+\newblock \emph{\bibinfo{journal}{Renewable and Sustainable Energy Reviews}} \textbf{\bibinfo{volume}{80}}, \bibinfo{pages}{743--755} (\bibinfo{year}{2017}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1364032117307001}.
+
+\bibitem{hansen_decision-making_2019}
+\bibinfo{author}{Hansen, K.}
+\newblock \bibinfo{title}{Decision-making based on energy costs: {Comparing} levelized cost of energy and energy system costs}.
+\newblock \emph{\bibinfo{journal}{Energy Strategy Reviews}} \textbf{\bibinfo{volume}{24}}, \bibinfo{pages}{68--82} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2211467X19300197}.
+
+\bibitem{lazard_lazards_2023-1}
+\bibinfo{author}{Lazard}.
+\newblock \bibinfo{title}{Lazard's levelized cost of energy analysis}.
+\newblock \bibinfo{type}{Tech. Rep.} \bibinfo{number}{v16}, \bibinfo{institution}{Lazard} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://www.lazard.com/research-insights/2023-levelized-cost-of-energyplus/}.
+
+\bibitem{lazard_lazards_2023}
+\bibinfo{author}{Lazard}.
+\newblock \bibinfo{title}{Lazard's levelized cost of hydrogen analysis}.
+\newblock \bibinfo{type}{Tech. Rep.} \bibinfo{number}{v3}, \bibinfo{institution}{Lazard} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://www.lazard.com/research-insights/2023-levelized-cost-of-energyplus/}.
+
+\bibitem{domingues_cost_2022}
+\bibinfo{author}{Domingues, J.~P.}, \bibinfo{author}{Pelletier, C.} \& \bibinfo{author}{Brunelle, T.}
+\newblock \bibinfo{title}{Cost of ligno-cellulosic biomass production for bioenergy: {A} review in 45 countries}.
+\newblock \emph{\bibinfo{journal}{Biomass and Bioenergy}} \textbf{\bibinfo{volume}{165}}, \bibinfo{pages}{106583} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0961953422002458}.
+
+\bibitem{dimitriou_techno-economic_2018}
+\bibinfo{author}{Dimitriou, I.}, \bibinfo{author}{Goldingay, H.} \& \bibinfo{author}{Bridgwater, A.~V.}
+\newblock \bibinfo{title}{Techno-economic and uncertainty analysis of {Biomass} to {Liquid} ({BTL}) systems for transport fuel production}.
+\newblock \emph{\bibinfo{journal}{Renewable and Sustainable Energy Reviews}} \textbf{\bibinfo{volume}{88}}, \bibinfo{pages}{160--175} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1364032118300492}.
+
+\bibitem{keatingCradleGraveEnvironmental2001}
+\bibinfo{author}{Keating, M.}
+\newblock \bibinfo{title}{Cradle to {{Grave}}: {{The Environmental Impacts}} from {{Coal}}}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{Clean Air Task Force}, \bibinfo{address}{Boston} (\bibinfo{year}{2001}).
+\newblock \urlprefix\url{https://www.catf.us/resource/cradle-to-grave-the-environmental-impacts-from-coal/}
+
+\bibitem{gasparottoCoalEnergySource2021}
+\bibinfo{author}{Gasparotto, J.} \& \bibinfo{author}{Da~Boit~Martinello, K.}
+\newblock \bibinfo{title}{Coal as an energy source and its impacts on human health}.
+\newblock \emph{\bibinfo{journal}{Energy Geoscience}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{113--120} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://doi.org/10.1016/j.engeos.2020.07.003}
+
+\bibitem{jeswani_environmental_2020}
+\bibinfo{author}{Jeswani, H.~K.}, \bibinfo{author}{Chilvers, A.} \& \bibinfo{author}{Azapagic, A.}
+\newblock \bibinfo{title}{Environmental sustainability of biofuels: a review}.
+\newblock \emph{\bibinfo{journal}{Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences}} \textbf{\bibinfo{volume}{476}}, \bibinfo{pages}{20200351} (\bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://royalsocietypublishing.org/doi/full/10.1098/rspa.2020.0351}.
+
+\bibitem{gomez-baggethun_ecological_2015}
+\bibinfo{author}{Gómez-Baggethun, E.} \& \bibinfo{author}{Martín-López, B.}
+\newblock \bibinfo{title}{\textit{Ecological economics perspectives on ecosystem services valuation}} in \textit{Handbook of Ecological Economics} \bibinfo{pages}{260--282} (\bibinfo{publisher}{Edward Elgar Publishing}, \bibinfo{year}{2015}).
+\newblock \urlprefix\url{https://www.elgaronline.com/edcollchap/edcoll/9781783471409/9781783471409.00015.xml}.
+
+\bibitem{verones_lc-impact_2020}
+\bibinfo{author}{Verones, F.} \emph{et~al.}
+\newblock \bibinfo{title}{{LC}-{IMPACT}: {A} regionalized life cycle damage assessment method}.
+\newblock \emph{\bibinfo{journal}{Journal of Industrial Ecology}} \textbf{\bibinfo{volume}{24}}, \bibinfo{pages}{1201--1219} (\bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13018}.
+
+\bibitem{mutel_overview_2019}
+\bibinfo{author}{Mutel, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Overview and recommendations for regionalized life cycle impact assessment}.
+\newblock \emph{\bibinfo{journal}{The International Journal of Life Cycle Assessment}} \textbf{\bibinfo{volume}{24}}, \bibinfo{pages}{856--865} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://doi.org/10.1007/s11367-018-1539-4}.
+
+\bibitem{baustert_integration_2022}
+\bibinfo{author}{Baustert, P.} \emph{et~al.}
+\newblock \bibinfo{title}{Integration of future water scarcity and electricity supply into prospective {LCA}: {Application} to the assessment of water desalination for the steel industry}.
+\newblock \emph{\bibinfo{journal}{Journal of Industrial Ecology}} \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{1182--1194} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13272}.
+
+\bibitem{zhang_accounting_2010}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Baral, A.} \& \bibinfo{author}{Bakshi, B.~R.}
+\newblock \bibinfo{title}{Accounting for {Ecosystem} {Services} in {Life} {Cycle} {Assessment}, {Part} {II}: {Toward} an {Ecologically} {Based} {LCA}}.
+\newblock \emph{\bibinfo{journal}{Environmental Science \& Technology}} \textbf{\bibinfo{volume}{44}}, \bibinfo{pages}{2624--2631} (\bibinfo{year}{2010}).
+\newblock \urlprefix\url{https://doi.org/10.1021/es900548a}.
+
+\bibitem{woods_framework_2021}
+\bibinfo{author}{Woods, J.~S.}, \bibinfo{author}{Verones, F.}, \bibinfo{author}{Jolliet, O.}, \bibinfo{author}{Vázquez-Rowe, I.} \& \bibinfo{author}{Boulay, A.-M.}
+\newblock \bibinfo{title}{A framework for the assessment of marine litter impacts in life cycle impact assessment}.
+\newblock \emph{\bibinfo{journal}{Ecological Indicators}} \textbf{\bibinfo{volume}{129}}, \bibinfo{pages}{107918} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1470160X21005835}.
+
+\bibitem{li_effects_2020}
+\bibinfo{author}{Li, D.}, \bibinfo{author}{Tao, M.}, \bibinfo{author}{Vieira, J.} \& \bibinfo{author}{Suh, S.}
+\newblock \bibinfo{title}{The {Effects} of {Incorporating} {Non}-linearity in {LCA}: {Characterizing} the {Impact} on {Human} {Health}}.
+\newblock \emph{\bibinfo{journal}{Frontiers in Sustainability}} \textbf{\bibinfo{volume}{1}} (\bibinfo{year}{2020}).
+\newblock \urlprefix\url{https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2020.569385/full}.
+
+\bibitem{carrier_what_2022}
+\bibinfo{author}{Carrier, M.}
+\newblock \bibinfo{title}{What {Does} {Good} {Science}-{Based} {Advice} to {Politics} {Look} {Like}?}
+\newblock \emph{\bibinfo{journal}{Journal for General Philosophy of Science}} \textbf{\bibinfo{volume}{53}}, \bibinfo{pages}{5--21} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{https://doi.org/10.1007/s10838-021-09574-2}.
+
+\bibitem{dirnaichner_life-cycle_2022}
+\bibinfo{author}{Dirnaichner, A.} \emph{et~al.}
+\newblock \bibinfo{title}{Life-cycle impacts from different decarbonization pathways for the {European} car fleet}.
+\newblock \emph{\bibinfo{journal}{Environmental Research Letters}} \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{044009} (\bibinfo{year}{2022}).
+\newblock \urlprefix\url{https://doi.org/10.1088/1748-9326/ac4fdb}.
+
+\bibitem{meinshausen_emulating_2011}
+\bibinfo{author}{Meinshausen, M.}, \bibinfo{author}{Wigley, T. M.~L.} \& \bibinfo{author}{Raper, S. C.~B.}
+\newblock \bibinfo{title}{Emulating atmosphere-ocean and carbon cycle models with a simpler model, {MAGICC6} – {Part} 2: {Applications}}.
+\newblock \emph{\bibinfo{journal}{Atmospheric Chemistry and Physics}} \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{1457--1471} (\bibinfo{year}{2011}).
+\newblock \urlprefix\url{https://acp.copernicus.org/articles/11/1457/2011/}.
+
+\bibitem{dietrich_magpie_2019}
+\bibinfo{author}{Dietrich, J.~P.} \emph{et~al.}
+\newblock \bibinfo{title}{{MAgPIE} 4 – a modular open-source framework for modeling global land systems}.
+\newblock \emph{\bibinfo{journal}{Geoscientific Model Development}} \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{1299--1317} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://gmd.copernicus.org/articles/12/1299/2019/}.
+
+\bibitem{rottoli_coupling_2021}
+\bibinfo{author}{Rottoli, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Coupling a {Detailed} {Transport} {Model} to the {Integrated} {Assessment} {Model} {REMIND}}.
+\newblock \emph{\bibinfo{journal}{Environmental Modeling \& Assessment}} \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{891--909} (\bibinfo{year}{2021}).
+\newblock \urlprefix\url{https://doi.org/10.1007/s10666-021-09760-y}.
+
+\bibitem{levesque_how_2018}
+\bibinfo{author}{Levesque, A.} \emph{et~al.}
+\newblock \bibinfo{title}{How much energy will buildings consume in 2100? {A} global perspective within a scenario framework}.
+\newblock \emph{\bibinfo{journal}{Energy}} \textbf{\bibinfo{volume}{148}}, \bibinfo{pages}{514--527} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0360544218301671}.
+
+\bibitem{huijbregts_recipe2016_2017}
+\bibinfo{author}{Huijbregts, M. A.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{{ReCiPe2016}: a harmonised life cycle impact assessment method at midpoint and endpoint level}.
+\newblock \emph{\bibinfo{journal}{The International Journal of Life Cycle Assessment}} \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{138--147} (\bibinfo{year}{2017}).
+\newblock \urlprefix\url{https://doi.org/10.1007/s11367-016-1246-y}.
+
+\bibitem{jointresearchcentreeuropeancommissionUnderstandingProductEnvironmental2022}
+\bibinfo{author}{{Joint Research Centre (European Commission)}}, \bibinfo{author}{Damiani, M.}, \bibinfo{author}{Ferrara, N.} \& \bibinfo{author}{Ardente, F.}
+\newblock \emph{\bibinfo{title}{Understanding {{Product Environmental Footprint}} and {{Organisation Environmental Footprint}} Methods}}  (\bibinfo{publisher}{Publications Office of the European Union}, \bibinfo{year}{2022}).
+\newblock \urlprefix\url{https://data.europa.eu/doi/10.2760/11564}
+
+\bibitem{murrells_road_2018}
+\bibinfo{author}{Murrells, T.} \& \bibinfo{author}{Li, Y.}
+\newblock \bibinfo{title}{Road {Transport} {Emissions} from {Biofuel} {Consumption} in the {UK}}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{The Department for Environment, Food and Rural Affairs, Welsh Assembly Government, the Scottish Executive and the Department of the Environment for Northern Ireland} (\bibinfo{year}{2018}).
+\newblock \urlprefix\url{https://uk-air.defra.gov.uk/assets/documents/reports/cat15/0901151441_NAEI_Road_Transport_Biofuels_report_2008_v1.pdf}.
+
+\bibitem{miller_characterizing_2014}
+\bibinfo{author}{Miller, C.~A.}
+\newblock \bibinfo{title}{Characterizing {Emissions} from the {Combustion} of {Biofuels}}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{U.S. Environmental Protection Agency} (\bibinfo{year}{2014}).
+\newblock \urlprefix\url{https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NRMRL&dirEntryId=191572}.
+
+\bibitem{alberici_subsidies_nodate}
+\bibinfo{author}{Alberici, S.} \emph{et~al.}
+\newblock \bibinfo{title}{Subsidies and costs of {EU} energy}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{Ecofys} (\bibinfo{year}{2014}).
+\newblock \urlprefix\url{https://cedelft.eu/publications/subsidies-and-costs-of-eu-energy/}
+
+\bibitem{de_bruyn_handboek_2023}
+\bibinfo{author}{de~Bruyn, S.} \emph{et~al.}
+\newblock \bibinfo{title}{Handboek {Milieuprijzen} 2023}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{CE Delft} (\bibinfo{year}{2023}).
+\newblock \urlprefix\url{https://ce.nl/publicaties/handboek-milieuprijzen-2023/}
+
+\bibitem{ligthart_estimation_2019}
+\bibinfo{author}{Ligthart, T.~N.} \& \bibinfo{author}{van Harmelen, T.}
+\newblock \bibinfo{title}{Estimation of shadow prices of soil organic carbon depletion and freshwater depletion for use in {LCA}}.
+\newblock \emph{\bibinfo{journal}{The International Journal of Life Cycle Assessment}} \textbf{\bibinfo{volume}{24}}, \bibinfo{pages}{1602--1619} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://doi.org/10.1007/s11367-019-01589-8}.
+
+\bibitem{eco_costs_value_eco-costs_nodate}
+\bibinfo{author}{Eco Costs Value}
+\newblock \bibinfo{title}{Eco-costs}.
+\newblock \urlprefix\url{https://www.ecocostsvalue.com/ecocosts/}.
+
+\bibitem{cao_aggregated_2015}
+\bibinfo{author}{Cao, V.}, \bibinfo{author}{Margni, M.}, \bibinfo{author}{Favis, B.~D.} \& \bibinfo{author}{Deschênes, L.}
+\newblock \bibinfo{title}{Aggregated indicator to assess land use impacts in life cycle assessment ({LCA}) based on the economic value of ecosystem services}.
+\newblock \emph{\bibinfo{journal}{Journal of Cleaner Production}} \textbf{\bibinfo{volume}{94}}, \bibinfo{pages}{56--66} (\bibinfo{year}{2015}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0959652615000451}.
+
+\bibitem{weidema_using_2009}
+\bibinfo{author}{Weidema, B.~P.}
+\newblock \bibinfo{title}{Using the budget constraint to monetarise impact assessment results}.
+\newblock \emph{\bibinfo{journal}{Ecological Economics}} \textbf{\bibinfo{volume}{68}}, \bibinfo{pages}{1591--1598} (\bibinfo{year}{2009}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0921800908000475}.
+
+\bibitem{iea_world_2019}
+\bibinfo{author}{IEA}.
+\newblock \bibinfo{title}{World {Energy} {Outlook} 2019}.
+\newblock \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{IEA} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://www.iea.org/reports/world-energy-outlook-2019}.
+
+\bibitem{turner_adjusting_2019}
+\bibinfo{author}{Turner, H.~C.}, \bibinfo{author}{Lauer, J.~A.}, \bibinfo{author}{Tran, B.~X.}, \bibinfo{author}{Teerawattananon, Y.} \& \bibinfo{author}{Jit, M.}
+\newblock \bibinfo{title}{Adjusting for {Inflation} and {Currency} {Changes} {Within} {Health} {Economic} {Studies}}.
+\newblock \emph{\bibinfo{journal}{Value in Health}} \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{1026--1032} (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1098301519321497}.
+
+\end{thebibliography}

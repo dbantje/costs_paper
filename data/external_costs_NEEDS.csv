@@ -1,0 +1,307 @@
+source name,impact category,short name,unit,currency,year,cost,technology year
+NEEDS,health impacts,lignite power plant,kWh,euro,2000,0.0072,2009
+NEEDS,biodiversity,lignite power plant,kWh,euro,2000,0.0007,2009
+NEEDS,crop yield losses,lignite power plant,kWh,euro,2000,0.0002,2009
+NEEDS,material damage,lignite power plant,kWh,euro,2000,0.0001,2009
+NEEDS,land use,lignite power plant,kWh,euro,2000,0.0001,2009
+NEEDS,"climate change, damage costs low",lignite power plant,kWh,euro,2000,0.0068,2009
+NEEDS,"climate change, damage costs high",lignite power plant,kWh,euro,2000,0.094,2009
+NEEDS,"climate change, abatement costs low",lignite power plant,kWh,euro,2000,0.0216,2009
+NEEDS,"climate change, abatement costs high",lignite power plant,kWh,euro,2000,0.0216,2009
+NEEDS,health impacts,lignite power plant,kWh,euro,2000,0.0067,2025
+NEEDS,biodiversity,lignite power plant,kWh,euro,2000,0.0006,2025
+NEEDS,crop yield losses,lignite power plant,kWh,euro,2000,0.0003,2025
+NEEDS,material damage,lignite power plant,kWh,euro,2000,0.0001,2025
+NEEDS,land use,lignite power plant,kWh,euro,2000,0.0001,2025
+NEEDS,"climate change, damage costs low",lignite power plant,kWh,euro,2000,0.0059,2025
+NEEDS,"climate change, damage costs high",lignite power plant,kWh,euro,2000,0.0721,2025
+NEEDS,"climate change, abatement costs low",lignite power plant,kWh,euro,2000,0.0259,2025
+NEEDS,"climate change, abatement costs high",lignite power plant,kWh,euro,2000,0.0412,2025
+NEEDS,health impacts,lignite power plant,kWh,euro,2000,0.006,2050
+NEEDS,biodiversity,lignite power plant,kWh,euro,2000,0.0006,2050
+NEEDS,crop yield losses,lignite power plant,kWh,euro,2000,0.0002,2050
+NEEDS,material damage,lignite power plant,kWh,euro,2000,0.0001,2050
+NEEDS,land use,lignite power plant,kWh,euro,2000,0.0001,2050
+NEEDS,"climate change, damage costs low",lignite power plant,kWh,euro,2000,0.0038,2050
+NEEDS,"climate change, damage costs high",lignite power plant,kWh,euro,2000,0.0398,2050
+NEEDS,"climate change, abatement costs low",lignite power plant,kWh,euro,2000,0.0563,2050
+NEEDS,"climate change, abatement costs high",lignite power plant,kWh,euro,2000,0.1389,2050
+NEEDS,health impacts,lignite w CCS (post),kWh,euro,2000,0.0095,2025
+NEEDS,biodiversity,lignite w CCS (post),kWh,euro,2000,0.0016,2025
+NEEDS,crop yield losses,lignite w CCS (post),kWh,euro,2000,0.0003,2025
+NEEDS,material damage,lignite w CCS (post),kWh,euro,2000,0.0001,2025
+NEEDS,land use,lignite w CCS (post),kWh,euro,2000,0.0002,2025
+NEEDS,"climate change, damage costs low",lignite w CCS (post),kWh,euro,2000,0.0012,2025
+NEEDS,"climate change, damage costs high",lignite w CCS (post),kWh,euro,2000,0.014,2025
+NEEDS,"climate change, abatement costs low",lignite w CCS (post),kWh,euro,2000,0.004,2025
+NEEDS,"climate change, abatement costs high",lignite w CCS (post),kWh,euro,2000,0.0064,2025
+NEEDS,health impacts,lignite w CCS (post),kWh,euro,2000,0.0083,2050
+NEEDS,biodiversity,lignite w CCS (post),kWh,euro,2000,0.0014,2050
+NEEDS,crop yield losses,lignite w CCS (post),kWh,euro,2000,0.0002,2050
+NEEDS,material damage,lignite w CCS (post),kWh,euro,2000,0.0001,2050
+NEEDS,land use,lignite w CCS (post),kWh,euro,2000,0.0001,2050
+NEEDS,"climate change, damage costs low",lignite w CCS (post),kWh,euro,2000,0.0007,2050
+NEEDS,"climate change, damage costs high",lignite w CCS (post),kWh,euro,2000,0.0074,2050
+NEEDS,"climate change, abatement costs low",lignite w CCS (post),kWh,euro,2000,0.0078,2050
+NEEDS,"climate change, abatement costs high",lignite w CCS (post),kWh,euro,2000,0.0193,2050
+NEEDS,health impacts,lignite w CCS (oxy),kWh,euro,2000,0.0047,2025
+NEEDS,biodiversity,lignite w CCS (oxy),kWh,euro,2000,0.0003,2025
+NEEDS,crop yield losses,lignite w CCS (oxy),kWh,euro,2000,0.0001,2025
+NEEDS,material damage,lignite w CCS (oxy),kWh,euro,2000,0.0001,2025
+NEEDS,land use,lignite w CCS (oxy),kWh,euro,2000,0.0002,2025
+NEEDS,"climate change, damage costs low",lignite w CCS (oxy),kWh,euro,2000,0.0005,2025
+NEEDS,"climate change, damage costs high",lignite w CCS (oxy),kWh,euro,2000,0.0055,2025
+NEEDS,"climate change, abatement costs low",lignite w CCS (oxy),kWh,euro,2000,0.0009,2025
+NEEDS,"climate change, abatement costs high",lignite w CCS (oxy),kWh,euro,2000,0.0014,2025
+NEEDS,health impacts,lignite w CCS (oxy),kWh,euro,2000,0.0042,2050
+NEEDS,biodiversity,lignite w CCS (oxy),kWh,euro,2000,0.0003,2050
+NEEDS,crop yield losses,lignite w CCS (oxy),kWh,euro,2000,0.0001,2050
+NEEDS,material damage,lignite w CCS (oxy),kWh,euro,2000,0.0001,2050
+NEEDS,land use,lignite w CCS (oxy),kWh,euro,2000,0.0001,2050
+NEEDS,"climate change, damage costs low",lignite w CCS (oxy),kWh,euro,2000,0.0003,2050
+NEEDS,"climate change, damage costs high",lignite w CCS (oxy),kWh,euro,2000,0.003,2050
+NEEDS,"climate change, abatement costs low",lignite w CCS (oxy),kWh,euro,2000,0.0012,2050
+NEEDS,"climate change, abatement costs high",lignite w CCS (oxy),kWh,euro,2000,0.0031,2050
+NEEDS,health impacts,hard coal power plant,kWh,euro,2000,0.00105,2009
+NEEDS,biodiversity,hard coal power plant,kWh,euro,2000,0.0009,2009
+NEEDS,crop yield losses,hard coal power plant,kWh,euro,2000,0.0002,2009
+NEEDS,material damage,hard coal power plant,kWh,euro,2000,0.0002,2009
+NEEDS,land use,hard coal power plant,kWh,euro,2000,0.0005,2009
+NEEDS,"climate change, damage costs low",hard coal power plant,kWh,euro,2000,0.0066,2009
+NEEDS,"climate change, damage costs high",hard coal power plant,kWh,euro,2000,0.0889,2009
+NEEDS,"climate change, abatement costs low",hard coal power plant,kWh,euro,2000,0.0182,2009
+NEEDS,"climate change, abatement costs high",hard coal power plant,kWh,euro,2000,0.0182,2009
+NEEDS,health impacts,hard coal power plant,kWh,euro,2000,0.01,2025
+NEEDS,biodiversity,hard coal power plant,kWh,euro,2000,0.0008,2025
+NEEDS,crop yield losses,hard coal power plant,kWh,euro,2000,0.0003,2025
+NEEDS,material damage,hard coal power plant,kWh,euro,2000,0.0002,2025
+NEEDS,land use,hard coal power plant,kWh,euro,2000,0.0005,2025
+NEEDS,"climate change, damage costs low",hard coal power plant,kWh,euro,2000,0.0058,2025
+NEEDS,"climate change, damage costs high",hard coal power plant,kWh,euro,2000,0.0696,2025
+NEEDS,"climate change, abatement costs low",hard coal power plant,kWh,euro,2000,0.0226,2025
+NEEDS,"climate change, abatement costs high",hard coal power plant,kWh,euro,2000,0.036,2025
+NEEDS,health impacts,hard coal power plant,kWh,euro,2000,0.009,2050
+NEEDS,biodiversity,hard coal power plant,kWh,euro,2000,0.0007,2050
+NEEDS,crop yield losses,hard coal power plant,kWh,euro,2000,0.0003,2050
+NEEDS,material damage,hard coal power plant,kWh,euro,2000,0.0002,2050
+NEEDS,land use,hard coal power plant,kWh,euro,2000,0.0004,2050
+NEEDS,"climate change, damage costs low",hard coal power plant,kWh,euro,2000,0.0038,2050
+NEEDS,"climate change, damage costs high",hard coal power plant,kWh,euro,2000,0.0395,2050
+NEEDS,"climate change, abatement costs low",hard coal power plant,kWh,euro,2000,0.0491,2050
+NEEDS,"climate change, abatement costs high",hard coal power plant,kWh,euro,2000,0.1211,2050
+NEEDS,health impacts,hard coal w CCS (post),kWh,euro,2000,0.0115,2025
+NEEDS,biodiversity,hard coal w CCS (post),kWh,euro,2000,0.0017,2025
+NEEDS,crop yield losses,hard coal w CCS (post),kWh,euro,2000,0.0003,2025
+NEEDS,material damage,hard coal w CCS (post),kWh,euro,2000,0.0002,2025
+NEEDS,land use,hard coal w CCS (post),kWh,euro,2000,0.0006,2025
+NEEDS,"climate change, damage costs low",hard coal w CCS (post),kWh,euro,2000,0.0019,2025
+NEEDS,"climate change, damage costs high",hard coal w CCS (post),kWh,euro,2000,0.0216,2025
+NEEDS,"climate change, abatement costs low",hard coal w CCS (post),kWh,euro,2000,0.0041,2025
+NEEDS,"climate change, abatement costs high",hard coal w CCS (post),kWh,euro,2000,0.0066,2025
+NEEDS,health impacts,hard coal w CCS (post),kWh,euro,2000,0.0101,2050
+NEEDS,biodiversity,hard coal w CCS (post),kWh,euro,2000,0.0016,2050
+NEEDS,crop yield losses,hard coal w CCS (post),kWh,euro,2000,0.0003,2050
+NEEDS,material damage,hard coal w CCS (post),kWh,euro,2000,0.0002,2050
+NEEDS,land use,hard coal w CCS (post),kWh,euro,2000,0.0005,2050
+NEEDS,"climate change, damage costs low",hard coal w CCS (post),kWh,euro,2000,0.0012,2050
+NEEDS,"climate change, damage costs high",hard coal w CCS (post),kWh,euro,2000,0.0125,2050
+NEEDS,"climate change, abatement costs low",hard coal w CCS (post),kWh,euro,2000,0.008,2050
+NEEDS,"climate change, abatement costs high",hard coal w CCS (post),kWh,euro,2000,0.0197,2050
+NEEDS,health impacts,hard coal w CCS (oxy),kWh,euro,2000,0.0083,2025
+NEEDS,biodiversity,hard coal w CCS (oxy),kWh,euro,2000,0.0007,2025
+NEEDS,crop yield losses,hard coal w CCS (oxy),kWh,euro,2000,0.0002,2025
+NEEDS,material damage,hard coal w CCS (oxy),kWh,euro,2000,0.0002,2025
+NEEDS,land use,hard coal w CCS (oxy),kWh,euro,2000,0.0006,2025
+NEEDS,"climate change, damage costs low",hard coal w CCS (oxy),kWh,euro,2000,0.0013,2025
+NEEDS,"climate change, damage costs high",hard coal w CCS (oxy),kWh,euro,2000,0.0146,2025
+NEEDS,"climate change, abatement costs low",hard coal w CCS (oxy),kWh,euro,2000,0.0014,2025
+NEEDS,"climate change, abatement costs high",hard coal w CCS (oxy),kWh,euro,2000,0.0023,2025
+NEEDS,health impacts,hard coal w CCS (oxy),kWh,euro,2000,0.0072,2050
+NEEDS,biodiversity,hard coal w CCS (oxy),kWh,euro,2000,0.0006,2050
+NEEDS,crop yield losses,hard coal w CCS (oxy),kWh,euro,2000,0.0002,2050
+NEEDS,material damage,hard coal w CCS (oxy),kWh,euro,2000,0.0001,2050
+NEEDS,land use,hard coal w CCS (oxy),kWh,euro,2000,0.0005,2050
+NEEDS,"climate change, damage costs low",hard coal w CCS (oxy),kWh,euro,2000,0.0009,2050
+NEEDS,"climate change, damage costs high",hard coal w CCS (oxy),kWh,euro,2000,0.0088,2050
+NEEDS,"climate change, abatement costs low",hard coal w CCS (oxy),kWh,euro,2000,0.0021,2050
+NEEDS,"climate change, abatement costs high",hard coal w CCS (oxy),kWh,euro,2000,0.0052,2050
+NEEDS,health impacts,NGCC,kWh,euro,2000,0.0031,2009
+NEEDS,biodiversity,NGCC,kWh,euro,2000,0.0003,2009
+NEEDS,crop yield losses,NGCC,kWh,euro,2000,0.0001,2009
+NEEDS,material damage,NGCC,kWh,euro,2000,0.0001,2009
+NEEDS,land use,NGCC,kWh,euro,2000,0.0001,2009
+NEEDS,"climate change, damage costs low",NGCC,kWh,euro,2000,0.0032,2009
+NEEDS,"climate change, damage costs high",NGCC,kWh,euro,2000,0.0435,2009
+NEEDS,"climate change, abatement costs low",NGCC,kWh,euro,2000,0.0094,2009
+NEEDS,"climate change, abatement costs high",NGCC,kWh,euro,2000,0.0094,2009
+NEEDS,health impacts,NGCC,kWh,euro,2000,0.0024,2025
+NEEDS,biodiversity,NGCC,kWh,euro,2000,0.0002,2025
+NEEDS,crop yield losses,NGCC,kWh,euro,2000,0.0001,2025
+NEEDS,material damage,NGCC,kWh,euro,2000,0.0001,2025
+NEEDS,land use,NGCC,kWh,euro,2000,0.0001,2025
+NEEDS,"climate change, damage costs low",NGCC,kWh,euro,2000,0.0028,2025
+NEEDS,"climate change, damage costs high",NGCC,kWh,euro,2000,0.0342,2025
+NEEDS,"climate change, abatement costs low",NGCC,kWh,euro,2000,0.0117,2025
+NEEDS,"climate change, abatement costs high",NGCC,kWh,euro,2000,0.0187,2025
+NEEDS,health impacts,NGCC,kWh,euro,2000,0.002,2050
+NEEDS,biodiversity,NGCC,kWh,euro,2000,0.0001,2050
+NEEDS,crop yield losses,NGCC,kWh,euro,2000,0.0001,2050
+NEEDS,material damage,NGCC,kWh,euro,2000,0.0,2050
+NEEDS,land use,NGCC,kWh,euro,2000,0.0001,2050
+NEEDS,"climate change, damage costs low",NGCC,kWh,euro,2000,0.0019,2050
+NEEDS,"climate change, damage costs high",NGCC,kWh,euro,2000,0.0195,2050
+NEEDS,"climate change, abatement costs low",NGCC,kWh,euro,2000,0.0267,2050
+NEEDS,"climate change, abatement costs high",NGCC,kWh,euro,2000,0.0658,2050
+NEEDS,health impacts,NGCC w CCS (post),kWh,euro,2000,0.0027,2025
+NEEDS,biodiversity,NGCC w CCS (post),kWh,euro,2000,0.0002,2025
+NEEDS,crop yield losses,NGCC w CCS (post),kWh,euro,2000,0.0001,2025
+NEEDS,material damage,NGCC w CCS (post),kWh,euro,2000,0.0001,2025
+NEEDS,land use,NGCC w CCS (post),kWh,euro,2000,0.0002,2025
+NEEDS,"climate change, damage costs low",NGCC w CCS (post),kWh,euro,2000,0.0009,2025
+NEEDS,"climate change, damage costs high",NGCC w CCS (post),kWh,euro,2000,0.0112,2025
+NEEDS,"climate change, abatement costs low",NGCC w CCS (post),kWh,euro,2000,0.003,2025
+NEEDS,"climate change, abatement costs high",NGCC w CCS (post),kWh,euro,2000,0.0048,2025
+NEEDS,health impacts,NGCC w CCS (post),kWh,euro,2000,0.0023,2050
+NEEDS,biodiversity,NGCC w CCS (post),kWh,euro,2000,0.0002,2050
+NEEDS,crop yield losses,NGCC w CCS (post),kWh,euro,2000,0.0001,2050
+NEEDS,material damage,NGCC w CCS (post),kWh,euro,2000,0.0001,2050
+NEEDS,land use,NGCC w CCS (post),kWh,euro,2000,0.0002,2050
+NEEDS,"climate change, damage costs low",NGCC w CCS (post),kWh,euro,2000,0.0006,2050
+NEEDS,"climate change, damage costs high",NGCC w CCS (post),kWh,euro,2000,0.0058,2050
+NEEDS,"climate change, abatement costs low",NGCC w CCS (post),kWh,euro,2000,0.0062,2050
+NEEDS,"climate change, abatement costs high",NGCC w CCS (post),kWh,euro,2000,0.0152,2050
+NEEDS,health impacts,"wind, offshore",kWh,euro,2000,0.0006,2009
+NEEDS,biodiversity,"wind, offshore",kWh,euro,2000,0.0000,2009
+NEEDS,crop yield losses,"wind, offshore",kWh,euro,2000,0.0000,2009
+NEEDS,material damage,"wind, offshore",kWh,euro,2000,0.0000,2009
+NEEDS,land use,"wind, offshore",kWh,euro,2000,,2009
+NEEDS,"climate change, damage costs low","wind, offshore",kWh,euro,2000,0.0001,2009
+NEEDS,"climate change, damage costs high","wind, offshore",kWh,euro,2000,0.0008,2009
+NEEDS,"climate change, abatement costs low","wind, offshore",kWh,euro,2000,0.0002,2009
+NEEDS,"climate change, abatement costs high","wind, offshore",kWh,euro,2000,0.0002,2009
+NEEDS,health impacts,"wind, offshore",kWh,euro,2000,0.0002,2025
+NEEDS,biodiversity,"wind, offshore",kWh,euro,2000,0.0,2025
+NEEDS,crop yield losses,"wind, offshore",kWh,euro,2000,0.0,2025
+NEEDS,material damage,"wind, offshore",kWh,euro,2000,0.0,2025
+NEEDS,land use,"wind, offshore",kWh,euro,2000,,2025
+NEEDS,"climate change, damage costs low","wind, offshore",kWh,euro,2000,0.00,2025
+NEEDS,"climate change, damage costs high","wind, offshore",kWh,euro,2000,0.0002,2025
+NEEDS,"climate change, abatement costs low","wind, offshore",kWh,euro,2000,0.0001,2025
+NEEDS,"climate change, abatement costs high","wind, offshore",kWh,euro,2000,0.0001,2025
+NEEDS,health impacts,"wind, offshore",kWh,euro,2000,0.0003,2050
+NEEDS,biodiversity,"wind, offshore",kWh,euro,2000,0.00,2050
+NEEDS,crop yield losses,"wind, offshore",kWh,euro,2000,0.00,2050
+NEEDS,material damage,"wind, offshore",kWh,euro,2000,0.00,2050
+NEEDS,land use,"wind, offshore",kWh,euro,2000,,2050
+NEEDS,"climate change, damage costs low","wind, offshore",kWh,euro,2000,0.00,2050
+NEEDS,"climate change, damage costs high","wind, offshore",kWh,euro,2000,0.0001,2050
+NEEDS,"climate change, abatement costs low","wind, offshore",kWh,euro,2000,0.0002,2050
+NEEDS,"climate change, abatement costs high","wind, offshore",kWh,euro,2000,0.0004,2050
+NEEDS,health impacts,"PV commercial",kWh,euro,2000,0.0047,2009
+NEEDS,biodiversity,"PV commercial",kWh,euro,2000,0.0002,2009
+NEEDS,crop yield losses,"PV commercial",kWh,euro,2000,0.00,2009
+NEEDS,material damage,"PV commercial",kWh,euro,2000,0.0001,2009
+NEEDS,land use,"PV commercial",kWh,euro,2000,,2009
+NEEDS,"climate change, damage costs low","PV commercial",kWh,euro,2000,0.0005,2009
+NEEDS,"climate change, damage costs high","PV commercial",kWh,euro,2000,0.0062,2009
+NEEDS,"climate change, abatement costs low","PV commercial",kWh,euro,2000,0.0013,2009
+NEEDS,"climate change, abatement costs high","PV commercial",kWh,euro,2000,0.0013,2009
+NEEDS,health impacts,"PV commercial",kWh,euro,2000,0.0007,2025
+NEEDS,biodiversity,"PV commercial",kWh,euro,2000,0.0,2025
+NEEDS,crop yield losses,"PV commercial",kWh,euro,2000,0.0,2025
+NEEDS,material damage,"PV commercial",kWh,euro,2000,0.0,2025
+NEEDS,land use,"PV commercial",kWh,euro,2000,,2025
+NEEDS,"climate change, damage costs low","PV commercial",kWh,euro,2000,0.0001,2025
+NEEDS,"climate change, damage costs high","PV commercial",kWh,euro,2000,0.0009,2025
+NEEDS,"climate change, abatement costs low","PV commercial",kWh,euro,2000,0.0003,2025
+NEEDS,"climate change, abatement costs high","PV commercial",kWh,euro,2000,0.0004,2025
+NEEDS,health impacts,"PV commercial",kWh,euro,2000,0.0004,2050
+NEEDS,biodiversity,"PV commercial",kWh,euro,2000,0.00,2050
+NEEDS,crop yield losses,"PV commercial",kWh,euro,2000,0.00,2050
+NEEDS,material damage,"PV commercial",kWh,euro,2000,0.00,2050
+NEEDS,land use,"PV commercial",kWh,euro,2000,,2050
+NEEDS,"climate change, damage costs low","PV commercial",kWh,euro,2000,0.00,2050
+NEEDS,"climate change, damage costs high","PV commercial",kWh,euro,2000,0.0003,2050
+NEEDS,"climate change, abatement costs low","PV commercial",kWh,euro,2000,0.0004,2050
+NEEDS,"climate change, abatement costs high","PV commercial",kWh,euro,2000,0.0009,2050
+NEEDS,health impacts,"CSP, tower",kWh,euro,2000,0.0012,2009
+NEEDS,biodiversity,"CSP, tower",kWh,euro,2000,0.0001,2009
+NEEDS,crop yield losses,"CSP, tower",kWh,euro,2000,0.00,2009
+NEEDS,material damage,"CSP, tower",kWh,euro,2000,0.00,2009
+NEEDS,land use,"CSP, tower",kWh,euro,2000,,2009
+NEEDS,"climate change, damage costs low","CSP, tower",kWh,euro,2000,0.0006,2009
+NEEDS,"climate change, damage costs high","CSP, tower",kWh,euro,2000,0.0074,2009
+NEEDS,"climate change, abatement costs low","CSP, tower",kWh,euro,2000,0.0004,2009
+NEEDS,"climate change, abatement costs high","CSP, tower",kWh,euro,2000,0.0004,2009
+NEEDS,health impacts,"CSP, tower",kWh,euro,2000,0.0010,2025
+NEEDS,biodiversity,"CSP, tower",kWh,euro,2000,0.0001,2025
+NEEDS,crop yield losses,"CSP, tower",kWh,euro,2000,0.0,2025
+NEEDS,material damage,"CSP, tower",kWh,euro,2000,0.0,2025
+NEEDS,land use,"CSP, tower",kWh,euro,2000,0.0001,2025
+NEEDS,"climate change, damage costs low","CSP, tower",kWh,euro,2000,0.0004,2025
+NEEDS,"climate change, damage costs high","CSP, tower",kWh,euro,2000,0.0041,2025
+NEEDS,"climate change, abatement costs low","CSP, tower",kWh,euro,2000,0.0005,2025
+NEEDS,"climate change, abatement costs high","CSP, tower",kWh,euro,2000,0.0008,2025
+NEEDS,health impacts,"CSP, tower",kWh,euro,2000,0.0007,2050
+NEEDS,biodiversity,"CSP, tower",kWh,euro,2000,0.0001,2050
+NEEDS,crop yield losses,"CSP, tower",kWh,euro,2000,0.00,2050
+NEEDS,material damage,"CSP, tower",kWh,euro,2000,0.00,2050
+NEEDS,land use,"CSP, tower",kWh,euro,2000,0.0001,2050
+NEEDS,"climate change, damage costs low","CSP, tower",kWh,euro,2000,0.0002,2050
+NEEDS,"climate change, damage costs high","CSP, tower",kWh,euro,2000,0.0021,2050
+NEEDS,"climate change, abatement costs low","CSP, tower",kWh,euro,2000,0.0008,2050
+NEEDS,"climate change, abatement costs high","CSP, tower",kWh,euro,2000,0.0021,2050
+NEEDS,health impacts,"wood CHP modern",kWh,euro,2000,0.0153,2009
+NEEDS,biodiversity,"wood CHP modern",kWh,euro,2000,0.0019,2009
+NEEDS,crop yield losses,"wood CHP modern",kWh,euro,2000,0.0006,2009
+NEEDS,material damage,"wood CHP modern",kWh,euro,2000,0.0003,2009
+NEEDS,land use,"wood CHP modern",kWh,euro,2000,0.0066,2009
+NEEDS,"climate change, damage costs low","wood CHP modern",kWh,euro,2000,0.0011,2009
+NEEDS,"climate change, damage costs high","wood CHP modern",kWh,euro,2000,0.0125,2009
+NEEDS,"climate change, abatement costs low","wood CHP modern",kWh,euro,2000,0.0004,2009
+NEEDS,"climate change, abatement costs high","wood CHP modern",kWh,euro,2000,0.0004,2009
+NEEDS,health impacts,"wood CHP modern",kWh,euro,2000,0.017,2025
+NEEDS,biodiversity,"wood CHP modern",kWh,euro,2000,0.0019,2025
+NEEDS,crop yield losses,"wood CHP modern",kWh,euro,2000,0.0008,2025
+NEEDS,material damage,"wood CHP modern",kWh,euro,2000,0.0004,2025
+NEEDS,land use,"wood CHP modern",kWh,euro,2000,0.0105,2025
+NEEDS,"climate change, damage costs low","wood CHP modern",kWh,euro,2000,0.0010,2025
+NEEDS,"climate change, damage costs high","wood CHP modern",kWh,euro,2000,0.0107,2025
+NEEDS,"climate change, abatement costs low","wood CHP modern",kWh,euro,2000,0.0006,2025
+NEEDS,"climate change, abatement costs high","wood CHP modern",kWh,euro,2000,0.0009,2025
+NEEDS,health impacts,"wood CHP modern",kWh,euro,2000,0.0135,2050
+NEEDS,biodiversity,"wood CHP modern",kWh,euro,2000,0.0015,2050
+NEEDS,crop yield losses,"wood CHP modern",kWh,euro,2000,0.0006,2050
+NEEDS,material damage,"wood CHP modern",kWh,euro,2000,0.0003,2050
+NEEDS,land use,"wood CHP modern",kWh,euro,2000,0.0085,2050
+NEEDS,"climate change, damage costs low","wood CHP modern",kWh,euro,2000,0.0007,2050
+NEEDS,"climate change, damage costs high","wood CHP modern",kWh,euro,2000,0.0066,2050
+NEEDS,"climate change, abatement costs low","wood CHP modern",kWh,euro,2000,0.0010,2050
+NEEDS,"climate change, abatement costs high","wood CHP modern",kWh,euro,2000,0.0026,2050
+NEEDS,health impacts,"nuclear, pressure water reactor",kWh,euro,2000,0.0006,2009
+NEEDS,biodiversity,"nuclear, pressure water reactor",kWh,euro,2000,0.00004,2009
+NEEDS,crop yield losses,"nuclear, pressure water reactor",kWh,euro,2000,0.00001,2009
+NEEDS,material damage,"nuclear, pressure water reactor",kWh,euro,2000,0.00001,2009
+NEEDS,land use,"nuclear, pressure water reactor",kWh,euro,2000,0.0001,2009
+NEEDS,"climate change, damage costs low","nuclear, pressure water reactor",kWh,euro,2000,0.0001,2009
+NEEDS,"climate change, damage costs high","nuclear, pressure water reactor",kWh,euro,2000,0.0007,2009
+NEEDS,"climate change, abatement costs low","nuclear, pressure water reactor",kWh,euro,2000,0.0001,2009
+NEEDS,"climate change, abatement costs high","nuclear, pressure water reactor",kWh,euro,2000,0.0001,2009
+NEEDS,health impacts,"nuclear, pressure water reactor",kWh,euro,2000,0.0005,2025
+NEEDS,biodiversity,"nuclear, pressure water reactor",kWh,euro,2000,0.00003,2025
+NEEDS,crop yield losses,"nuclear, pressure water reactor",kWh,euro,2000,0.00001,2025
+NEEDS,material damage,"nuclear, pressure water reactor",kWh,euro,2000,0.00001,2025
+NEEDS,land use,"nuclear, pressure water reactor",kWh,euro,2000,0.00002,2025
+NEEDS,"climate change, damage costs low","nuclear, pressure water reactor",kWh,euro,2000,0.00004,2025
+NEEDS,"climate change, damage costs high","nuclear, pressure water reactor",kWh,euro,2000,0.0005,2025
+NEEDS,"climate change, abatement costs low","nuclear, pressure water reactor",kWh,euro,2000,0.0002,2025
+NEEDS,"climate change, abatement costs high","nuclear, pressure water reactor",kWh,euro,2000,0.0002,2025
+NEEDS,health impacts,"nuclear, pressure water reactor",kWh,euro,2000,0.0005,2050
+NEEDS,biodiversity,"nuclear, pressure water reactor",kWh,euro,2000,0.00003,2050
+NEEDS,crop yield losses,"nuclear, pressure water reactor",kWh,euro,2000,0.00001,2050
+NEEDS,material damage,"nuclear, pressure water reactor",kWh,euro,2000,0.00001,2050
+NEEDS,land use,"nuclear, pressure water reactor",kWh,euro,2000,0.00002,2050
+NEEDS,"climate change, damage costs low","nuclear, pressure water reactor",kWh,euro,2000,0.00002,2050
+NEEDS,"climate change, damage costs high","nuclear, pressure water reactor",kWh,euro,2000,0.0002,2050
+NEEDS,"climate change, abatement costs low","nuclear, pressure water reactor",kWh,euro,2000,0.0003,2050
+NEEDS,"climate change, abatement costs high","nuclear, pressure water reactor",kWh,euro,2000,0.0007,2050

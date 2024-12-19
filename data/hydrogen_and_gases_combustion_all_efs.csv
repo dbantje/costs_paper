@@ -1,0 +1,127 @@
+name,categories,amount,code,ecoinvent name
+Acetaldehyde,air::urban air close to ground,1.11111111111111e-09,5ad58fcc-e9ba-4155-a3c9-e4ffb3065a6f,"petroleum and gas production, onshore"
+Acetic acid,air::urban air close to ground,1.66666666666667e-07,b9b68c0c-053e-41de-ab72-8dfe1c3f5755,"petroleum and gas production, onshore"
+Benzene,air::urban air close to ground,4.44444444444444e-07,1bb6a502-3ff9-4a79-835c-5588b855f1f5,"petroleum and gas production, onshore"
+Benzo(a)pyrene,air::urban air close to ground,1.11111111111111e-11,2cbb504a-ce2f-40e9-9d38-e130e95a1242,"petroleum and gas production, onshore"
+Butane,air::urban air close to ground,7.77777777777778e-07,892f10da-7bf2-42b3-b171-221989661a05,"petroleum and gas production, onshore"
+"Carbon dioxide, fossil",air::urban air close to ground,0.061638635836213,f9749677-9c9f-4678-ab55-c607dfdc2cb9,"petroleum and gas production, onshore"
+"Carbon monoxide, fossil",air::urban air close to ground,1.55555555555556e-05,6edcc2df-88a3-48e1-83d8-ffc38d31c35b,"petroleum and gas production, onshore"
+Dinitrogen monoxide,air::urban air close to ground,1.11111111111111e-07,6dc1b46f-ee89-4495-95c4-b8a637bcd6cb,"petroleum and gas production, onshore"
+"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",air::urban air close to ground,3.3333333333333304e-17,237a5f15-8119-472a-8988-88b7ecb42405,"petroleum and gas production, onshore"
+Formaldehyde,air::urban air close to ground,1.11111111111111e-07,20664d0e-24e3-4daa-8c5c-2ade6e0c2723,"petroleum and gas production, onshore"
+Mercury II,air::urban air close to ground,3.3333333333333296e-11,a850e6de-a007-432f-be7f-ce6e2cf1f2ae,"petroleum and gas production, onshore"
+"Methane, fossil",air::urban air close to ground,2.22222222222222e-06,5f7aad3d-566c-4d0d-ad59-e765f971aa0f,"petroleum and gas production, onshore"
+Nitrogen oxides,air::urban air close to ground,2.55555555555556e-05,d068f3e2-b033-417b-a359-ca4f25da9731,"petroleum and gas production, onshore"
+"PAH, polycyclic aromatic hydrocarbons",air::urban air close to ground,1.11111111111111e-08,9d1efa17-070a-4602-a65f-daf5056b0647,"petroleum and gas production, onshore"
+"Particulate Matter, < 2.5 um",air::urban air close to ground,1.11111111111111e-07,230d8a0a-517c-43fe-8357-1818dd12997a,"petroleum and gas production, onshore"
+Pentane,air::urban air close to ground,1.33333333333333e-06,0b9698ec-8b52-4986-8f9f-ad30915aa00c,"petroleum and gas production, onshore"
+Propane,air::urban air close to ground,2.22222222222222e-07,98c66fdb-091d-46e9-a533-686f821e8f6a,"petroleum and gas production, onshore"
+Propionic acid,air::urban air close to ground,2.22222222222222e-08,f1c0cd31-8d5e-4bc9-91f6-79e76329234e,"petroleum and gas production, onshore"
+Sulfur dioxide,air::urban air close to ground,6.11111111111111e-07,8c52f40c-69b7-4538-8923-b371523c71f5,"petroleum and gas production, onshore"
+Toluene,air::urban air close to ground,2.22222222222222e-07,39946c56-cdf6-4a22-9ac9-1cd333b65533,"petroleum and gas production, onshore"
+"Carbon dioxide, non-fossil",air,0.0004126453637869,eba59fd6-f37e-41dc-9ca3-c7ea22d602c7,"petroleum and gas production, onshore"
+Acetaldehyde,air::urban air close to ground,1.11111111111111e-09,5ad58fcc-e9ba-4155-a3c9-e4ffb3065a6f,"petroleum and gas production, offshore"
+Acetic acid,air::urban air close to ground,1.66666666666667e-07,b9b68c0c-053e-41de-ab72-8dfe1c3f5755,"petroleum and gas production, offshore"
+Benzene,air::urban air close to ground,4.44444444444444e-07,1bb6a502-3ff9-4a79-835c-5588b855f1f5,"petroleum and gas production, offshore"
+Benzo(a)pyrene,air::urban air close to ground,1.11111111111111e-11,2cbb504a-ce2f-40e9-9d38-e130e95a1242,"petroleum and gas production, offshore"
+Butane,air::urban air close to ground,7.77777777777778e-07,892f10da-7bf2-42b3-b171-221989661a05,"petroleum and gas production, offshore"
+"Carbon dioxide, fossil",air::urban air close to ground,0.061638635836213,f9749677-9c9f-4678-ab55-c607dfdc2cb9,"petroleum and gas production, offshore"
+"Carbon monoxide, fossil",air::urban air close to ground,1.55555555555556e-05,6edcc2df-88a3-48e1-83d8-ffc38d31c35b,"petroleum and gas production, offshore"
+Dinitrogen monoxide,air::urban air close to ground,1.11111111111111e-07,6dc1b46f-ee89-4495-95c4-b8a637bcd6cb,"petroleum and gas production, offshore"
+"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",air::urban air close to ground,3.3333333333333304e-17,237a5f15-8119-472a-8988-88b7ecb42405,"petroleum and gas production, offshore"
+Formaldehyde,air::urban air close to ground,1.11111111111111e-07,20664d0e-24e3-4daa-8c5c-2ade6e0c2723,"petroleum and gas production, offshore"
+Mercury II,air::urban air close to ground,3.3333333333333296e-11,a850e6de-a007-432f-be7f-ce6e2cf1f2ae,"petroleum and gas production, offshore"
+"Methane, fossil",air::urban air close to ground,2.22222222222222e-06,5f7aad3d-566c-4d0d-ad59-e765f971aa0f,"petroleum and gas production, offshore"
+Nitrogen oxides,air::urban air close to ground,2.55555555555556e-05,d068f3e2-b033-417b-a359-ca4f25da9731,"petroleum and gas production, offshore"
+"PAH, polycyclic aromatic hydrocarbons",air::urban air close to ground,1.11111111111111e-08,9d1efa17-070a-4602-a65f-daf5056b0647,"petroleum and gas production, offshore"
+"Particulate Matter, < 2.5 um",air::urban air close to ground,1.11111111111111e-07,230d8a0a-517c-43fe-8357-1818dd12997a,"petroleum and gas production, offshore"
+Pentane,air::urban air close to ground,1.33333333333333e-06,0b9698ec-8b52-4986-8f9f-ad30915aa00c,"petroleum and gas production, offshore"
+Propane,air::urban air close to ground,2.22222222222222e-07,98c66fdb-091d-46e9-a533-686f821e8f6a,"petroleum and gas production, offshore"
+Propionic acid,air::urban air close to ground,2.22222222222222e-08,f1c0cd31-8d5e-4bc9-91f6-79e76329234e,"petroleum and gas production, offshore"
+Sulfur dioxide,air::urban air close to ground,6.11111111111111e-07,8c52f40c-69b7-4538-8923-b371523c71f5,"petroleum and gas production, offshore"
+Toluene,air::urban air close to ground,2.22222222222222e-07,39946c56-cdf6-4a22-9ac9-1cd333b65533,"petroleum and gas production, offshore"
+"Carbon dioxide, non-fossil",air,0.0004126453637869,eba59fd6-f37e-41dc-9ca3-c7ea22d602c7,"petroleum and gas production, offshore"
+Acetaldehyde,air::urban air close to ground,9.8e-10,5ad58fcc-e9ba-4155-a3c9-e4ffb3065a6f,"biomethane production, from biogas upgrading, using amine scrubbing"
+Acetic acid,air::urban air close to ground,1.47e-07,b9b68c0c-053e-41de-ab72-8dfe1c3f5755,"biomethane production, from biogas upgrading, using amine scrubbing"
+Benzene,air::urban air close to ground,3.92e-07,1bb6a502-3ff9-4a79-835c-5588b855f1f5,"biomethane production, from biogas upgrading, using amine scrubbing"
+Benzo(a)pyrene,air::urban air close to ground,9.8e-12,2cbb504a-ce2f-40e9-9d38-e130e95a1242,"biomethane production, from biogas upgrading, using amine scrubbing"
+Butane,air::urban air close to ground,6.86e-07,892f10da-7bf2-42b3-b171-221989661a05,"biomethane production, from biogas upgrading, using amine scrubbing"
+"Carbon dioxide, non-fossil",air::urban air close to ground,0.05488,73ed05cc-9727-4abf-9516-4b5c0fe54a16,"biomethane production, from biogas upgrading, using amine scrubbing"
+"Carbon monoxide, non-fossil",air::urban air close to ground,5.78e-06,9afa0173-ecbd-4f2c-9c5c-b3128a032812,"biomethane production, from biogas upgrading, using amine scrubbing"
+Dinitrogen monoxide,air::urban air close to ground,4.9e-07,6dc1b46f-ee89-4495-95c4-b8a637bcd6cb,"biomethane production, from biogas upgrading, using amine scrubbing"
+"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",air::urban air close to ground,2.94e-17,237a5f15-8119-472a-8988-88b7ecb42405,"biomethane production, from biogas upgrading, using amine scrubbing"
+Formaldehyde,air::urban air close to ground,9.8e-08,20664d0e-24e3-4daa-8c5c-2ade6e0c2723,"biomethane production, from biogas upgrading, using amine scrubbing"
+Mercury II,air::urban air close to ground,2.94e-11,a850e6de-a007-432f-be7f-ce6e2cf1f2ae,"biomethane production, from biogas upgrading, using amine scrubbing"
+"Methane, non-fossil",air::urban air close to ground,1.96e-06,baf58fc9-573c-419c-8c16-831ac03203b9,"biomethane production, from biogas upgrading, using amine scrubbing"
+Nitrogen oxides,air::urban air close to ground,9.53e-06,d068f3e2-b033-417b-a359-ca4f25da9731,"biomethane production, from biogas upgrading, using amine scrubbing"
+"PAH, polycyclic aromatic hydrocarbons",air::urban air close to ground,9.8e-09,9d1efa17-070a-4602-a65f-daf5056b0647,"biomethane production, from biogas upgrading, using amine scrubbing"
+"Particulate Matter, < 2.5 um",air::urban air close to ground,7.53e-08,230d8a0a-517c-43fe-8357-1818dd12997a,"biomethane production, from biogas upgrading, using amine scrubbing"
+Pentane,air::urban air close to ground,1.18e-06,0b9698ec-8b52-4986-8f9f-ad30915aa00c,"biomethane production, from biogas upgrading, using amine scrubbing"
+Propane,air::urban air close to ground,1.96e-07,98c66fdb-091d-46e9-a533-686f821e8f6a,"biomethane production, from biogas upgrading, using amine scrubbing"
+Propionic acid,air::urban air close to ground,1.96e-08,f1c0cd31-8d5e-4bc9-91f6-79e76329234e,"biomethane production, from biogas upgrading, using amine scrubbing"
+Sulfur dioxide,air::urban air close to ground,4.9e-07,8c52f40c-69b7-4538-8923-b371523c71f5,"biomethane production, from biogas upgrading, using amine scrubbing"
+Toluene,air::urban air close to ground,1.96e-07,39946c56-cdf6-4a22-9ac9-1cd333b65533,"biomethane production, from biogas upgrading, using amine scrubbing"
+Nitrate,water::surface water,1.27e-07,7ce56135-2ca5-4fba-ad52-d62a34bfeb35,"biomethane production, from biogas upgrading, using amine scrubbing"
+Nitrite,water::surface water,2.94e-09,0017271e-7df5-40bc-833a-36110c1fe5d5,"biomethane production, from biogas upgrading, using amine scrubbing"
+Sulfate,water::surface water,4.9e-08,37d35fd0-7f07-4b9b-92eb-de3c27050172,"biomethane production, from biogas upgrading, using amine scrubbing"
+Sulfite,water::surface water,4.9e-08,ad0ce2f1-e6ca-4ab4-a9e7-b9c0137a8e00,"biomethane production, from biogas upgrading, using amine scrubbing"
+"Carbon dioxide, non-fossil",air::non-urban air or from high stacks,0.0308049050077857,d6235194-e4e6-4548-bfa3-ac095131aef4,treatment of biowaste by anaerobic digestion
+"Carbon monoxide, non-fossil",air::non-urban air or from high stacks,1.7710109161386105e-05,b821ad93-ba6a-4d74-b6ae-ca12cd9563d7,treatment of biowaste by anaerobic digestion
+Dinitrogen monoxide,air::non-urban air or from high stacks,9.224015188260475e-07,afd6d670-bbb0-4625-9730-04088a5b035e,treatment of biowaste by anaerobic digestion
+"Methane, non-fossil",air::non-urban air or from high stacks,8.48609397320678e-06,57bdb443-d4a6-423d-8024-959b8261d02e,treatment of biowaste by anaerobic digestion
+"NMVOC, non-methane volatile organic compounds",air::non-urban air or from high stacks,7.37921215061812e-07,33b38ccb-593b-4b11-b965-10d747ba3556,treatment of biowaste by anaerobic digestion
+Nitrogen oxides,air::non-urban air or from high stacks,5.533815270859724e-06,77357947-ccc5-438e-9996-95e65e1e1bce,treatment of biowaste by anaerobic digestion
+Platinum,air::non-urban air or from high stacks,2.582724252712285e-12,d4238781-b3da-4efc-b20f-a5ec1d9d85b6,treatment of biowaste by anaerobic digestion
+Sulfur dioxide,air::non-urban air or from high stacks,9.223025451432872e-06,78c3efe4-421c-4d30-82e4-b97ac5124993,treatment of biowaste by anaerobic digestion
+"Carbon dioxide, non-fossil",air::non-urban air or from high stacks,0.0308049050077857,d6235194-e4e6-4548-bfa3-ac095131aef4,treatment of sewage sludge by anaerobic digestion
+"Carbon monoxide, non-fossil",air::non-urban air or from high stacks,1.7710109161386105e-05,b821ad93-ba6a-4d74-b6ae-ca12cd9563d7,treatment of sewage sludge by anaerobic digestion
+Dinitrogen monoxide,air::non-urban air or from high stacks,9.224015188260475e-07,afd6d670-bbb0-4625-9730-04088a5b035e,treatment of sewage sludge by anaerobic digestion
+"Methane, non-fossil",air::non-urban air or from high stacks,8.48609397320678e-06,57bdb443-d4a6-423d-8024-959b8261d02e,treatment of sewage sludge by anaerobic digestion
+"NMVOC, non-methane volatile organic compounds",air::non-urban air or from high stacks,7.37921215061812e-07,33b38ccb-593b-4b11-b965-10d747ba3556,treatment of sewage sludge by anaerobic digestion
+Nitrogen oxides,air::non-urban air or from high stacks,5.533815270859724e-06,77357947-ccc5-438e-9996-95e65e1e1bce,treatment of sewage sludge by anaerobic digestion
+Platinum,air::non-urban air or from high stacks,2.582724252712285e-12,d4238781-b3da-4efc-b20f-a5ec1d9d85b6,treatment of sewage sludge by anaerobic digestion
+Sulfur dioxide,air::non-urban air or from high stacks,9.223025451432872e-06,78c3efe4-421c-4d30-82e4-b97ac5124993,treatment of sewage sludge by anaerobic digestion
+"Carbon dioxide, non-fossil",air::non-urban air or from high stacks,0.0308049050077857,d6235194-e4e6-4548-bfa3-ac095131aef4,treatment of used vegetable cooking oil by anaerobic digestion
+"Carbon monoxide, non-fossil",air::non-urban air or from high stacks,1.7710109161386105e-05,b821ad93-ba6a-4d74-b6ae-ca12cd9563d7,treatment of used vegetable cooking oil by anaerobic digestion
+Dinitrogen monoxide,air::non-urban air or from high stacks,9.224015188260475e-07,afd6d670-bbb0-4625-9730-04088a5b035e,treatment of used vegetable cooking oil by anaerobic digestion
+"Methane, non-fossil",air::non-urban air or from high stacks,8.48609397320678e-06,57bdb443-d4a6-423d-8024-959b8261d02e,treatment of used vegetable cooking oil by anaerobic digestion
+"NMVOC, non-methane volatile organic compounds",air::non-urban air or from high stacks,7.37921215061812e-07,33b38ccb-593b-4b11-b965-10d747ba3556,treatment of used vegetable cooking oil by anaerobic digestion
+Nitrogen oxides,air::non-urban air or from high stacks,5.533815270859724e-06,77357947-ccc5-438e-9996-95e65e1e1bce,treatment of used vegetable cooking oil by anaerobic digestion
+Platinum,air::non-urban air or from high stacks,2.582724252712285e-12,d4238781-b3da-4efc-b20f-a5ec1d9d85b6,treatment of used vegetable cooking oil by anaerobic digestion
+Sulfur dioxide,air::non-urban air or from high stacks,9.223025451432872e-06,78c3efe4-421c-4d30-82e4-b97ac5124993,treatment of used vegetable cooking oil by anaerobic digestion
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 100 bar, from methane pyrolysis"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 100 bar, from methane pyrolysis"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 100 bar, from methane pyrolysis"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, at gasification plant"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, at gasification plant"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, at gasification plant"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, with CCS, at gasification plant"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, with CCS, at gasification plant"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, with CCS, at gasification plant"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 25 bar, from thermochemical water splitting, at solar tower"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 25 bar, from thermochemical water splitting, at solar tower"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 25 bar, from thermochemical water splitting, at solar tower"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, at coal gasification plant"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, at coal gasification plant"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, at coal gasification plant"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, with CCS, at coal gasification plant"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, with CCS, at coal gasification plant"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, with CCS, at coal gasification plant"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 30 bar, from PEM electrolysis, from grid electricity"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 30 bar, from PEM electrolysis, from grid electricity"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 30 bar, from PEM electrolysis, from grid electricity"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, gaseous, 30 bar, from PEM electrolysis, VRE inputs"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, gaseous, 30 bar, from PEM electrolysis, VRE inputs"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, gaseous, 30 bar, from PEM electrolysis, VRE inputs"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, steam methane reforming of natural gas, 25 bar"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, steam methane reforming of natural gas, 25 bar"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, steam methane reforming of natural gas, 25 bar"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, steam methane reforming of natural gas, with CCS (MDEA, 98% eff.), 25 bar"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, steam methane reforming of natural gas, with CCS (MDEA, 98% eff.), 25 bar"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, steam methane reforming of natural gas, with CCS (MDEA, 98% eff.), 25 bar"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, steam methane reforming, from biomethane, high and low temperature, 26 bar"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, steam methane reforming, from biomethane, high and low temperature, 26 bar"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, steam methane reforming, from biomethane, high and low temperature, 26 bar"
+Water,air::non-urban air or from high stacks,0.0001235555555555,09872080-d143-4fb1-a3a5-647b077107ff,"hydrogen production, steam methane reforming, from biomethane, high and low temperature, with CCS (MDEA, 98% eff.), 26 bar"
+Nitrogen oxides,air::non-urban air or from high stacks,4.285714285714278e-05,77357947-ccc5-438e-9996-95e65e1e1bce,"hydrogen production, steam methane reforming, from biomethane, high and low temperature, with CCS (MDEA, 98% eff.), 26 bar"
+Hydrogen,air,6.873475806739854e-05,b301fa9a-ba60-4eac-8ccc-6ccbdf099b35,"hydrogen production, steam methane reforming, from biomethane, high and low temperature, with CCS (MDEA, 98% eff.), 26 bar"

@@ -1,0 +1,162 @@
+Aluminium, 24% in bauxite, 11% in crude ore: Aluminium
+Chromium, 25.5% in chromite, 11.6% in crude ore: Chromium
+Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore: Copper
+Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore: Copper
+Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore: Copper
+Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore: Copper
+Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore: Copper
+Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore: Copper
+Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore: Copper
+Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore: Copper
+Copper, Cu 0.38%, in mixed ore: Copper
+Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore: Copper
+Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore: Copper
+Gold, Au 1.1E-4%, Ag 4.2E-3%, in ore: Gold
+Gold, Au 1.3E-4%, Ag 4.6E-5%, in ore: Gold
+Gold, Au 1.4E-4%, in ore: Gold
+Gold, Au 2.1E-4%, Ag 2.1E-4%, in ore: Gold
+Gold, Au 4.3E-4%, in ore: Gold
+Gold, Au 4.9E-5%, in ore: Gold
+Gold, Au 6.7E-4%, in ore: Gold
+Gold, Au 7.1E-4%, in ore: Gold
+Gold, Au 9.7E-4%, in mixed ore: Gold
+Iron, 46% in ore, 25% in crude ore: Iron
+Iron, 72% in magnetite, 14% in crude ore: Iron
+Lead, 5.0% in sulfide, Pb 3.0%, Zn, Ag, Cd, In: Lead
+Lead, Pb 0.014%, in mixed ore: Lead
+Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore: Manganese
+Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore: Molybdenum
+Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore: Molybdenum
+Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore: Molybdenum
+Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore: Molybdenum
+Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore: Molybdenum
+Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore: Molybdenum
+Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore: Molybdenum
+Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore: Nickel
+Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore: Nickel
+Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore: Nickel
+Nickel, 1.98% in silicates, 1.04% in crude ore: Nickel
+Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore: Palladium
+Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore: Palladium
+Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore: Platinum
+Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore: Platinum
+Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore: Rhodium 
+Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore: Rhodium
+Silver, 0.007% in sulfide, Ag 0.004%, Pb, Zn, Cd, In: Silver
+Silver, 0.01% in crude ore: Silver
+Silver, 3.2ppm in sulfide, Ag 1.2ppm, Cu and Te, in crude ore: Silver
+Silver, Ag 2.1E-4%, Au 2.1E-4%, in ore: Silver
+Silver, Ag 4.2E-3%, Au 1.1E-4%, in ore: Silver
+Silver, Ag 4.6E-5%, Au 1.3E-4%, in ore: Silver
+Silver, Ag 9.7E-4%, in mixed ore: Silver
+Tin, 79% in cassiterite, 0.1% in crude ore: Tin
+Zinc, 9.0% in sulfide, Zn 5.3%, Pb, Ag, Cd, In: Zinc
+Zinc, Zn 0.63%, in mixed ore: Zinc
+Cobalt, Co 5.0E-2%, in mixed ore: Cobalt
+Copper, Cu 0.2%, in mixed ore: Copper
+Copper, Cu 6.8E-1%, in mixed ore: Copper
+Gold, Au 1.0E-7%, in mixed ore: Gold
+Gold, Au 1.8E-4%, in mixed ore: Gold
+Gold, Au 5.4E-4%, Ag 1.5E-5%, in ore: Gold
+Gold, Au 6.8E-4%, Ag 1.5E-4%, in ore: Gold
+Gold, Au 9.7E-5%, Ag 7.6E-5%, in ore: Gold
+Lead, Pb 3.6E-1%, in mixed ore: Lead
+Nickel, Ni 2.5E+0%, in mixed ore: Nickel
+Palladium, Pd 1.6E-6%, in mixed ore: Palladium
+Platinum, Pt 4.7E-7%, in mixed ore: Platinum
+Rhodium, Rh 1.6E-7%, in mixed ore: Rhodium
+Silver, Ag 1.5E-4%, Au 6.8E-4%, in ore: Silver
+Silver, Ag 1.5E-5%, Au 5.4E-4%, in ore: Silver
+Silver, Ag 1.8E-6%, in mixed ore: Silver
+Silver, Ag 5.4E-3%, in mixed ore: Silver
+Silver, Ag 7.6E-5%, Au 9.7E-5%, in ore: Silver
+Zinc, Zn 3.1%, in mixed ore: Zinc
+Cadmium, 0.30% in sulfide, Cd 0.18%, Pb, Zn, Ag, In: Cadmium
+Cerium, 24% in bastnasite, 2.4% in crude ore: Cerium
+Lanthanum, 7.2% in bastnasite, 0.72% in crude ore: Lanthanum
+Tantalum, 81.9% in tantalite, 1.6E-4% in crude ore: Tantalum
+1,2-Dichlorobenzene: o-Dichlorobenzene
+1,3-Dioxolan-2-one: Ethylene carbonate
+2,2,4-Trimethyl pentane: 2,2,4-Trimethylpentane
+2-Amino-3-chloro-1,4-naphthoquinone: Quinoclamine
+2-chlorobenzaldehyde: o-Chlorobenzaldehyde
+2-Methyl-1-propanol: Isobutanol
+2-Methylpentane: Isohexane
+2-Propanol: Isopropanol
+Acetic acid, trifluoro-: Trifluoroacetic acid
+AOX, Adsorbable Organic Halogen: AOX, Adsorbable Organic Halides
+Argon-40: Argon
+Benzene, chloro-: Monochlorobenzene
+Benzene, ethyl-: Ethyl benzene
+Benzene, hexachloro-: Hexachlorobenzene
+Benzene, pentachloro-: Pentachlorobenzene
+Bicyclorpyrone: Bicyclopyrone
+Butylcarbamate, iodopropynyl: Iodopropynyl butylcarbamate
+Caesium: Caesium I
+Calcium: Calcium II
+Chloroethylene: Vinyl chloride
+Chlorosilane, trimethyl-: Trimethylchlorosilane
+Chlortoluron: Chlorotoluron
+Coal, hard, unspecified: Coal, hard
+Cyhalothrin, gamma-: Gamma-cyhalothrin
+Dimethenamid: Dimethenamide
+Dipropylamine: Dipropyl amine
+Elemental carbon: Carbon
+Ethane, 1,1,1,2-tetrafluoro-, HFC-134a: 1,1,1,2-Tetrafluoroethane
+Ethane, 1,1,1-trichloro-, HCFC-140: 1,1,1-Trichloroethane
+Ethane, 1,1,1-trifluoro-, HFC-143a: 1,1,1-Trifluoroethane
+Ethane, 1,1,2-trichloro-: 1,1,2-Trichloroethane
+Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113: 1,1,2-Trichloro-1,2,2-trifluoroethane
+Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b: 1,1-Dichloro-1-fluoroethane
+Ethane, 1,1-difluoro-, HFC-152a: 1,1-Difluoroethane
+Ethane, 1,2-dichloro-: Ethylene dichloride
+Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114: 1,2-Dichloro-1,1,2,2-tetrafluoroethane
+Ethane, 1-chloro-1,1-difluoro-, HCFC-142b: 1-Chloro-1,1-difluoroethane
+Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123: 2,2-Dichloro-1,1,1-trifluoroethane
+Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124: 2-Chloro-1,1,1,2-tetrafluoroethane
+Ethane, chloropentafluoro-, CFC-115: Monochloropentafluoroethane
+Ethane, hexachloro-: Hexachloroethane
+Ethane, hexafluoro-, HFC-116: Hexafluoroethane
+Ethane, pentafluoro-, HFC-125: Pentafluoroethane
+Ethyne: Acetylene
+Fosetyl-aluminium: Fosetyl-Al
+Hexamethyldisilizane: Hexamethyldisilazane
+Hydrogen-3, Tritium: Tritium
+Manganese-55: Manganese
+Methane, chlorodifluoro-, HCFC-22: Chlorodifluoromethane
+Methane, chloro-fluoro-, HCFC-31: Chloro-fluoromethane
+Methane, chlorotrifluoro-, CFC-13: Chlorotrifluoromethane
+Methane, dichloro-, HCC-30: Dichloromethane
+Methane, dichlorodifluoro-, CFC-12: Dichlorodifluoromethane
+Methane, dichlorofluoro-, HCFC-21: Dichlorofluoromethane
+Methane, difluoro-, HFC-32: Difluoromethane
+Methane, monochloro-, R-40: Methylchloride
+Methane, tetrachloro-, R-10: Carbon tetrachloride
+Methane, tetrafluoro-, R-14: Tetrafluoromethane
+Methane, trichlorofluoro-, CFC-11: Trichlorofluoromethane
+Methane, trifluoro-, HFC-23: Trifluoromethane
+Methyl borate: Trimethyl borate
+Monophenyltin: Phenyltin
+Phenol, 2,4-dichloro: 2,4-Dichlorophenol
+Phenol, pentachloro-: Pentachlorophenol
+Phthalate, butyl-benzyl-: Butyl benzyl phthalate
+Phthalate, dibutyl-: Dibutyl phthalate
+Phthalate, dimethyl-: Dimethyl phthalate
+Phthalate, dioctyl-: Dioctyl phthalate
+Prohexadione-calcium: Prohexadione calcium
+Propene: Propylene
+Propylamine: Propyl amine
+Sodium: Sodium I
+Sodium sulphate, various forms: Sodium sulfate
+Strontium: Strontium II
+t-Butylamine: t-Butyl amine
+Toluene, 2-chloro: o-Chlorotoluene
+Xylene: Xylenes, unspecified
+2,4-D amines: 2,4-D dimethylamine salt
+Chromium IV: Chromium VI
+Cyclohexane (for all cycloalkanes): Hydrocarbons, aliphatic, alkanes, cyclic
+Fresh water (obsolete): Water
+Pyrethrins: Pyrethrum
+Salt water (obsolete):
+Sodium: Sodium I
+Metiram:

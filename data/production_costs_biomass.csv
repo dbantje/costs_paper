@@ -1,0 +1,7 @@
+# data from domingues et al 2022
+type,cost,currency,year,unit
+managed forests,1.74,dollar,2018,GJ
+grass energy crops,2.37,dollar,2018,GJ
+wood energy crops,2.72,dollar,2018,GJ
+forest residues,3.53,dollar,2018,GJ
+agricultural residues,3.7,dollar,2018,GJ

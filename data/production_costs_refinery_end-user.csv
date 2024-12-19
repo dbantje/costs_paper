@@ -1,0 +1,5 @@
+product name,cost,currency,unit,year,source
+kerosene-type jet fuel,1.970,dollar,gal,2019,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm
+motor gasoline,2.245,dollar,gal,2019,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm
+no. 2 diesel fuel,2.115,dollar,gal,2019,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm
+residual fuel oil,1.584,dollar,gal,2019,https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_a.htm

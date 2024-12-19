@@ -1,0 +1,340 @@
+source name,short name,index,unit,currency,year,cost
+Sovacool et al,hard coal power plant,0,MJ,euro,2022,0.04631702303122752
+Sovacool et al,natural gas power plant,1,MJ,euro,2022,0.007149577815411163
+Sovacool et al,hard coal power plant,2,MJ,euro,2022,0.01718426752221498
+Sovacool et al,hard coal power plant,3,MJ,euro,2022,0.026910709302113662
+Sovacool et al,hard coal power plant,4,MJ,euro,2022,0.03832918826351319
+Sovacool et al,hard coal power plant,5,MJ,euro,2022,0.023258304009935567
+Sovacool et al,oil power plant,6,MJ,euro,2022,0.021337852896987034
+Sovacool et al,oil power plant,7,MJ,euro,2022,0.015070884253577624
+Sovacool et al,oil power plant,8,MJ,euro,2022,0.015685162496402963
+Sovacool et al,oil power plant,9,MJ,euro,2022,0.013609478614509398
+Sovacool et al,oil power plant,10,MJ,euro,2022,0.014840252711145006
+Sovacool et al,oil power plant,11,MJ,euro,2022,0.01706895175099867
+Sovacool et al,oil power plant,12,MJ,euro,2022,0.02322060462319177
+Sovacool et al,natural gas power plant,13,MJ,euro,2022,0.009112163537073345
+Sovacool et al,natural gas power plant,14,MJ,euro,2022,0.016224041965740715
+Sovacool et al,natural gas power plant,15,MJ,euro,2022,0.006457683188113308
+Sovacool et al,hard coal power plant,16,MJ,euro,2022,0.3292287444335473
+Sovacool et al,"nuclear, pressure water reactor",17,MJ,euro,2022,0.0837813430106184
+Sovacool et al,"wind, onshore, medium",18,MJ,euro,2022,0.04956138790217868
+Sovacool et al,PV commercial,19,MJ,euro,2022,0.1652031479332723
+Sovacool et al,hard coal power plant,20,MJ,euro,2022,4.2134608713651384e-05
+Sovacool et al,hard coal power plant,21,MJ,euro,2022,0.0015678509663448175
+Sovacool et al,oil power plant,22,MJ,euro,2022,0.0018805341152198093
+Sovacool et al,natural gas power plant,23,MJ,euro,2022,0.0006275839087349126
+Sovacool et al,natural gas power plant,24,MJ,euro,2022,0.00031268314887499183
+Sovacool et al,hard coal power plant,25,MJ,euro,2022,0.017031252364254876
+Sovacool et al,hard coal power plant,26,MJ,euro,2022,0.0005588379682021132
+Sovacool et al,natural gas power plant,27,MJ,euro,2022,0.00018849693371896675
+Sovacool et al,oil power plant,28,MJ,euro,2022,0.007932394493091105
+Sovacool et al,wood CHP modern,29,MJ,euro,2022,-0.0017119956803652039
+Sovacool et al,hard coal power plant,30,MJ,euro,2022,0.005397665137317236
+Sovacool et al,"CSP, tower",31,MJ,euro,2022,0.0005965373549459065
+Sovacool et al,"CSP, tower",32,MJ,euro,2022,0.0006830241833581382
+Sovacool et al,hard coal power plant,33,MJ,euro,2022,0.011529359510645978
+Sovacool et al,hard coal power plant,34,MJ,euro,2022,0.03336173965727219
+Sovacool et al,hard coal power plant,35,MJ,euro,2022,0.012879884600467751
+Sovacool et al,hard coal power plant,36,MJ,euro,2022,0.021912214142083653
+Sovacool et al,hard coal power plant,37,MJ,euro,2022,0.008528931848037012
+Sovacool et al,natural gas power plant,38,MJ,euro,2022,0.0006431071856294159
+Sovacool et al,natural gas power plant,39,MJ,euro,2022,0.003991699772872237
+Sovacool et al,oil power plant,40,MJ,euro,2022,0.011371909130716017
+Sovacool et al,oil power plant,41,MJ,euro,2022,0.00753765973777374
+Sovacool et al,"nuclear, pressure water reactor",42,MJ,euro,2022,0.0008205160644237376
+Sovacool et al,"nuclear, pressure water reactor",43,MJ,euro,2022,5.7657885608154526e-05
+Sovacool et al,"nuclear, pressure water reactor",44,MJ,euro,2022,0.0008404745632880987
+Sovacool et al,"nuclear, pressure water reactor",45,MJ,euro,2022,5.7657885608154526e-05
+Sovacool et al,"hydro, reservoir, alpine region",46,MJ,euro,2022,0.00013083904811081218
+Sovacool et al,"hydro, reservoir, alpine region",47,MJ,euro,2022,4.2134608713651384e-05
+Sovacool et al,"hydro, reservoir, alpine region",48,MJ,euro,2022,0.00010201010530673494
+Sovacool et al,"hydro, reservoir, alpine region",49,MJ,euro,2022,2.8828942804077263e-05
+Sovacool et al,"wind, onshore, medium",50,MJ,euro,2022,0.0006519776295691319
+Sovacool et al,"wind, onshore, medium",51,MJ,euro,2022,8.64868284122318e-05
+Sovacool et al,PV commercial,52,MJ,euro,2022,0.0010533652178412846
+Sovacool et al,PV commercial,53,MJ,euro,2022,0.00036368820152835935
+Sovacool et al,wood CHP modern,54,MJ,euro,2022,0.0014347943072490763
+Sovacool et al,wood CHP modern,55,MJ,euro,2022,0.0007318116250265767
+Sovacool et al,hard coal power plant,58,MJ,euro,2022,0.0007362468469964348
+Sovacool et al,hard coal power plant,59,MJ,euro,2022,0.0016587730167269073
+Sovacool et al,hard coal power plant,60,MJ,euro,2022,0.0014214886413395022
+Sovacool et al,oil power plant,61,MJ,euro,2022,0.0014747113049777987
+Sovacool et al,oil power plant,62,MJ,euro,2022,0.0013438722568669863
+Sovacool et al,natural gas power plant,63,MJ,euro,2022,0.00023728437538740517
+Sovacool et al,"nuclear, pressure water reactor",65,MJ,euro,2022,0.11985743851344371
+Sovacool et al,"wind, onshore, medium",66,MJ,euro,2022,0.000762858178815583
+Sovacool et al,PV commercial,67,MJ,euro,2022,0.002780884175100992
+Sovacool et al,hard coal power plant,68,MJ,euro,2022,0.0662755218955887
+Sovacool et al,hard coal power plant,69,MJ,euro,2022,0.019874229646933878
+Sovacool et al,natural gas power plant,70,MJ,euro,2022,0.005060588267608025
+Sovacool et al,natural gas power plant,71,MJ,euro,2022,0.006275839087349128
+Sovacool et al,"nuclear, pressure water reactor",72,MJ,euro,2022,0.005810140780514034
+Sovacool et al,"nuclear, pressure water reactor",73,MJ,euro,2022,1.1088054924645103e-05
+Sovacool et al,natural gas power plant,74,MJ,euro,2022,0.010138917423095483
+Sovacool et al,wood CHP modern,75,MJ,euro,2022,0.00645103035515852
+Sovacool et al,"hydro, reservoir, alpine region",76,MJ,euro,2022,-0.0011331992132987295
+Sovacool et al,hard coal power plant,77,MJ,euro,2022,0.02369960859593644
+Sovacool et al,natural gas power plant,78,MJ,euro,2022,0.00855776079084109
+Sovacool et al,"nuclear, pressure water reactor",79,MJ,euro,2022,0.0011331992132987295
+Sovacool et al,hard coal power plant,80,MJ,euro,2022,0.020408673894301774
+Sovacool et al,lignite power plant,81,MJ,euro,2022,0.02422740001034955
+Sovacool et al,natural gas power plant,82,MJ,euro,2022,0.00869081744993683
+Sovacool et al,oil power plant,83,MJ,euro,2022,0.026859704249460298
+Sovacool et al,"nuclear, pressure water reactor",84,MJ,euro,2022,0.001501322636796947
+Sovacool et al,wood CHP modern,85,MJ,euro,2022,0.007768291280206358
+Sovacool et al,"wind, onshore, medium",86,MJ,euro,2022,0.00021954348750797303
+Sovacool et al,PV commercial,87,MJ,euro,2022,0.0012108155977712453
+Sovacool et al,PV commercial,88,MJ,euro,2022,0.001079976549660433
+Sovacool et al,natural gas power plant,89,MJ,euro,2022,0.01145396073715839
+Sovacool et al,wood CHP modern,90,MJ,euro,2022,0.002397237474708271
+Sovacool et al,"wind, onshore, medium",91,MJ,euro,2022,0.0005521851352473261
+Sovacool et al,"wind, onshore, medium",92,MJ,euro,2022,0.00040804042122693975
+Sovacool et al,hard coal power plant,93,MJ,euro,2022,0.02699054329757111
+Sovacool et al,natural gas power plant,94,MJ,euro,2022,0.00855776079084109
+Sovacool et al,wood CHP modern,95,MJ,euro,2022,0.018960573921143125
+Sovacool et al,"wind, onshore, medium",96,MJ,euro,2022,0.0005787964670664743
+Sovacool et al,hard coal power plant,98,MJ,euro,2022,0.017379417288888734
+Sovacool et al,wood CHP modern,100,MJ,euro,2022,0.0032909347016346663
+Sovacool et al,hard coal power plant,101,MJ,euro,2022,0.033310734604618815
+Sovacool et al,natural gas power plant,102,MJ,euro,2022,0.011059225981841024
+Sovacool et al,oil power plant,103,MJ,euro,2022,0.0343640998224601
+Sovacool et al,"nuclear, pressure water reactor",104,MJ,euro,2022,0.000658630462523919
+Sovacool et al,wood CHP modern,105,MJ,euro,2022,0.0018029177307472936
+Sovacool et al,"hydro, reservoir, alpine region",106,MJ,euro,2022,0.0015789390212694624
+Sovacool et al,lignite power plant,108,MJ,euro,2022,0.03133706082803198
+Sovacool et al,natural gas power plant,109,MJ,euro,2022,0.004621501292592079
+Sovacool et al,oil power plant,110,MJ,euro,2022,0.0177741520442061
+Sovacool et al,wood CHP modern,111,MJ,euro,2022,0.0014480999731586505
+Sovacool et al,wood CHP modern,112,MJ,euro,2022,0.0005787964670664743
+Sovacool et al,wood CHP modern,113,MJ,euro,2022,0.0007251587920717897
+Sovacool et al,"hydro, reservoir, alpine region",114,MJ,euro,2022,0.0013438722568669863
+Sovacool et al,"wind, onshore, medium",115,MJ,euro,2022,0.0007251587920717897
+Sovacool et al,hard coal power plant,116,MJ,euro,2022,0.0285716999298255
+Sovacool et al,natural gas power plant,118,MJ,euro,2022,0.010269756471206294
+Sovacool et al,oil power plant,119,MJ,euro,2022,0.019880882479888666
+Sovacool et al,"hydro, reservoir, alpine region",120,MJ,euro,2022,0.0008959148379113242
+Sovacool et al,hard coal power plant,122,MJ,euro,2022,0.024622134765666916
+Sovacool et al,natural gas power plant,123,MJ,euro,2022,0.009480286960571562
+Sovacool et al,"nuclear, pressure water reactor",124,MJ,euro,2022,0.001922668723933461
+Sovacool et al,wood CHP modern,125,MJ,euro,2022,0.0014347943072490763
+Sovacool et al,wood CHP modern,126,MJ,euro,2022,0.0018694460602951641
+Sovacool et al,natural gas power plant,127,MJ,euro,2022,0.007899130328317171
+Sovacool et al,wood CHP modern,128,MJ,euro,2022,0.0006320191307047707
+Sovacool et al,"hydro, reservoir, alpine region",129,MJ,euro,2022,0.0006054077988856227
+Sovacool et al,"wind, onshore, medium",130,MJ,euro,2022,0.0003947347553173656
+Sovacool et al,hard coal power plant,131,MJ,euro,2022,0.024622134765666916
+Sovacool et al,natural gas power plant,132,MJ,euro,2022,0.008426921742730277
+Sovacool et al,wood CHP modern,133,MJ,euro,2022,0.005925456551730343
+Sovacool et al,wood CHP modern,134,MJ,euro,2022,0.005266826089206424
+Sovacool et al,"hydro, reservoir, alpine region",135,MJ,euro,2022,9.313966136701887e-05
+Sovacool et al,hard coal power plant,136,MJ,euro,2022,0.01672078682636481
+Sovacool et al,wood CHP modern,137,MJ,euro,2022,0.0008959148379113242
+Sovacool et al,"hydro, reservoir, alpine region",138,MJ,euro,2022,0.0009535727235194788
+Sovacool et al,hard coal power plant,139,MJ,euro,2022,0.02369960859593644
+Sovacool et al,natural gas power plant,140,MJ,euro,2022,0.008584372122660238
+Sovacool et al,oil power plant,141,MJ,euro,2022,0.016853843485460554
+Sovacool et al,oil power plant,142,MJ,euro,2022,0.018563621554840832
+Sovacool et al,wood CHP modern,143,MJ,euro,2022,0.0016188560189981849
+Sovacool et al,"wind, onshore, medium",144,MJ,euro,2022,0.00047456875077481035
+Sovacool et al,hard coal power plant,145,MJ,euro,2022,0.0022242638178838073
+Sovacool et al,wood CHP modern,146,MJ,euro,2022,0.0009646607784441238
+Sovacool et al,"wind, onshore, medium",147,MJ,euro,2022,0.09335920485452683
+Sovacool et al,natural gas power plant,148,MJ,euro,2022,0.03009741628745666
+Sovacool et al,PV commercial,149,MJ,euro,2022,0.0004102580322118688
+Sovacool et al,hard coal power plant,150,MJ,euro,2022,0.007894695106347313
+Sovacool et al,natural gas power plant,151,MJ,euro,2022,0.001414835808384715
+Sovacool et al,oil power plant,152,MJ,euro,2022,0.0014414471402038635
+Sovacool et al,hard coal power plant,153,MJ,euro,2022,0.008697470282891619
+Sovacool et al,oil power plant,154,MJ,euro,2022,0.005741394839981234
+Sovacool et al,natural gas power plant,155,MJ,euro,2022,0.003370768697092111
+Sovacool et al,"hydro, reservoir, alpine region",156,MJ,euro,2022,1.7740887879432163e-05
+Sovacool et al,"wind, onshore, medium",157,MJ,euro,2022,5.7657885608154526e-05
+Sovacool et al,PV commercial,158,MJ,euro,2022,0.0007229411810868607
+Sovacool et al,wood CHP modern,159,MJ,euro,2022,0.0008493450072278149
+Sovacool et al,hard coal power plant,160,MJ,euro,2022,0.013880027154670741
+Sovacool et al,natural gas power plant,161,MJ,euro,2022,0.0028008426739653527
+Sovacool et al,geothermal,162,MJ,euro,2022,0.00025502526326683735
+Sovacool et al,wood CHP modern,163,MJ,euro,2022,0.0034372970266399816
+Sovacool et al,"nuclear, pressure water reactor",164,MJ,euro,2022,0.009174256644651357
+Sovacool et al,natural gas power plant,165,MJ,euro,2022,0.026626855096042748
+Sovacool et al,oil power plant,166,MJ,euro,2022,0.012680299611824139
+Sovacool et al,natural gas power plant,167,MJ,euro,2022,0.004714640953959097
+Sovacool et al,PV commercial,168,MJ,euro,2022,0.0007273764030567187
+Sovacool et al,"wind, onshore, medium",169,MJ,euro,2022,0.00019293215568882475
+Sovacool et al,hard coal power plant,170,MJ,euro,2022,0.25481680783425403
+Sovacool et al,hard coal power plant,171,MJ,euro,2022,0.02297223219287972
+Sovacool et al,natural gas power plant,172,MJ,euro,2022,0.004621501292592079
+Sovacool et al,hard coal power plant,173,MJ,euro,2022,0.018519269335142252
+Sovacool et al,hard coal power plant,174,MJ,euro,2022,0.01959924588480268
+Sovacool et al,natural gas power plant,175,MJ,euro,2022,0.0066106983460734094
+Sovacool et al,oil power plant,176,MJ,euro,2022,0.01460518594674253
+Sovacool et al,hard coal power plant,177,MJ,euro,2022,0.02614341590132822
+Sovacool et al,oil power plant,178,MJ,euro,2022,0.022364606783009174
+Sovacool et al,hard coal power plant,179,MJ,euro,2022,0.024118737072088024
+Sovacool et al,wood CHP modern,180,MJ,euro,2022,-0.025883955416091526
+Sovacool et al,"CSP, tower",181,MJ,euro,2022,0.0001951497666737538
+Sovacool et al,"wind, onshore, medium",182,MJ,euro,2022,0.0009402670576099046
+Sovacool et al,"wind, onshore, medium",183,MJ,euro,2022,2.2176109849290206e-05
+Sovacool et al,wood CHP modern,184,MJ,euro,2022,1.5523276894503146e-05
+Sovacool et al,"hydro, reservoir, alpine region",185,MJ,euro,2022,2.8828942804077263e-05
+Sovacool et al,geothermal,186,MJ,euro,2022,0.00015745037992996044
+Sovacool et al,PV commercial,187,MJ,euro,2022,0.00018849693371896675
+Sovacool et al,"wind, onshore, medium",188,MJ,euro,2022,1.5523276894503146e-05
+Sovacool et al,"nuclear, pressure water reactor",189,MJ,euro,2022,0.0006320191307047707
+Sovacool et al,hard coal power plant,190,MJ,euro,2022,0.008010010877563622
+Sovacool et al,hard coal power plant,191,MJ,euro,2022,0.032501306595119725
+Sovacool et al,oil power plant,192,MJ,euro,2022,0.041218735376875704
+Sovacool et al,natural gas power plant,193,MJ,euro,2022,0.026875227526354798
+Sovacool et al,"wind, onshore, medium",196,MJ,euro,2022,0.0068280242225964545
+Sovacool et al,PV commercial,197,MJ,euro,2022,0.0031734013194334282
+Sovacool et al,"CSP, tower",198,MJ,euro,2022,0.01766105388397472
+Sovacool et al,wood CHP modern,199,MJ,euro,2022,0.00416689104068163
+Sovacool et al,hard coal power plant,200,MJ,euro,2022,0.0706996558105221
+Sovacool et al,natural gas power plant,201,MJ,euro,2022,0.010034689706803818
+Sovacool et al,oil power plant,202,MJ,euro,2022,0.060356718176813144
+Sovacool et al,"nuclear, pressure water reactor",203,MJ,euro,2022,0.008362611024167335
+Sovacool et al,wood CHP modern,204,MJ,euro,2022,0.15197953363014055
+Sovacool et al,"wind, onshore, medium",205,MJ,euro,2022,0.00036368820152835935
+Sovacool et al,hard coal power plant,206,MJ,euro,2022,0.003253235314890873
+Sovacool et al,oil power plant,207,MJ,euro,2022,0.002630086628125818
+Sovacool et al,natural gas power plant,208,MJ,euro,2022,0.00014857993599024438
+Sovacool et al,hard coal power plant,210,MJ,euro,2022,0.0015168459136914501
+Sovacool et al,"nuclear, pressure water reactor",211,MJ,euro,2022,4.435221969858041e-06
+Sovacool et al,oil power plant,212,MJ,euro,2022,0.045268093035356095
+Sovacool et al,natural gas power plant,213,MJ,euro,2022,0.0034816492463385627
+Sovacool et al,"nuclear, pressure water reactor",214,MJ,euro,2022,0.001993632275451189
+Sovacool et al,oil power plant,215,MJ,euro,2022,0.013611696225494326
+Sovacool et al,hard coal power plant,216,MJ,euro,2022,0.017441510396466745
+Sovacool et al,natural gas power plant,217,MJ,euro,2022,0.010684449725388019
+Sovacool et al,"hydro, reservoir, alpine region",218,MJ,euro,2022,0.0005100505265336747
+Sovacool et al,"wind, onshore, medium",219,MJ,euro,2022,0.00048787441668438455
+Sovacool et al,PV commercial,220,MJ,euro,2022,0.002849630115633791
+Sovacool et al,"CSP, tower",221,MJ,euro,2022,0.000432434142061159
+Sovacool et al,"hydro, reservoir, alpine region",223,MJ,euro,2022,0.041768702901138106
+Sovacool et al,hard coal power plant,224,MJ,euro,2022,0.017235272574868347
+Sovacool et al,natural gas power plant,225,MJ,euro,2022,0.003814290894077915
+Sovacool et al,oil power plant,226,MJ,euro,2022,0.00749330751807516
+Sovacool et al,hard coal power plant,227,MJ,euro,2022,0.0077638560582365
+Sovacool et al,"nuclear, pressure water reactor",228,MJ,euro,2022,7.096355151772865e-05
+Sovacool et al,oil power plant,229,MJ,euro,2022,0.003129049099734848
+Sovacool et al,hard coal power plant,230,MJ,euro,2022,0.017962648977925065
+Sovacool et al,wood CHP modern,231,MJ,euro,2022,2.8828942804077263e-05
+Sovacool et al,hard coal power plant,232,MJ,euro,2022,0.05073672172419106
+Sovacool et al,oil power plant,233,MJ,euro,2022,0.041861842562505115
+Sovacool et al,natural gas power plant,234,MJ,euro,2022,0.010850770549257698
+Sovacool et al,"hydro, reservoir, alpine region",250,MJ,euro,2022,0.0010444947739015687
+Sovacool et al,hard coal power plant,252,MJ,euro,2022,0.03219084105722966
+Sovacool et al,wood CHP modern,253,MJ,euro,2022,0.2308799148629302
+Sovacool et al,hard coal power plant,254,MJ,euro,2022,0.35012751035551837
+Sovacool et al,"hydro, reservoir, alpine region",259,MJ,euro,2022,0.0470488346562541
+Sovacool et al,hard coal power plant,266,MJ,euro,2022,0.006377849192655862
+Sovacool et al,wood CHP modern,267,MJ,euro,2022,0.0022508751497029556
+Sovacool et al,"nuclear, pressure water reactor",271,MJ,euro,2022,0.0007451172909361509
+Sovacool et al,oil power plant,272,MJ,euro,2022,0.008347087747272833
+Sovacool et al,oil power plant,273,MJ,euro,2022,0.008584372122660238
+Sovacool et al,hard coal power plant,274,MJ,euro,2022,0.010917298878805569
+Sovacool et al,hard coal power plant,275,MJ,euro,2022,0.009389364910189473
+Sovacool et al,hard coal power plant,276,MJ,euro,2022,0.010338502411739094
+Sovacool et al,hard coal power plant,277,MJ,euro,2022,0.008284994639694822
+Sovacool et al,natural gas power plant,278,MJ,euro,2022,0.004852132835024696
+Sovacool et al,natural gas power plant,279,MJ,euro,2022,0.007258240753672684
+Sovacool et al,"hydro, reservoir, alpine region",280,MJ,euro,2022,0.000215108265538115
+Sovacool et al,"hydro, reservoir, alpine region",281,MJ,euro,2022,0.00015301515796010243
+Sovacool et al,"hydro, reservoir, alpine region",282,MJ,euro,2022,0.00013749188106559928
+Sovacool et al,"hydro, reservoir, alpine region",283,MJ,euro,2022,0.00026611331819148244
+Sovacool et al,"hydro, reservoir, alpine region",284,MJ,euro,2022,0.00021954348750797303
+Sovacool et al,"wind, onshore, medium",285,MJ,euro,2022,0.00035703536857357234
+Sovacool et al,"wind, onshore, medium",286,MJ,euro,2022,0.00032598881478456597
+Sovacool et al,PV commercial,287,MJ,euro,2022,0.003044779882307545
+Sovacool et al,PV commercial,288,MJ,euro,2022,0.0030913497129910544
+Sovacool et al,"CSP, tower",289,MJ,euro,2022,0.00041912847615158485
+Sovacool et al,natural gas power plant,290,MJ,euro,2022,0.004439657191827898
+Sovacool et al,hard coal power plant,291,MJ,euro,2022,0.009617778841637161
+Sovacool et al,natural gas power plant,292,MJ,euro,2022,0.0048476976130548384
+Sovacool et al,hard coal power plant,293,MJ,euro,2022,0.010420554018181467
+Sovacool et al,wood CHP modern,294,MJ,euro,2022,0.007025391600255137
+Sovacool et al,wood CHP modern,295,MJ,euro,2022,0.002275268870537175
+Sovacool et al,natural gas power plant,299,MJ,euro,2022,0.004177979095606275
+Sovacool et al,"hydro, reservoir, alpine region",300,MJ,euro,2022,0.0002993774829654178
+Sovacool et al,hard coal power plant,301,MJ,euro,2022,0.008843832607896934
+Sovacool et al,natural gas power plant,302,MJ,euro,2022,0.003204447873222435
+Sovacool et al,hard coal power plant,303,MJ,euro,2022,0.020823367148483506
+Sovacool et al,hard coal power plant,304,MJ,euro,2022,0.011664633780726647
+Sovacool et al,hard coal power plant,305,MJ,euro,2022,0.017374982066918877
+Sovacool et al,hard coal power plant,306,MJ,euro,2022,0.03447276276072162
+Sovacool et al,hard coal power plant,307,MJ,euro,2022,0.05118689675413165
+Sovacool et al,hard coal power plant,308,MJ,euro,2022,0.05153727928975043
+Sovacool et al,natural gas power plant,309,MJ,euro,2022,0.014137270028922505
+Sovacool et al,wood CHP modern,310,MJ,euro,2022,0.003133484321704706
+Sovacool et al,"hydro, reservoir, alpine region",311,MJ,euro,2022,0.0006963298492677125
+Sovacool et al,"hydro, reservoir, alpine region",312,MJ,euro,2022,0.0017408246231692813
+Sovacool et al,"hydro, reservoir, alpine region",313,MJ,euro,2022,0.0024371544724369936
+Sovacool et al,"wind, onshore, medium",314,MJ,euro,2022,0.0006963298492677125
+Sovacool et al,"wind, onshore, medium",315,MJ,euro,2022,0.0003481649246338562
+Sovacool et al,PV commercial,316,MJ,euro,2022,0.0017408246231692813
+Sovacool et al,PV commercial,317,MJ,euro,2022,0.0017408246231692813
+NEEDS,"CSP, tower",damage costs low,MJ,euro,2022,0.0006827311877445017
+NEEDS,NGCC,damage costs low,MJ,euro,2022,0.002432229856339787
+NEEDS,NGCC w CCS (post),damage costs low,MJ,euro,2022,0.0017921693678293168
+NEEDS,PV commercial,damage costs low,MJ,euro,2022,0.00034136559387225085
+NEEDS,hard coal power plant,damage costs low,MJ,euro,2022,0.007510043065189519
+NEEDS,hard coal w CCS (oxy),damage costs low,MJ,euro,2022,0.004821789013445544
+NEEDS,hard coal w CCS (post),damage costs low,MJ,euro,2022,0.006912653275913079
+NEEDS,lignite power plant,damage costs low,MJ,euro,2022,0.005845885795062296
+NEEDS,lignite w CCS (oxy),damage costs low,MJ,euro,2022,0.0025175712548078503
+NEEDS,lignite w CCS (post),damage costs low,MJ,euro,2022,0.005504520201190045
+NEEDS,"nuclear, pressure water reactor",damage costs low,MJ,euro,2022,0.0002602912653275913
+NEEDS,"wind, offshore",damage costs low,MJ,euro,2022,8.534139846806271e-05
+NEEDS,wood CHP modern,damage costs low,MJ,euro,2022,0.01348394095795391
+NEEDS,"CSP, tower",damage costs high,MJ,euro,2022,0.002261547059403662
+NEEDS,NGCC,damage costs high,MJ,euro,2022,0.015830829415825632
+NEEDS,NGCC w CCS (post),damage costs high,MJ,euro,2022,0.006187251388934546
+NEEDS,PV commercial,damage costs high,MJ,euro,2022,0.0006827311877445016
+NEEDS,hard coal power plant,damage costs high,MJ,euro,2022,0.03473394917650152
+NEEDS,hard coal w CCS (oxy),damage costs high,MJ,euro,2022,0.010496992011571714
+NEEDS,hard coal w CCS (post),damage costs high,MJ,euro,2022,0.015318781025017257
+NEEDS,lignite power plant,damage costs high,MJ,euro,2022,0.034093888687991056
+NEEDS,lignite w CCS (oxy),damage costs high,MJ,euro,2022,0.0046511062165094175
+NEEDS,lignite w CCS (post),damage costs high,MJ,euro,2022,0.010966369703146059
+NEEDS,"nuclear, pressure water reactor",damage costs high,MJ,euro,2022,0.0004565764818041356
+NEEDS,"wind, offshore",damage costs high,MJ,euro,2022,0.00017068279693612543
+NEEDS,wood CHP modern,damage costs high,MJ,euro,2022,0.01762299878365495
+NEEDS,"CSP, tower",abatement costs low,MJ,euro,2022,0.0007254018869785331
+NEEDS,NGCC,abatement costs low,MJ,euro,2022,0.006229922088168578
+NEEDS,NGCC w CCS (post),abatement costs low,MJ,euro,2022,0.0026882540517439756
+NEEDS,PV commercial,abatement costs low,MJ,euro,2022,0.00042670699234031355
+NEEDS,hard coal power plant,abatement costs low,MJ,euro,2022,0.014678720536506786
+NEEDS,hard coal w CCS (oxy),abatement costs low,MJ,euro,2022,0.004864459712679575
+NEEDS,hard coal w CCS (post),abatement costs low,MJ,euro,2022,0.00785140865906177
+NEEDS,lignite power plant,abatement costs low,MJ,euro,2022,0.014380025641868568
+NEEDS,lignite w CCS (oxy),abatement costs low,MJ,euro,2022,0.0026882540517439756
+NEEDS,lignite w CCS (post),abatement costs low,MJ,euro,2022,0.006699299779742923
+NEEDS,"nuclear, pressure water reactor",abatement costs low,MJ,euro,2022,0.00032856438410204145
+NEEDS,"wind, offshore",abatement costs low,MJ,euro,2022,0.00012801209770209408
+NEEDS,wood CHP modern,abatement costs low,MJ,euro,2022,0.013313258161017784
+NEEDS,"CSP, tower",abatement costs high,MJ,euro,2022,0.0008534139846806271
+NEEDS,NGCC,abatement costs high,MJ,euro,2022,0.009216871034550773
+NEEDS,NGCC w CCS (post),abatement costs high,MJ,euro,2022,0.0034563266379565396
+NEEDS,PV commercial,abatement costs high,MJ,euro,2022,0.0004693776915743449
+NEEDS,hard coal power plant,abatement costs high,MJ,euro,2022,0.020396594233866985
+NEEDS,hard coal w CCS (oxy),abatement costs high,MJ,euro,2022,0.005248496005785857
+NEEDS,hard coal w CCS (post),abatement costs high,MJ,euro,2022,0.008918176139912554
+NEEDS,lignite power plant,abatement costs high,MJ,euro,2022,0.020908642624675365
+NEEDS,lignite w CCS (oxy),abatement costs high,MJ,euro,2022,0.0029016075479141325
+NEEDS,lignite w CCS (post),abatement costs high,MJ,euro,2022,0.007723396561359676
+NEEDS,"nuclear, pressure water reactor",abatement costs high,MJ,euro,2022,0.00032856438410204145
+NEEDS,"wind, offshore",abatement costs high,MJ,euro,2022,0.00012801209770209408
+NEEDS,wood CHP modern,abatement costs high,MJ,euro,2022,0.013441270258719877
+Trinomics,hard coal power plant,0,MJ,euro,2022,0.03979416450745932
+Trinomics,lignite power plant,0,MJ,euro,2022,0.046060962067689136
+Trinomics,natural gas power plant,0,MJ,euro,2022,0.01723369329063199
+Trinomics,oil power plant,0,MJ,euro,2022,0.03760078536137888
+Trinomics,"nuclear, pressure water reactor",0,MJ,euro,2022,0.00470009817017236
+Trinomics,wood CHP modern,0,MJ,euro,2022,0.016607013534609007
+Trinomics,"CSP, tower",0,MJ,euro,2022,0.00470009817017236
+Trinomics,PV residential,0,MJ,euro,2022,0.005326777926195342
+Trinomics,"wind, onshore, medium",0,MJ,euro,2022,0.0009400196340344721
+Trinomics,"wind, offshore",0,MJ,euro,2022,0.0009400196340344721
+Trinomics,"hydro, reservoir, alpine region",0,MJ,euro,2022,0.0009400196340344721
+Trinomics,"hydro, run-of-river",0,MJ,euro,2022,0.0009400196340344721
+Trinomics,geothermal,0,MJ,euro,2022,0.0025067190240919256

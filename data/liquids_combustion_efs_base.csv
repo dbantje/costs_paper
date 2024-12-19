@@ -1,0 +1,175 @@
+fuel name,fuel unit,name,amount,unit,categories,type
+"diesel, passenger car",MJ,Acetaldehyde,7.14557e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Acetone,3.24689e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Acrolein,3.95343e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Ammonia,3.72093e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Benzaldehyde,9.4996e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Benzene,2.18674e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Butane,1.21475e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Cadmium II,2.32558e-10,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,"Carbon dioxide, fossil",0.073255814,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,"Carbon monoxide, fossil",2.10694e-05,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Chromium III,1.16279e-09,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Chromium VI,2.32558e-12,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Copper ion,3.95349e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Cyclohexane (for all cycloalkanes),7.17896e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Dinitrogen monoxide,1.16279e-06,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Ethane,3.64624e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Ethylene oxide,1.21141e-06,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Formaldehyde,1.32527e-06,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Heptane,2.20878e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Lead II,1.9186e-15,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Mercury II,4.65116e-13,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,"Methane, fossil",6.64471e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Methyl ethyl ketone,1.32527e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,"NMVOC, non-methane volatile organic compounds",5.85669e-06,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Nickel II,1.62791e-09,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Nitrogen oxides,0.00022614,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,"PAH, polycyclic aromatic hydrocarbons",4.28837e-09,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,"Particulate Matter, < 2.5 um",6.39294e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Pentane,4.41756e-09,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Propane,1.21475e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Propylene oxide,3.97681e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Selenium IV,2.32558e-10,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Styrene,4.087e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Sulfur dioxide,4.65116e-07,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Toluene,7.61971e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,Zinc II,2.32558e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,m-Xylene,6.7382e-08,kilogram,air::urban air close to ground,biosphere
+"diesel, passenger car",MJ,o-Xylene,2.98211e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,1-Pentene,1.45e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,2-Methylpentane,2.36e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Acetaldehyde,6.42e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Acetone,5.22e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Acrolein,1.63e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Ammonia,7.04e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Benzaldehyde,1.88e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Benzene,1.29e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Butane,2.42e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Cadmium II,2.35e-10,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,"Carbon dioxide, fossil",0.074647887,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,"Carbon monoxide, fossil",0.000128226,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Chromium III,1.17e-09,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Chromium VI,2.35e-12,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Copper ion,3.99e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Cyclohexane (for all cycloalkanes),9.76e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Dinitrogen monoxide,3.05e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Ethane,3.74e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Ethylene,8.42e-09,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Ethylene oxide,6.25e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Formaldehyde,1.45e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Heptane,6.33e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Hexane,1.38e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Lead II,3.52e-11,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Mercury II,1.64e-12,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,"Methane, fossil",5.76e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Methyl ethyl ketone,4.28e-09,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,"NMVOC, non-methane volatile organic compounds",2.18e-05,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Nickel II,1.64e-09,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Nitrogen oxides,1.04e-05,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,"PAH, polycyclic aromatic hydrocarbons",8.17e-10,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,"Particulate Matter, < 2.5 um",3.31e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Pentane,2.78e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Propane,1.79e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Propene,4.71e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Propylene oxide,3.27e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Selenium IV,2.35e-10,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Styrene,8.64e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Sulfur dioxide,4.69e-07,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Toluene,2.41e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,Zinc II,2.35e-08,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,m-Xylene,1.04e-06,kilogram,air::urban air close to ground,biosphere
+"petrol, passenger car",MJ,o-Xylene,2.5e-07,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Acetaldehyde,9.09e-08,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Acrolein,3.52e-08,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Ammonia,2.28e-07,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Arsenic ion,2.33e-12,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Benzaldehyde,2.72e-08,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Benzene,1.39e-09,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Butane,2.98e-09,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Cadmium II,2.02e-10,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,"Carbon dioxide, fossil",0.069708852,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,"Carbon monoxide, fossil",6.35e-05,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Chromium III,6.98e-10,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Chromium VI,1.4e-12,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Copper ion,4.93e-10,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Dinitrogen monoxide,3.8e-06,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Ethane,5.97e-10,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Formaldehyde,1.67e-07,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Heptane,5.97e-09,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Lead II,1.21e-09,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Mercury II,1.23e-10,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,"Methane, fossil",4.89e-08,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,"NMVOC, non-methane volatile organic compounds",1.62e-06,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Nickel II,2.05e-10,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Nitrogen oxides,3.19e-05,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,"PAH, polycyclic aromatic hydrocarbons",1.82e-09,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,"Particulate Matter, < 2.5 um",2.87e-07,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Pentane,1.19e-09,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Propane,1.99e-09,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Selenium IV,2.33e-12,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Styrene,1.11e-08,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Sulfur dioxide,3.79e-07,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Toluene,1.99e-10,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,Zinc II,4.04e-08,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,m-Xylene,1.95e-08,kilogram,air::urban air close to ground,biosphere
+"coal FT diesel, HDV",MJ,o-Xylene,7.96e-09,kilogram,air::urban air close to ground,biosphere
+"kerosene, aircraft",MJ,Cadmium II,2.12e-10,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Cadmium II,2.06e-11,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,"Carbon dioxide, fossil",0.066068584,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,"Carbon dioxide, fossil",0.006412036,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,"Carbon monoxide, fossil",4.96e-05,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,"Carbon monoxide, fossil",4.82e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Chromium III,1.06e-09,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Chromium III,1.03e-10,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Copper ion,3.6e-08,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Copper ion,3.5e-09,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Lead II,4.24e-07,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Lead II,4.11e-08,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Mercury II,1.48e-12,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Mercury II,1.44e-13,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,"NMVOC, non-methane volatile organic compounds",4.93e-06,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,"NMVOC, non-methane volatile organic compounds",4.78e-07,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Nickel II,1.48e-09,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Nickel II,1.44e-10,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Nitrogen oxides,0.000300067,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Nitrogen oxides,2.91e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,"Particulate Matter, < 2.5 um",3.9e-06,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,"Particulate Matter, < 2.5 um",3.78e-07,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Selenium IV,2.12e-10,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Selenium IV,2.06e-11,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Sulfur dioxide,1.78e-05,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Sulfur dioxide,1.73e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Water,1.62e-07,cubic meter,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Water,1.57e-08,cubic meter,air::non-urban air or from high stacks,biosphere
+"kerosene, aircraft",MJ,Zinc II,2.12e-07,kilogram,air::lower stratosphere + upper troposphere,biosphere
+"kerosene, aircraft",MJ,Zinc II,2.06e-08,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Ammonia,1.03e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Arsenic ion,9.64e-09,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Cadmium II,6.27e-10,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"Carbon dioxide, fossil",0.079939099,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"Carbon monoxide, fossil",6.87e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Chromium III,4e-09,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Copper ion,9.64e-09,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Dinitrogen monoxide,4.08e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",2.56e-14,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Hydrochloric acid,1.5e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Hydrogen fluoride,1.5e-07,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Lead II,4.42e-09,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Mercury II,7.24e-10,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"Methane, fossil",1.39e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"NMVOC, non-methane volatile organic compounds",6.94e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Nickel II,5.58e-07,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Nitrogen oxides,0.001912883,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"PAH, polycyclic aromatic hydrocarbons",5.13e-08,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"Particulate Matter, < 2.5 um",4.5e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"Particulate Matter, > 10 um",6.43e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,"Particulate Matter, > 2.5 um and < 10um",5.14e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Selenium IV,8.84e-09,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Sulfur dioxide,0.001165911,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Zinc II,2.03e-08,kilogram,air::non-urban air or from high stacks,biosphere
+"heavy fuel oil, container ship",MJ,Copper ion,1.65e-09,kilogram,water::ocean,biosphere
+"heavy fuel oil, container ship",MJ,"Fungicides, unspecified",1.58e-10,kilogram,water::ocean,biosphere
+"heavy fuel oil, container ship",MJ,"Hydrocarbons, unspecified",4.55e-07,kilogram,water::ocean,biosphere
+"heavy fuel oil, container ship",MJ,Thiocyanate,2.64e-11,kilogram,water::ocean,biosphere
+"heavy fuel oil, container ship",MJ,Tributyltin compounds,2.42e-10,kilogram,water::ocean,biosphere

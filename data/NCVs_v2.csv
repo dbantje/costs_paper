@@ -1,0 +1,61 @@
+product name,product unit,NCV in MJ/product,GCV in MJ/product,source
+"electricity, high voltage",kilowatt hour,3.6,3.6,
+"electricity, low voltage",kilowatt hour,3.6,3.6,
+"electricity, medium voltage",kilowatt hour,3.6,3.6,
+"heat, district or industrial, other than natural gas",megajoule,1,1,
+"heat, district or industrial, natural gas",megajoule,1,1,
+"heat, central or small-scale, other than natural gas",megajoule,1,1,
+"heat, deep geothermal",megajoule,1,1,
+"biodiesel, from palm oil",kilogram,37.8,40.5,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from sugarbeet",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"kerosene",kilogram,43,46.2,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"heavy fuel oil",kilogram,39,41.8,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from poplar",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"diesel",kilogram,42.78,45.76,https://h2tools.org/hyarc/calculator-tools/lower-and-higher-heating-values-fuels
+"diesel, low-sulfur",kilogram,42.6,45.56,https://h2tools.org/hyarc/calculator-tools/lower-and-higher-heating-values-fuels
+"ethanol, from eucalyptus",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"diesel, synthetic",kilogram,42.6,45.6,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from switchgrass",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from willow",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from corn",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"kerosene, synthetic",kilogram,43,46.2,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from miscanthus",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from grain sorghum",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from forage sorghum",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from forest residues",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"biodiesel, from rapeseed oil",kilogram,37.8,40.5,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from wheat straw pellets",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from sugarcane",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from forest residue",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"biodiesel, from cooking oil",kilogram,37.8,40.5,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from wheat grains",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from corn starch",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from sweet sorghum",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from corn stover",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"ethanol, from sugarcane straw",kilogram,26.7,29.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"biogas",cubic meter,22,,https://www.iea.org/reports/outlook-for-biogas-and-biomethane-prospects-for-organic-growth/an-introduction-to-biogas-and-biomethane
+"petrol, unleaded",kilogram,43.44,46.52,https://h2tools.org/hyarc/calculator-tools/lower-and-higher-heating-values-fuels
+"natural gas, high pressure",cubic meter,36.6,40.6,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"biomethane, from biogas upgrading, using amine scrubbing",kilogram,47.5,,ecoinvent
+"wood pellet, measured as dry mass",kilogram,17.6,,https://www.kerone.com/pdf/calorific-value-of-wood-pellets.pdf
+"coal gas",megajoule,1,1,
+"wood chips, wet, measured as dry mass",kilogram,15.4,16.2,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"petroleum coke",kilogram,29.5,31.3,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"coal tar",kilogram,,36,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"benzene",kilogram,40.170,,https://en.wikipedia.org/wiki/Heat_of_combustion
+"hard coal briquettes",kilogram,,32.6,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"peat",kilogram,,17,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"coke",megajoule,1,1,
+"charcoal",kilogram,28.4,29.6,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"lignite briquettes",kilogram,,14,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"hydrogen, gaseous, 26 bar",kilogram,120,141.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"hydrogen, gaseous, 25 bar",kilogram,120,141.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"hydrogen, gaseous, 30 bar",kilogram,120,141.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"hydrogen, gaseous, 100 bar",kilogram,120,141.7,https://www.engineeringtoolbox.com/fuels-higher-calorific-values-d_169.html
+"heat, central or small-scale, biomethane",megajoule,1,1,
+"heat, air-water heat pump 10kW",megajoule,1,1,
+"heat, central or small-scale, natural gas",megajoule,1,1,
+"heat, brine-water heat pump 10kW",megajoule,1,1,
+"heat, future",megajoule,1,1,
+"biogas, from grass",cubic meter,21.5,,https://inoplex.com.au/information/how-much-energy-is-in-biogas/
+"syngas, RWGS, Production",kilogram,23.9,,Giesen et al. 2014

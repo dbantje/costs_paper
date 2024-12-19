@@ -1,0 +1,57 @@
+fuel name,fuel unit,name,amount,unit,categories,type
+"natural gas, industrial furnace low-NOx",MJ,Acetaldehyde,1.11111111111111e-09,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Acetic acid,1.66666666666667e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Benzene,4.44444444444444e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Benzo(a)pyrene,1.11111111111111e-11,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Butane,7.77777777777778e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,"Carbon dioxide, fossil",0.061638635836213,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,"Carbon monoxide, fossil",1.55555555555556e-05,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Dinitrogen monoxide,1.11111111111111e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",3.3333333333333304e-17,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Formaldehyde,1.11111111111111e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Mercury II,3.3333333333333296e-11,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,"Methane, fossil",2.22222222222222e-06,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Nitrogen oxides,2.55555555555556e-05,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,"PAH, polycyclic aromatic hydrocarbons",1.11111111111111e-08,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,"Particulate Matter, < 2.5 um",1.11111111111111e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Pentane,1.33333333333333e-06,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Propane,2.22222222222222e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Propionic acid,2.22222222222222e-08,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Sulfur dioxide,6.11111111111111e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,Toluene,2.22222222222222e-07,kilogram,air::urban air close to ground,biosphere
+"natural gas, industrial furnace low-NOx",MJ,"Carbon dioxide, non-fossil",0.0004126453637869,kilogram,air,biosphere
+"biogas, gas engine",MJ,"Carbon dioxide, non-fossil",0.0308049050077857,kilogram,air::non-urban air or from high stacks,biosphere
+"biogas, gas engine",MJ,"Carbon monoxide, non-fossil",1.7710109161386105e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"biogas, gas engine",MJ,Dinitrogen monoxide,9.224015188260475e-07,kilogram,air::non-urban air or from high stacks,biosphere
+"biogas, gas engine",MJ,"Methane, non-fossil",8.48609397320678e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"biogas, gas engine",MJ,"NMVOC, non-methane volatile organic compounds",7.37921215061812e-07,kilogram,air::non-urban air or from high stacks,biosphere
+"biogas, gas engine",MJ,Nitrogen oxides,5.533815270859724e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"biogas, gas engine",MJ,Platinum,2.582724252712285e-12,kilogram,air::non-urban air or from high stacks,biosphere
+"biogas, gas engine",MJ,Sulfur dioxide,9.223025451432872e-06,kilogram,air::non-urban air or from high stacks,biosphere
+"biomethane, boiler",MJ,Acetaldehyde,9.8e-10,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Acetic acid,1.47e-07,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Benzene,3.92e-07,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",M,Benzo(a)pyrene,9.8e-12,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Butane,6.86e-07,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,"Carbon dioxide, non-fossil",0.05488,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,"Carbon monoxide, non-fossil",5.78e-06,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Dinitrogen monoxide,4.9e-07,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,"Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin",2.94e-17,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Formaldehyde,9.8e-08,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Mercury II,2.94e-11,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,"Methane, non-fossil",1.96e-06,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Nitrogen oxides,9.53e-06,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,"PAH, polycyclic aromatic hydrocarbons",9.8e-09,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,"Particulate Matter, < 2.5 um",7.53e-08,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Pentane,1.18e-06,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Propane,1.96e-07,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Propionic acid,1.96e-08,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Sulfur dioxide,4.9e-07,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Toluene,1.96e-07,kilogram,air::urban air close to ground,biosphere
+"biomethane, boiler",MJ,Nitrate,1.27e-07,kilogram,water::surface water,biosphere
+"biomethane, boiler",MJ,Nitrite,2.94e-09,kilogram,water::surface water,biosphere
+"biomethane, boiler",MJ,Sulfate,4.9e-08,kilogram,water::surface water,biosphere
+"biomethane, boiler",MJ,Sulfite,4.9e-08,kilogram,water::surface water,biosphere
+"hydrogen, gas turbine",MJ,Water,0.0001235555555555,cubic meter,air::non-urban air or from high stacks,biosphere
+"hydrogen, gas turbine",MJ,Nitrogen oxides,4.285714285714278e-05,kilogram,air::non-urban air or from high stacks,biosphere
+"hydrogen, gas turbine",MJ,Hydrogen,6.873475806739854e-05,kilogram,air,biosphere

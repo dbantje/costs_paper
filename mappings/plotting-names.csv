@@ -1,0 +1,66 @@
+short name,plotting name (title),plotting name (tick)
+lignite power plant,lignite PP,lignite PP
+lignite w CCS (post),"lignite PP,\nCCS (post)","lignite PP, CCS"
+lignite w CCS (oxy),"lignite PP,\nCCS (oxy)","lignite PP, CCS (oxy)"
+hard coal power plant,hard coal PP,hard coal PP
+hard coal w CCS (post),"hard coal PP,\nCCS (post)","hard coal PP, CCS"
+hard coal w CCS (oxy),"hard coal PP,\nCCS (oxy)","hard coal PP, CCS (oxy)"
+natural gas power plant,natural gas PP,NG PP
+NGCC,"natural gas CC","NG CC"
+NGCC w CCS (post),"natural gas, CCS","NG CC, CCS"
+oil power plant,oil PP,oil PP
+PV commercial,PV commercial,PV commercial
+PV residential,PV residential,PV residential
+"CSP, tower",CSP,CSP
+"wind, offshore","wind, offshore","wind, offshore"
+"wind, onshore, medium","wind, onshore","wind, offshore"
+"hydro, reservoir, non-alpine region","hydro, reservoir","hydro, reservoir"
+"hydro, reservoir, alpine region","hydro, reservoir,\nalpine region","hydro, reservoir, alpine region"
+BIGCC,bio IGCC,bio IGCC
+BIGCC w CCS,"bio IGCC, CCS","wind, offshore"
+geothermal,geothermal,"wind, offshore"
+"nuclear, pressure water reactor",nuclear,nuclear PP
+"diesel, refinery","diesel, refinery","diesel, refinery"
+"biodiesel, rapeseed oil","biodiesel,\nrapeseed oil","biodiesel, rapeseed oil"
+"biodiesel, palm oil","biodiesel,\npalm oil","biodiesel, palm oil"
+"bioethanol, corn","bioethanol,\ncorn","bioethanol, corn"
+"bioethanol, corn, CCS","bioethanol,\ncorn, CCS","bioethanol, corn, CCS"
+"bioethanol, miscanthus","bioethanol,\nmiscanthus","bioethanol, miscanthus"
+"bioethanol, miscanthus, CCS","bioethanol,\nmiscanthus, CCS","bioethanol, miscanthus, CCS"
+"bioethanol, switchgrass","bioethanol,\nswitchgrass","bioethanol, switchgrass"
+"bioethanol, switchgrass, CCS","bioethanol,\nswitchgrass, CCS","bioethanol, switchgrass, CCS"
+"diesel, bio FT","diesel, bio FT","diesel, bio FT"
+"diesel, bio FT, w CCS","diesel, bio FT,\nCCS","diesel, bio FT, CCS"
+"diesel, coal FT","diesel, coal FT","diesel, coal FT"
+"diesel, coal FT, w CCS","diesel, coal FT,\nCCS","diesel, coal FT, w CCS"
+"diesel, electrolysis FT, VRE","diesel, electrolysis\nFT, VRE inputs","diesel, electrolysis FT, VRE"
+natural gas boiler,natural gas boiler,NG boiler
+"oil boiler, condensing",oil boiler,oil boiler
+lignite briquette stove,lignite stove,lignite stove
+"wood heater, modern",wood heater,wood heater
+biomethane boiler,biomethane boiler,biomethane boiler
+air-water heat pump,air-water HP,air-water HP
+brine-water heat pump,brine-water HP,brine-water HP
+hard coal CHP,hard coal CHP,hard coal CHP
+lignite CHP,lignite CHP,lignite CHP
+natural gas CHP,natural gas CHP,NG CHP
+oil CHP,oil CHP,oil CHP
+wood CHP modern,wood CHP,wood CHP
+biogas CHP,biogas CHP,biogas CHP
+"hardwood heating plant, modern","wood heating plant","wood heating plant"
+geothermal heat plant,geothermal heat,geothermal
+wood CHP,wood CHP,wood CHP
+"heavy fuel oil, refinery","heavy fuel oil,\nrefinery",heavy fuel oil
+"hydrogen, hard coal","H2, hard coal","H2, hard coal"
+"hydrogen, hard coal, CCS","H2, hard coal\nCCS","H2, hard coal, CCS"
+"hydrogen, natural gas","H2, gas","H2, gas"
+"hydrogen, natural gas, CCS","H2, gas\nCCS","H2, gas, CCS"
+"hydrogen, methane pyrolysis","H2, methane\npyrolysis","H2, methane pyrolysis"
+"hydrogen, woody biomass","H2, biomass","H2, biomass"
+"hydrogen, woody biomass, CCS","H2, biomass\nCCS","H2, biomass, CCS"
+"hydrogen, water splitting","H2, water\nsplitting","H2, water splitting"
+"hydrogen, PEM electrolysis","H2, PEM\nelectrolysis","H2, PEM"
+"hydrogen, PEM electrolysis, VRE","H2, PEM electrolysis\nVRE inputs","H2, PEM, VRE inputs"
+"natural gas, onshore","natural gas, onshore","NG, onshore"
+"natural gas, offshore","natural gas, offshore","NG, offshore"
+"natural gas heating plant","natural gas heating plant","NG heating plant"

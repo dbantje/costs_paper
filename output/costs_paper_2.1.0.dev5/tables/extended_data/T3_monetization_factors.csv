@@ -1,0 +1,310 @@
+source name,impact category,estimate,LCIA method,valuation approach,MVC,currency,reference year,impact unit
+Alberici et al. (2014),climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",damage cost,0.043,Euro,2012,kg CO2 eq
+Alberici et al. (2014),ozone depletion,central,"ReCiPe Midpoint (H) V1.13, ozone depletion, ODPinf",damage cost,107.0,Euro,2012,kg CFC-11 eq
+Alberici et al. (2014),human toxicity,central,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.04,Euro,2012,kg 1-4 DB eq
+Alberici et al. (2014),particulate matter formation,central,"ReCiPe Midpoint (H) V1.13, particulate matter formation, PMFP",damage cost,15.0,Euro,2012,kg PM10 eq
+Alberici et al. (2014),ionizing radiation,central,"ReCiPe Midpoint (H) V1.13, ionising radiation, IRP_HE",damage cost,0.001,Euro,2012,kBq U235 eq
+Alberici et al. (2014),photochemical oxidant formation,central,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",damage cost,0.0023,Euro,2012,kg NMVOC eq
+Alberici et al. (2014),acidification,central,"ReCiPe Midpoint (H) V1.13, terrestrial acidification, TAP100",damage cost,0.2,Euro,2012,kg SO2 eq
+Alberici et al. (2014),eutrophication: freshwater,central,"ReCiPe Midpoint (H) V1.13, freshwater eutrophication, FEP",damage cost,0.2,Euro,2012,kg P eq
+Alberici et al. (2014),eutrophication: marine,central,"ReCiPe Midpoint (H) V1.13, marine eutrophication, MEP",damage cost,1.8,Euro,2012,kg N eq
+Alberici et al. (2014),water use,central,"ReCiPe Midpoint (H) V1.13, water depletion, WDP",market price,0.2,Euro,2012,m3
+Alberici et al. (2014),fossil resources,central,"ReCiPe Midpoint (H) V1.13, fossil depletion, FDP",market price,0.05,Euro,2012,kg oil eq
+Alberici et al. (2014),metal/mineral resources,central,"ReCiPe Midpoint (H) V1.13, metal depletion, MDP",market price,0.07,Euro,2012,kg Fe eq
+Alberici et al. (2014),land use: natural land transformation,central,"ReCiPe Midpoint (H) V1.13, natural land transformation, NLTP",damage cost,3.6,Euro,2012,m2
+Alberici et al. (2014),land use: agricultural land occupation,central,"ReCiPe Midpoint (H) V1.13, agricultural land occupation, ALOP",damage cost,0.09,Euro,2012,m2*yr
+Alberici et al. (2014),land use: urban land occupation,central,"ReCiPe Midpoint (H) V1.13, urban land occupation, ULOP",damage cost,0.1,Euro,2012,m2*yr
+van Essen et al. (2019),climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.105,Euro,2019,kg CO2 eq
+van Essen et al. (2019),photochemical oxidant formation,central,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",damage cost,1.18,Euro,2019,kg NMVOC eq
+Weidema et al. (2009),acidification,central,"EDIP 2003, acidification, acidification",budget constraint,0.0077,Euro,2003,m2 UES
+Weidema et al. (2009),ecotoxicity: aquatic,central,"IMPACT 2002+ (Endpoint), ecosystem quality, aquatic ecotoxicity",budget constraint,1940.0,Euro,2003,points
+Weidema et al. (2009),ecotoxicity: terrestrial,central,"IMPACT 2002+ (Endpoint), ecosystem quality, terrestrial ecotoxicity",budget constraint,0.0393,Euro,2003,points
+Weidema et al. (2009),eutrophication: aquatic,central,"EDIP 2003, eutrophication, combined potential",budget constraint,0.1,Euro,2003,kg NO3 eq
+Weidema et al. (2009),eutrophication: terrestrial,central,"EDIP 2003, eutrophication, terrestrial eutrophication",budget constraint,0.013,Euro,2003,m2 UES
+Weidema et al. (2009),climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",budget constraint,0.083,Euro,2003,kg CO2 eq
+Weidema et al. (2009),human toxicity,central,"IMPACT 2002+ (Endpoint), human health, human toxicity",budget constraint,684.0,Euro,2003,points
+Weidema et al. (2009),ionizing radiation,central,"IMPACT 2002+ (Endpoint), human health, ionising radiation",budget constraint,0.676,Euro,2003,points
+Weidema et al. (2009),metal/mineral resources,central,"IMPACT 2002+ (Endpoint), resources, mineral extraction",budget constraint,608.0,Euro,2003,points
+Weidema et al. (2009),land use,central,"IMPACT 2002+ (Endpoint), ecosystem quality, land occupation",budget constraint,1640.0,Euro,2003,points
+Weidema et al. (2009),ozone depletion,central,"IMPACT 2002+ (Endpoint), human health, ozone layer depletion",budget constraint,100.0,Euro,2003,points
+Weidema et al. (2009),photochemical oxidant formation: terrestrial ecosystems,central,"EDIP 2003, photochemical ozone formation, impacts on vegetation",budget constraint,0.00037,Euro,2003,m2*ppm*h
+Weidema et al. (2009),particulate matter formation,central,"IMPACT 2002+ (Endpoint), human health, respiratory effects (inorganics)",budget constraint,690.0,Euro,2003,points
+Weidema et al. (2009),photochemical oxidant formation: human health,central,"EDIP 2003, photochemical ozone formation, impacts on human health",budget constraint,0.26,Euro,2003,pers*ppm*h
+"Goedkoop et al. (2013), individualist",fossil resources,central,"ReCiPe Midpoint (H) V1.13, fossil depletion, FDP",market price,0.0413,Euro,2019,kg oil eq
+"Goedkoop et al. (2013), hierarchical/egalitarian",fossil resources,central,"ReCiPe Midpoint (H) V1.13, fossil depletion, FDP",market price,0.132,Euro,2019,kg oil eq
+"Goedkoop et al. (2013), individualist",metal/mineral resources,central,"ReCiPe Midpoint (H) V1.13, metal depletion, MDP",market price,0.057,Euro,2019,kg Fe eq
+Finnveden et al. (2006),climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",revealed preferences,0.0853,Euro,2019,kg CO2eq
+Finnveden et al. (2006),ozone depletion,central,"CML v4.8 2016, ozone depletion, ozone layer depletion (ODP steady state)",revealed preferences,162.0,Euro,2019,kg CFC-11 eq
+Finnveden et al. (2006),human toxicity,central,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",revealed preferences,0.203,Euro,2019,kg 1-4 DB eq
+Finnveden et al. (2006),ecotoxicity: terrestrial,central,"ReCiPe Midpoint (H) V1.13, terrestrial ecotoxicity, TETPinf",revealed preferences,23.9,Euro,2019,kg 1-4 DB eq
+Finnveden et al. (2006),ecotoxicity: marine,min,"ReCiPe Midpoint (H) V1.13, marine ecotoxicity, METPinf",revealed preferences,1.8e-06,Euro,2019,kg 1-4 DB eq
+Finnveden et al. (2006),ecotoxicity: marine,max,"ReCiPe Midpoint (H) V1.13, marine ecotoxicity, METPinf",revealed preferences,0.0821,Euro,2019,kg 1-4 DB eq
+Finnveden et al. (2006),ecotoxicity: freshwater,min,"ReCiPe Midpoint (H) V1.13, freshwater ecotoxicity, FETPinf",revealed preferences,8.24,Euro,2019,kg 1-4 DB eq
+Finnveden et al. (2006),ecotoxicity: freshwater,max,"ReCiPe Midpoint (H) V1.13, freshwater ecotoxicity, FETPinf",revealed preferences,16.8,Euro,2019,kg 1-4 DB eq
+Finnveden et al. (2006),acidification,central,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",revealed preferences,2.44,Euro,2019,kg SO2 eq
+Finnveden et al. (2006),eutrophication,central,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",revealed preferences,3.87,Euro,2019,kg PO4 eq
+Finnveden et al. (2006),photochemical oxidant formation,min,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",revealed preferences,6.5,Euro,2019,kg ethylene eq
+Finnveden et al. (2006),photochemical oxidant formation,max,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",revealed preferences,65.0,Euro,2019,kg ethylene eq
+Finnveden et al. (2006),fossil resources,min,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",revealed preferences,0.0,Euro,2019,MJ
+Finnveden et al. (2006),fossil resources,max,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",revealed preferences,0.02,Euro,2019,MJ
+Ahlroth and Finnveden (2011),climate change,min,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",market price,0.0128,Euro,2019,kg CO2 eq
+Ahlroth and Finnveden (2011),climate change,max,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",market price,0.255,Euro,2019,kg CO2 eq
+Ahlroth and Finnveden (2011),human toxicity,min,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",contingent valuation (willingness to pay),0.00051,Euro,2019,kg 1-4 DB eq
+Ahlroth and Finnveden (2011),human toxicity,max,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",contingent valuation (willingness to pay),1.53,Euro,2019,kg 1-4 DB eq
+Ahlroth and Finnveden (2011),photochemical oxidant formation,min,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",mixed approach,1.79,Euro,2019,kg ethylene eq
+Ahlroth and Finnveden (2011),photochemical oxidant formation,max,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",mixed approach,5.1,Euro,2019,kg ethylene eq
+Ahlroth and Finnveden (2011),acidification,central,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",contingent valuation (willingness to pay),3.83,Euro,2019,kg SO2 eq
+Ahlroth and Finnveden (2011),eutrophication,central,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",contingent valuation (willingness to pay),27.8,Euro,2019,kg PO4 eq
+Ahlroth and Finnveden (2011),fossil resources,min,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.00051,Euro,2019,MJ
+Ahlroth and Finnveden (2011),fossil resources,max,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.031,Euro,2019,MJ
+Davidson et al. (2005),climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.05,Euro,2008,kg CO2 eq
+Davidson et al. (2005),ozone depletion,central,"CML v4.8 2016, ozone depletion, ozone layer depletion (ODP steady state)",abatement cost,30.0,Euro,2008,kg CFC-11 eq
+Davidson et al. (2005),photochemical oxidant formation,central,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",abatement cost,2.0,Euro,2008,kg ethylene eq
+Davidson et al. (2005),acidification,central,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",abatement cost,4.0,Euro,2008,kg SO2 eq
+Davidson et al. (2005),eutrophication,central,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",abatement cost,9.0,Euro,2008,kg PO4 eq
+Eco-costs 2023,climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",prevention cost,0.123,Euro,2023,kg CO2 eq
+Eco-costs 2023,acidification,central,"EF v3.1, acidification, accumulated exceedance (AE)",prevention cost,7.08,Euro,2023,mol H+ eq
+Eco-costs 2023,ozone depletion,central,"EF v3.1, ozone depletion, ozone depletion potential (ODP)",prevention cost,120.0,Euro,2023,kg CFC-11 eq
+Eco-costs 2023,eutrophication: freshwater,central,"EF v3.1, eutrophication: freshwater, fraction of nutrients reaching freshwater end compartment (P)",prevention cost,15.32,Euro,2023,kg P eq
+Eco-costs 2023,photochemical oxidant formation: human health,central,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: human health, photochemical oxidant formation potential: humans (HOFP)",prevention cost,5.67,Euro,2023,kg NOx eq
+Eco-costs 2023,photochemical oxidant formation: terrestrial ecosystems,central,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: terrestrial ecosystems, photochemical oxidant formation potential: ecosystems (EOFP)",prevention cost,5.67,Euro,2023,kg NOx eq
+Eco-costs 2023,particulate matter formation,central,"ReCiPe 2016 v1.03, midpoint (H), particulate matter formation, particulate matter formation potential (PMFP)",prevention cost,37.1,Euro,2023,kg PM2.5 eq
+Eco-costs 2023,ecotoxicity: freshwater,central,"EF v3.1, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",prevention cost,0.0133,Euro,2023,CTUe
+Eco-costs 2023,human toxicity: carcinogenic,central,"EF v3.1, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",prevention cost,920000.0,Euro,2023,CTUh
+Eco-costs 2023,human toxicity: non-carcinogenic,central,"EF v3.1, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",prevention cost,216000.0,Euro,2023,CTUh
+Eco-costs 2023,metal/mineral resources,central,"Eco-costs, Material scarcity, VAR(95)",supply risk,1.0,Euro,2023,EUR2023
+Eco-costs 2023,water use,central,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",prevention cost,0.21,Euro,2023,m3
+"Shadow prices, abatement",climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.025,Euro,2008,kg CO2 eq
+"Shadow prices, damage",climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",damage cost,0.025,Euro,2008,kg CO2 eq
+"Shadow prices, abatement",acidification,central,"ReCiPe Midpoint (H) V1.13, terrestrial acidification, TAP100",abatement cost,0.594,Euro,2008,kg SO2 eq
+"Shadow prices, damage",acidification,central,"ReCiPe Midpoint (H) V1.13, terrestrial acidification, TAP100",damage cost,0.638,Euro,2008,kg SO2 eq
+"Shadow prices, abatement",ozone depletion,central,"ReCiPe Midpoint (H) V1.13, ozone depletion, ODPinf",abatement cost,30.0,Euro,2008,kg CFC-11 eq
+"Shadow prices, damage",ozone depletion,central,"ReCiPe Midpoint (H) V1.13, ozone depletion, ODPinf",damage cost,39.1,Euro,2008,kg CFC-11 eq
+"Shadow prices, abatement",photochemical oxidant formation,central,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",abatement cost,5.0,Euro,2008,kg NMVOC eq
+"Shadow prices, damage",photochemical oxidant formation,central,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",damage cost,0.585,Euro,2008,kg NMVOC eq
+"Shadow prices, abatement",particulate matter formation,central,"ReCiPe Midpoint (H) V1.13, particulate matter formation, PMFP",abatement cost,50.0,Euro,2008,kg PM10 eq
+"Shadow prices, damage",particulate matter formation,central,"ReCiPe Midpoint (H) V1.13, particulate matter formation, PMFP",damage cost,51.5,Euro,2008,kg PM10 eq
+"Shadow prices, abatement",eutrophication: freshwater,central,"ReCiPe Midpoint (H) V1.13, freshwater eutrophication, FEP",abatement cost,10.9,Euro,2008,kg P eq
+"Shadow prices, damage",eutrophication: freshwater,central,"ReCiPe Midpoint (H) V1.13, freshwater eutrophication, FEP",damage cost,1.78,Euro,2008,kg P eq
+"Shadow prices, abatement",eutrophication: marine,central,"ReCiPe Midpoint (H) V1.13, marine eutrophication, MEP",abatement cost,7.0,Euro,2008,kg N eq
+"Shadow prices, damage",eutrophication: terrestrial,central,"EF v3.1, eutrophication: terrestrial, accumulated exceedance (AE)",damage cost,0.175,Euro,2008,mol N eq
+"Shadow prices, damage",human toxicity,central,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.0206,Euro,2008,kg 1-4 DB eq
+"Shadow prices, damage",ionizing radiation,central,"ReCiPe Midpoint (H) V1.13, ionising radiation, IRP_HE",damage cost,0.0425,Euro,2008,kg U235 eq
+"Shadow prices, damage",land use,central,"ReCiPe Midpoint (H) V1.13, agricultural land occupation, ALOP",damage cost,0.612,Euro,2008,m2*year
+"Shadow prices, damage",fossil resources,central,"ReCiPe Midpoint (H) V1.13, fossil depletion, FDP",damage cost,0.0,Euro,2008,kg oil eq
+"Environmental prices, 2018, EU",climate change,min,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",mixed approach,0.0218,Euro,2015,kg CO2 eq
+"Environmental prices, 2018, EU",climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",mixed approach,0.0566,Euro,2015,kg CO2 eq
+"Environmental prices, 2018, EU",climate change,max,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",mixed approach,0.0944,Euro,2015,kg CO2 eq
+"Environmental prices, 2018, EU",ozone depletion,min,"ReCiPe Midpoint (H) V1.13, ozone depletion, ODPinf",damage cost,22.1,Euro,2015,kg CFC-11 eq
+"Environmental prices, 2018, EU",ozone depletion,central,"ReCiPe Midpoint (H) V1.13, ozone depletion, ODPinf",damage cost,30.4,Euro,2015,kg CFC-11 eq
+"Environmental prices, 2018, EU",ozone depletion,max,"ReCiPe Midpoint (H) V1.13, ozone depletion, ODPinf",damage cost,45.7,Euro,2015,kg CFC-11 eq
+"Environmental prices, 2018, EU",human toxicity,min,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.0725,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",human toxicity,central,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.0991,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",human toxicity,max,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.153,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",photochemical oxidant formation,min,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",damage cost,0.84,Euro,2015,kg NMVOC eq
+"Environmental prices, 2018, EU",photochemical oxidant formation,central,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",damage cost,1.15,Euro,2015,kg NMVOC eq
+"Environmental prices, 2018, EU",photochemical oxidant formation,max,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",damage cost,1.84,Euro,2015,kg NMVOC eq
+"Environmental prices, 2018, EU",particulate matter formation,min,"ReCiPe Midpoint (H) V1.13, particulate matter formation, PMFP",damage cost,28.0,Euro,2015,kg PM10 eq
+"Environmental prices, 2018, EU",particulate matter formation,central,"ReCiPe Midpoint (H) V1.13, particulate matter formation, PMFP",damage cost,39.2,Euro,2015,kg PM10 eq
+"Environmental prices, 2018, EU",particulate matter formation,max,"ReCiPe Midpoint (H) V1.13, particulate matter formation, PMFP",damage cost,60.4,Euro,2015,kg PM10 eq
+"Environmental prices, 2018, EU",ionizing radiation,min,"ReCiPe Midpoint (H) V1.13, ionising radiation, IRP_HE",damage cost,0.0297,Euro,2015,kg kBq U235 eq
+"Environmental prices, 2018, EU",ionizing radiation,central,"ReCiPe Midpoint (H) V1.13, ionising radiation, IRP_HE",damage cost,0.0461,Euro,2015,kg kBq U235 eq
+"Environmental prices, 2018, EU",ionizing radiation,max,"ReCiPe Midpoint (H) V1.13, ionising radiation, IRP_HE",damage cost,0.0598,Euro,2015,kg kBq U235 eq
+"Environmental prices, 2018, EU",acidification,min,"ReCiPe Midpoint (H) V1.13, terrestrial acidification, TAP100",damage cost,0.526,Euro,2015,kg SO2 eq
+"Environmental prices, 2018, EU",acidification,central,"ReCiPe Midpoint (H) V1.13, terrestrial acidification, TAP100",damage cost,4.97,Euro,2015,kg SO2 eq
+"Environmental prices, 2018, EU",acidification,max,"ReCiPe Midpoint (H) V1.13, terrestrial acidification, TAP100",damage cost,5.66,Euro,2015,kg SO2 eq
+"Environmental prices, 2018, EU",eutrophication: freshwater,min,"ReCiPe Midpoint (H) V1.13, freshwater eutrophication, FEP",damage cost,0.25,Euro,2015,kg P eq
+"Environmental prices, 2018, EU",eutrophication: freshwater,central,"ReCiPe Midpoint (H) V1.13, freshwater eutrophication, FEP",damage cost,1.86,Euro,2015,kg P eq
+"Environmental prices, 2018, EU",eutrophication: freshwater,max,"ReCiPe Midpoint (H) V1.13, freshwater eutrophication, FEP",damage cost,2.11,Euro,2015,kg P eq
+"Environmental prices, 2018, EU",eutrophication: marine,central,"ReCiPe Midpoint (H) V1.13, marine eutrophication, MEP",abatement cost,3.11,Euro,2015,kg N eq
+"Environmental prices, 2018, EU",land use,min,"ReCiPe Midpoint (H) V1.13, agricultural land occupation, ALOP",damage cost,0.0255,Euro,2015,m2*year
+"Environmental prices, 2018, EU",land use,central,"ReCiPe Midpoint (H) V1.13, agricultural land occupation, ALOP",damage cost,0.0845,Euro,2015,m2*year
+"Environmental prices, 2018, EU",land use,max,"ReCiPe Midpoint (H) V1.13, agricultural land occupation, ALOP",damage cost,0.685,Euro,2015,m2*year
+"Environmental prices, 2018, EU",ecotoxicity: terrestrial,min,"ReCiPe Midpoint (H) V1.13, terrestrial ecotoxicity, TETPinf",damage cost,1.17,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: terrestrial,central,"ReCiPe Midpoint (H) V1.13, terrestrial ecotoxicity, TETPinf",damage cost,8.69,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: terrestrial,max,"ReCiPe Midpoint (H) V1.13, terrestrial ecotoxicity, TETPinf",damage cost,9.85,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: freshwater,min,"ReCiPe Midpoint (H) V1.13, freshwater ecotoxicity, FETPinf",damage cost,0.00485,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: freshwater,central,"ReCiPe Midpoint (H) V1.13, freshwater ecotoxicity, FETPinf",damage cost,0.0361,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: freshwater,max,"ReCiPe Midpoint (H) V1.13, freshwater ecotoxicity, FETPinf",damage cost,0.0409,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: marine,min,"ReCiPe Midpoint (H) V1.13, marine ecotoxicity, METPinf",damage cost,0.000992,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: marine,central,"ReCiPe Midpoint (H) V1.13, marine ecotoxicity, METPinf",damage cost,0.00739,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2018, EU",ecotoxicity: marine,max,"ReCiPe Midpoint (H) V1.13, marine ecotoxicity, METPinf",damage cost,0.00837,Euro,2015,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",climate change,min,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",mixed approach,0.05,Euro,2021,kg CO2 eq
+"Environmental prices, 2023, EU27",climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",mixed approach,0.13,Euro,2021,kg CO2 eq
+"Environmental prices, 2023, EU27",climate change,max,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",mixed approach,0.16,Euro,2021,kg CO2 eq
+"Environmental prices, 2023, EU27",ozone depletion,min,"ReCiPe 2016 v1.03, midpoint (H), ozone depletion, ozone depletion potential (ODPinfinite)",damage cost,15.2,Euro,2021,kg CFC-11 eq
+"Environmental prices, 2023, EU27",ozone depletion,central,"ReCiPe 2016 v1.03, midpoint (H), ozone depletion, ozone depletion potential (ODPinfinite)",damage cost,29.1,Euro,2021,kg CFC-11 eq
+"Environmental prices, 2023, EU27",ozone depletion,max,"ReCiPe 2016 v1.03, midpoint (H), ozone depletion, ozone depletion potential (ODPinfinite)",damage cost,69.6,Euro,2021,kg CFC-11 eq
+"Environmental prices, 2023, EU27",ionizing radiation,min,"ReCiPe 2016 v1.03, midpoint (H), ionising radiation, ionising radiation potential (IRP)",damage cost,0.00275,Euro,2021,kg Co-60 eq
+"Environmental prices, 2023, EU27",ionizing radiation,central,"ReCiPe 2016 v1.03, midpoint (H), ionising radiation, ionising radiation potential (IRP)",damage cost,0.00422,Euro,2021,kg Co-60 eq
+"Environmental prices, 2023, EU27",ionizing radiation,max,"ReCiPe 2016 v1.03, midpoint (H), ionising radiation, ionising radiation potential (IRP)",damage cost,0.00594,Euro,2021,kg Co-60 eq
+"Environmental prices, 2023, EU27",photochemical oxidant formation: human health,min,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: human health, photochemical oxidant formation potential: humans (HOFP)",damage cost,1.38,Euro,2021,kg NOx eq
+"Environmental prices, 2023, EU27",photochemical oxidant formation: human health,central,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: human health, photochemical oxidant formation potential: humans (HOFP)",damage cost,2.17,Euro,2021,kg NOx eq
+"Environmental prices, 2023, EU27",photochemical oxidant formation: human health,max,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: human health, photochemical oxidant formation potential: humans (HOFP)",damage cost,2.98,Euro,2021,kg NOx eq
+"Environmental prices, 2023, EU27",photochemical oxidant formation: terrestrial ecosystems,min,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: terrestrial ecosystems, photochemical oxidant formation potential: ecosystems (EOFP)",damage cost,0.416,Euro,2021,kg NOx eq
+"Environmental prices, 2023, EU27",photochemical oxidant formation: terrestrial ecosystems,central,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: terrestrial ecosystems, photochemical oxidant formation potential: ecosystems (EOFP)",damage cost,0.416,Euro,2021,kg NOx eq
+"Environmental prices, 2023, EU27",photochemical oxidant formation: terrestrial ecosystems,max,"ReCiPe 2016 v1.03, midpoint (H), photochemical oxidant formation: terrestrial ecosystems, photochemical oxidant formation potential: ecosystems (EOFP)",damage cost,0.526,Euro,2021,kg NOx eq
+"Environmental prices, 2023, EU27",particulate matter formation,min,"ReCiPe 2016 v1.03, midpoint (H), particulate matter formation, particulate matter formation potential (PMFP)",damage cost,61.7,Euro,2021,kg PM2.5 eq
+"Environmental prices, 2023, EU27",particulate matter formation,central,"ReCiPe 2016 v1.03, midpoint (H), particulate matter formation, particulate matter formation potential (PMFP)",damage cost,99.2,Euro,2021,kg PM2.5 eq
+"Environmental prices, 2023, EU27",particulate matter formation,max,"ReCiPe 2016 v1.03, midpoint (H), particulate matter formation, particulate matter formation potential (PMFP)",damage cost,138.1,Euro,2021,kg PM2.5 eq
+"Environmental prices, 2023, EU27",acidification,min,"ReCiPe 2016 v1.03, midpoint (H), acidification: terrestrial, terrestrial acidification potential (TAP)",damage cost,2.66,Euro,2021,kg SO2 eq
+"Environmental prices, 2023, EU27",acidification,central,"ReCiPe 2016 v1.03, midpoint (H), acidification: terrestrial, terrestrial acidification potential (TAP)",damage cost,5.27,Euro,2021,kg SO2 eq
+"Environmental prices, 2023, EU27",acidification,max,"ReCiPe 2016 v1.03, midpoint (H), acidification: terrestrial, terrestrial acidification potential (TAP)",damage cost,9.3,Euro,2021,kg SO2 eq
+"Environmental prices, 2023, EU27",eutrophication: freshwater,min,"ReCiPe 2016 v1.03, midpoint (H), eutrophication: freshwater, freshwater eutrophication potential (FEP)",damage cost,2.56,Euro,2021,kg P eq
+"Environmental prices, 2023, EU27",eutrophication: freshwater,central,"ReCiPe 2016 v1.03, midpoint (H), eutrophication: freshwater, freshwater eutrophication potential (FEP)",damage cost,3.74,Euro,2021,kg P eq
+"Environmental prices, 2023, EU27",eutrophication: freshwater,max,"ReCiPe 2016 v1.03, midpoint (H), eutrophication: freshwater, freshwater eutrophication potential (FEP)",damage cost,10.13,Euro,2021,kg P eq
+"Environmental prices, 2023, EU27",eutrophication: marine,min,"ReCiPe 2016 v1.03, midpoint (H), eutrophication: marine, marine eutrophication potential (MEP)",abatement cost,7.64,Euro,2021,kg N eq
+"Environmental prices, 2023, EU27",eutrophication: marine,central,"ReCiPe 2016 v1.03, midpoint (H), eutrophication: marine, marine eutrophication potential (MEP)",abatement cost,14.25,Euro,2021,kg N eq
+"Environmental prices, 2023, EU27",eutrophication: marine,max,"ReCiPe 2016 v1.03, midpoint (H), eutrophication: marine, marine eutrophication potential (MEP)",abatement cost,27.6,Euro,2021,kg N eq
+"Environmental prices, 2023, EU27",ecotoxicity: terrestrial,min,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: terrestrial, terrestrial ecotoxicity potential (TETP)",damage cost,0.00045,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: terrestrial,central,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: terrestrial, terrestrial ecotoxicity potential (TETP)",damage cost,0.00064,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: terrestrial,max,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: terrestrial, terrestrial ecotoxicity potential (TETP)",damage cost,0.00083,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: freshwater,min,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: freshwater, freshwater ecotoxicity potential (FETP)",damage cost,0.0148,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: freshwater,central,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: freshwater, freshwater ecotoxicity potential (FETP)",damage cost,0.0209,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: freshwater,max,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: freshwater, freshwater ecotoxicity potential (FETP)",damage cost,0.0271,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: marine,min,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: marine, marine ecotoxicity potential (METP)",damage cost,0.0022,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: marine,central,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: marine, marine ecotoxicity potential (METP)",damage cost,0.0032,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",ecotoxicity: marine,max,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: marine, marine ecotoxicity potential (METP)",damage cost,0.0041,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",human toxicity: carcinogenic,min,"ReCiPe 2016 v1.03, midpoint (H), human toxicity: carcinogenic, human toxicity potential (HTPc)",damage cost,2.7,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",human toxicity: carcinogenic,central,"ReCiPe 2016 v1.03, midpoint (H), human toxicity: carcinogenic, human toxicity potential (HTPc)",damage cost,3.99,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",human toxicity: carcinogenic,max,"ReCiPe 2016 v1.03, midpoint (H), human toxicity: carcinogenic, human toxicity potential (HTPc)",damage cost,6.01,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",human toxicity: non-carcinogenic,min,"ReCiPe 2016 v1.03, midpoint (H), human toxicity: non-carcinogenic, human toxicity potential (HTPnc)",damage cost,0.048,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",human toxicity: non-carcinogenic,central,"ReCiPe 2016 v1.03, midpoint (H), human toxicity: non-carcinogenic, human toxicity potential (HTPnc)",damage cost,0.071,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",human toxicity: non-carcinogenic,max,"ReCiPe 2016 v1.03, midpoint (H), human toxicity: non-carcinogenic, human toxicity potential (HTPnc)",damage cost,0.106,Euro,2021,kg 1-4 DB eq
+"Environmental prices, 2023, EU27",land use,min,"ReCiPe 2016 v1.03, midpoint (H), land use, agricultural land occupation (LOP)",damage cost,0.07,Euro,2021,m2*year crop eq
+"Environmental prices, 2023, EU27",land use,central,"ReCiPe 2016 v1.03, midpoint (H), land use, agricultural land occupation (LOP)",damage cost,0.099,Euro,2021,m2*year crop eq
+"Environmental prices, 2023, EU27",land use,max,"ReCiPe 2016 v1.03, midpoint (H), land use, agricultural land occupation (LOP)",damage cost,0.128,Euro,2021,m2*year crop eq
+"Environmental prices, 2023, EU27",metal/mineral resources,min,"ReCiPe 2016 v1.03, midpoint (H), material resources: metals/minerals, surplus ore potential (SOP)",,0.0,Euro,2021,kg Cu eq
+"Environmental prices, 2023, EU27",metal/mineral resources,central,"ReCiPe 2016 v1.03, midpoint (H), material resources: metals/minerals, surplus ore potential (SOP)",,0.014,Euro,2021,kg Cu eq
+"Environmental prices, 2023, EU27",metal/mineral resources,max,"ReCiPe 2016 v1.03, midpoint (H), material resources: metals/minerals, surplus ore potential (SOP)",,0.0826,Euro,2021,kg Cu eq
+"Environmental prices, 2023, EU27",fossil resources,min,"ReCiPe 2016 v1.03, midpoint (H), energy resources: non-renewable, fossil, fossil fuel potential (FFP)",,0.0,Euro,2021,kg oil eq
+"Environmental prices, 2023, EU27",fossil resources,central,"ReCiPe 2016 v1.03, midpoint (H), energy resources: non-renewable, fossil, fossil fuel potential (FFP)",,0.028,Euro,2021,kg oil eq
+"Environmental prices, 2023, EU27",fossil resources,max,"ReCiPe 2016 v1.03, midpoint (H), energy resources: non-renewable, fossil, fossil fuel potential (FFP)",,0.163,Euro,2021,kg oil eq
+"Environmental prices, 2023, EU27",water use,min,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",,0.0,Euro,2021,m3
+"Environmental prices, 2023, EU27",water use,central,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",,0.407,Euro,2021,m3
+"Environmental prices, 2023, EU27",water use,max,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",,0.811,Euro,2021,m3
+Trinomics,climate change,min,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.0615,Euro,2018,kg CO2 eq
+Trinomics,climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.1025,Euro,2018,kg CO2 eq
+Trinomics,climate change,max,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.1936,Euro,2018,kg CO2 eq
+Trinomics,ozone depletion,min,"EF v3.1, ozone depletion, ozone depletion potential (ODP)",damage cost,22.8,Euro,2018,kg CFC-11 eq
+Trinomics,ozone depletion,central,"EF v3.1, ozone depletion, ozone depletion potential (ODP)",damage cost,31.4,Euro,2018,kg CFC-11 eq
+Trinomics,ozone depletion,max,"EF v3.1, ozone depletion, ozone depletion potential (ODP)",damage cost,127.2,Euro,2018,kg CFC-11 eq
+Trinomics,ionizing radiation,min,"EF v3.1, ionising radiation: human health, human exposure efficiency relative to u235",damage cost,0.0008,Euro,2018,kBq U235 eq
+Trinomics,ionizing radiation,central,"EF v3.1, ionising radiation: human health, human exposure efficiency relative to u235",damage cost,0.0012,Euro,2018,kBq U235 eq
+Trinomics,ionizing radiation,max,"EF v3.1, ionising radiation: human health, human exposure efficiency relative to u235",damage cost,0.0461,Euro,2018,kBq U235 eq
+Trinomics,photochemical oxidant formation: human health,min,"EF v3.1, photochemical oxidant formation: human health, tropospheric ozone concentration increase",damage cost,0.87,Euro,2018,kg NMVOC eq
+Trinomics,photochemical oxidant formation: human health,central,"EF v3.1, photochemical oxidant formation: human health, tropospheric ozone concentration increase",damage cost,1.19,Euro,2018,kg NMVOC eq
+Trinomics,photochemical oxidant formation: human health,max,"EF v3.1, photochemical oxidant formation: human health, tropospheric ozone concentration increase",damage cost,1.9,Euro,2018,kg NMVOC eq
+Trinomics,particulate matter formation,min,"EF v3.1, particulate matter formation, impact on human health",damage cost,661974.0,Euro,2018,disease incidence
+Trinomics,particulate matter formation,central,"EF v3.1, particulate matter formation, impact on human health",damage cost,784126.0,Euro,2018,disease incidence
+Trinomics,particulate matter formation,max,"EF v3.1, particulate matter formation, impact on human health",damage cost,1204600.0,Euro,2018,disease incidence
+Trinomics,human toxicity: carcinogenic,min,"EF v3.1, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",damage cost,174324.0,Euro,2018,CTUh
+Trinomics,human toxicity: carcinogenic,central,"EF v3.1, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",damage cost,902616.0,Euro,2018,CTUh
+Trinomics,human toxicity: carcinogenic,max,"EF v3.1, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",damage cost,2789181.0,Euro,2018,CTUh
+Trinomics,human toxicity: non-carcinogenic,min,"EF v3.1, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",damage cost,30211.0,Euro,2018,CTUh
+Trinomics,human toxicity: non-carcinogenic,central,"EF v3.1, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",damage cost,163447.0,Euro,2018,CTUh
+Trinomics,human toxicity: non-carcinogenic,max,"EF v3.1, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",damage cost,755270.0,Euro,2018,CTUh
+Trinomics,acidification,min,"EF v3.1, acidification, accumulated exceedance (AE)",mixed approach,0.176,Euro,2018,mol H+ eq
+Trinomics,acidification,central,"EF v3.1, acidification, accumulated exceedance (AE)",mixed approach,0.344,Euro,2018,mol H+ eq
+Trinomics,acidification,max,"EF v3.1, acidification, accumulated exceedance (AE)",mixed approach,1.617,Euro,2018,mol H+
+Trinomics,eutrophication: freshwater,min,"EF v3.1, eutrophication: freshwater, fraction of nutrients reaching freshwater end compartment (P)",damage cost,0.26,Euro,2018,kg P eq
+Trinomics,eutrophication: freshwater,central,"EF v3.1, eutrophication: freshwater, fraction of nutrients reaching freshwater end compartment (P)",damage cost,1.92,Euro,2018,kg P eq
+Trinomics,eutrophication: freshwater,max,"EF v3.1, eutrophication: freshwater, fraction of nutrients reaching freshwater end compartment (P)",damage cost,2.18,Euro,2018,kg P eq
+Trinomics,eutrophication: marine,central,"EF v3.1, eutrophication: marine, fraction of nutrients reaching marine end compartment (N)",damage cost,3.21,Euro,2018,kg N eq
+Trinomics,ecotoxicity: freshwater,min,"EF v3.1, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",damage cost,2.39e-24,Euro,2018,CTUe
+Trinomics,ecotoxicity: freshwater,central,"EF v3.1, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",damage cost,3.82e-05,Euro,2018,CTUe
+Trinomics,ecotoxicity: freshwater,max,"EF v3.1, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",damage cost,0.000188,Euro,2018,CTUe
+Trinomics,land use,min,"EF v3.1, land use, soil quality index",,8.7e-05,Euro,2018,dimensionless
+Trinomics,land use,central,"EF v3.1, land use, soil quality index",,0.000175,Euro,2018,dimensionless
+Trinomics,land use,max,"EF v3.1, land use, soil quality index",,0.000349,Euro,2018,dimensionless
+Trinomics,water use,min,"EF v3.1, water use, user deprivation potential (deprivation-weighted water consumption)",market price,0.00419,Euro,2018,m3 world eq
+Trinomics,water use,central,"EF v3.1, water use, user deprivation potential (deprivation-weighted water consumption)",market price,0.00499,Euro,2018,m3 world eq
+Trinomics,water use,max,"EF v3.1, water use, user deprivation potential (deprivation-weighted water consumption)",market price,0.2359,Euro,2018,m3 world eq
+Trinomics,fossil resources,min,"EF v3.1, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.0,Euro,2018,MJ
+Trinomics,fossil resources,central,"EF v3.1, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.0013,Euro,2018,MJ
+Trinomics,fossil resources,max,"EF v3.1, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.0068,Euro,2018,MJ
+Trinomics,metal/mineral resources,min,"EF v3.1, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",market price,0.0,Euro,2018,kh Sb eq
+Trinomics,metal/mineral resources,central,"EF v3.1, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",market price,1.64,Euro,2018,kh Sb eq
+Trinomics,metal/mineral resources,max,"EF v3.1, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",market price,6.53,Euro,2018,kh Sb eq
+EPS2000,climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",mixed approach,0.142,Euro,2019,kg CO2 eq
+EPS2000,ozone depletion,central,"EF v3.1, ozone depletion, ozone depletion potential (ODP)",mixed approach,756.0,Euro,2019,kg CFC-11 eq
+EPS2000,photochemical oxidant formation: human health,central,"EF v3.1, photochemical oxidant formation: human health, tropospheric ozone concentration increase",mixed approach,18.4,Euro,2019,kg NMVOC eq
+EPS2000,metal/mineral resources,central,"EF v3.1, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",mixed approach,19200.0,Euro,2019,kh Sb eq
+MMG2014 (Western Europe),climate change,min,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.025,Euro,2012,kg CO2 eq
+MMG2014 (Western Europe),climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.05,Euro,2012,kg CO2 eq
+MMG2014 (Western Europe),climate change,max,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.1,Euro,2012,kg CO2 eq
+MMG2014 (Western Europe),ozone depletion,min,"CML v4.8 2016, ozone depletion, ozone layer depletion (ODP steady state)",damage cost,25.0,Euro,2012,kg CFC-11 eq
+MMG2014 (Western Europe),ozone depletion,central,"CML v4.8 2016, ozone depletion, ozone layer depletion (ODP steady state)",damage cost,49.1,Euro,2012,kg CFC-11 eq
+MMG2014 (Western Europe),ozone depletion,max,"CML v4.8 2016, ozone depletion, ozone layer depletion (ODP steady state)",damage cost,100.0,Euro,2012,kg CFC-11 eq
+MMG2014 (Western Europe),acidification,min,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",damage cost,0.22,Euro,2012,kg SO2 eq
+MMG2014 (Western Europe),acidification,central,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",damage cost,0.43,Euro,2012,kg SO2 eq
+MMG2014 (Western Europe),acidification,max,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",damage cost,0.88,Euro,2012,kg SO2 eq
+MMG2014 (Western Europe),eutrophication,min,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",literature review,6.6,Euro,2012,kg PO4 eq
+MMG2014 (Western Europe),eutrophication,central,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",literature review,20.0,Euro,2012,kg PO4 eq
+MMG2014 (Western Europe),eutrophication,max,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",literature review,60.0,Euro,2012,kg PO4 eq
+MMG2014 (Western Europe),photochemical oxidant formation,min,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",damage cost,0.0,Euro,2012,kg ethylene eq
+MMG2014 (Western Europe),photochemical oxidant formation,central,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",damage cost,0.48,Euro,2012,kg ethylene eq
+MMG2014 (Western Europe),photochemical oxidant formation,max,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",damage cost,6.6,Euro,2012,kg ethylene eq
+MMG2014 (Western Europe),fossil resources,min,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.0,Euro,2012,MJ
+MMG2014 (Western Europe),fossil resources,central,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.0,Euro,2012,MJ
+MMG2014 (Western Europe),fossil resources,max,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.0065,Euro,2012,MJ
+MMG2014 (Western Europe),metal/mineral resources,min,"CML v4.8 2016, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",market price,0.0,Euro,2012,kg Sb eq
+MMG2014 (Western Europe),metal/mineral resources,central,"CML v4.8 2016, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",market price,1.56,Euro,2012,kg Sb eq
+MMG2014 (Western Europe),metal/mineral resources,max,"CML v4.8 2016, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",market price,6.23,Euro,2012,kg Sb eq
+MMG2014 (Western Europe),human toxicity: carcinogenic,min,"EF v3.1, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",damage cost,166277.0,Euro,2012,CTUh
+MMG2014 (Western Europe),human toxicity: carcinogenic,central,"EF v3.1, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",damage cost,665109.0,Euro,2012,CTUh
+MMG2014 (Western Europe),human toxicity: carcinogenic,max,"EF v3.1, human toxicity: carcinogenic, comparative toxic unit for human (CTUh)",damage cost,2660434.0,Euro,2012,CTUh
+MMG2014 (Western Europe),human toxicity: non-carcinogenic,min,"EF v3.1, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",damage cost,28816.0,Euro,2012,CTUh
+MMG2014 (Western Europe),human toxicity: non-carcinogenic,central,"EF v3.1, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",damage cost,144081.0,Euro,2012,CTUh
+MMG2014 (Western Europe),human toxicity: non-carcinogenic,max,"EF v3.1, human toxicity: non-carcinogenic, comparative toxic unit for human (CTUh)",damage cost,727407.0,Euro,2012,CTUh
+MMG2014 (Western Europe),particulate matter formation,min,"ReCiPe 2016 v1.03, midpoint (H), particulate matter formation, particulate matter formation potential (PMFP)",damage cost,12.7,Euro,2012,kg PM2.5 eq
+MMG2014 (Western Europe),particulate matter formation,central,"ReCiPe 2016 v1.03, midpoint (H), particulate matter formation, particulate matter formation potential (PMFP)",damage cost,34.0,Euro,2012,kg PM2.5 eq
+MMG2014 (Western Europe),particulate matter formation,max,"ReCiPe 2016 v1.03, midpoint (H), particulate matter formation, particulate matter formation potential (PMFP)",damage cost,85.0,Euro,2012,kg PM2.5 eq
+MMG2014 (Western Europe),ionizing radiation,min,"EF v3.1, ionising radiation: human health, human exposure efficiency relative to u235",damage cost,0.00032,Euro,2012,kBq U235 eq
+MMG2014 (Western Europe),ionizing radiation,central,"EF v3.1, ionising radiation: human health, human exposure efficiency relative to u235",damage cost,0.00097,Euro,2012,kBq U235 eq
+MMG2014 (Western Europe),ionizing radiation,max,"EF v3.1, ionising radiation: human health, human exposure efficiency relative to u235",damage cost,0.0029,Euro,2012,kBq U235 eq
+MMG2014 (Western Europe),ecotoxicity: freshwater,min,"EF v3.1, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",contingent valuation,7.39e-06,Euro,2012,CTUe
+MMG2014 (Western Europe),ecotoxicity: freshwater,central,"EF v3.1, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",contingent valuation,3.7e-05,Euro,2012,CTUe
+MMG2014 (Western Europe),ecotoxicity: freshwater,max,"EF v3.1, ecotoxicity: freshwater, comparative toxic unit for ecosystems (CTUe)",contingent valuation,0.000185,Euro,2012,CTUe
+MMG2014 (Western Europe),water use,min,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",market price,0.022,Euro,2012,m3
+MMG2014 (Western Europe),water use,central,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",market price,0.067,Euro,2012,m3
+MMG2014 (Western Europe),water use,max,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",market price,0.2,Euro,2012,m3
+Giunta et al (2018),ecotoxicity: freshwater,central,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: freshwater, freshwater ecotoxicity potential (FETP)",prevention cost,57.0,Euro,2019,kg 1-4 DB eq
+Giunta et al (2018),metal/mineral resources,central,"ReCiPe Midpoint (H) V1.13, metal depletion, MDP",prevention cost,0.0363,Euro,2019,kg Fe eq
+Kaenchan and Gheewala (2017),ecotoxicity: freshwater,central,"ReCiPe 2016 v1.03, midpoint (H), ecotoxicity: freshwater, freshwater ecotoxicity potential (FETP)",budget constraint,0.00134,Euro,2019,kg 1-4 DB eq
+Kaenchan and Gheewala (2017),metal/mineral resources,central,"ReCiPe Midpoint (H) V1.13, metal depletion, MDP",budget constraint,0.0601,Euro,2019,kg Fe eq
+Schneider-Marin and Lang (2020),climate change,min,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",abatement cost,0.0211,Euro,2019,kg CO2 eq
+Schneider-Marin and Lang (2020),climate change,max,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",damage cost,0.685,Euro,2019,kg CO2 eq
+Schneider-Marin and Lang (2020),ozone depletion,min,"CML v4.8 2016, ozone depletion, ozone layer depletion (ODP steady state)",prevention cost,0.0,Euro,2019,kg CFC-11 eq
+Schneider-Marin and Lang (2020),ozone depletion,max,"CML v4.8 2016, ozone depletion, ozone layer depletion (ODP steady state)",prevention cost,31.6,Euro,2019,kg CFC-11 eq
+Schneider-Marin and Lang (2020),photochemical oxidant formation,min,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",damage cost,0.295,Euro,2019,kg ethylene eq
+Schneider-Marin and Lang (2020),photochemical oxidant formation,max,"CML v4.8 2016, photochemical oxidant formation, photochemical oxidation (high NOx)",prevention cost,10.6,Euro,2019,kg ethylene eq
+Schneider-Marin and Lang (2020),acidification,min,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",damage cost,1.87,Euro,2019,kg SO2 eq
+Schneider-Marin and Lang (2020),acidification,max,"CML v4.8 2016, acidification, acidification (incl. fate, average Europe total, A&B)",damage cost,15.9,Euro,2019,kg SO2 eq
+Schneider-Marin and Lang (2020),eutrophication,min,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",damage cost,1.88,Euro,2019,kg PO4 eq
+Schneider-Marin and Lang (2020),eutrophication,max,"CML v4.8 2016, eutrophication, eutrophication (fate not incl.)",damage cost,16.7,Euro,2019,kg PO4 eq
+Schneider-Marin and Lang (2020),fossil resources,central,"CML v4.8 2016, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.0176,Euro,2019,MJ
+Schneider-Marin and Lang (2020),metal/mineral resources,central,"CML v4.8 2016, material resources: metals/minerals, abiotic depletion potential (ADP): elements (ultimate reserves)",market price,19.2,Euro,2019,kg Sb eq
+Ecovalue 2012,climate change,min,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",damage cost,0.0114,Euro,2019,kg CO2 eq
+Ecovalue 2012,climate change,central,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",damage cost,0.326,Euro,2019,kg CO2 eq
+Ecovalue 2012,climate change,max,"IPCC 2021, climate change, GWP 100a, incl. H and bio CO2",damage cost,0.64,Euro,2019,kg CO2 eq
+Ecovalue 2012,photochemical oxidant formation,min,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",contingent valuation,11.0,Euro,2019,kg NMVOC eq
+Ecovalue 2012,photochemical oxidant formation,central,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",contingent valuation,21.0,Euro,2019,kg NMVOC eq
+Ecovalue 2012,photochemical oxidant formation,max,"ReCiPe Midpoint (H) V1.13, photochemical oxidant formation, POFP",contingent valuation,32.0,Euro,2019,kg NMVOC eq
+Ecovalue 2012,fossil resources,min,"EF v3.1, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.00046,Euro,2019,MJ
+Ecovalue 2012,fossil resources,central,"EF v3.1, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.014,Euro,2019,MJ
+Ecovalue 2012,fossil resources,max,"EF v3.1, energy resources: non-renewable, abiotic depletion potential (ADP): fossil fuels",market price,0.027,Euro,2019,MJ
+Ecovalue 2012,human toxicity,min,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.0023,Euro,2019,kg 1-4 DB eq
+Ecovalue 2012,human toxicity,central,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.32,Euro,2019,kg 1-4 DB eq
+Ecovalue 2012,human toxicity,max,"ReCiPe Midpoint (H) V1.13, human toxicity, HTPinf",damage cost,0.56,Euro,2019,kg 1-4 DB eq
+Ecovalue 2012,eutrophication: marine,central,"ReCiPe Midpoint (H) V1.13, marine eutrophication, MEP",contingent valuation,10.3,Euro,2019,kg N eq
+Ecovalue 2012,eutrophication: freshwater,central,"ReCiPe Midpoint (H) V1.13, freshwater eutrophication, FEP",contingent valuation,76.6,Euro,2019,kg P eq
+Ecovalue 2012,ecotoxicity: marine,central,"ReCiPe Midpoint (H) V1.13, marine ecotoxicity, METPinf",contingent valuation,1.4,Euro,2019,kg 1-4 DB eq
+Ecovalue 2012,acidification,central,"ReCiPe Midpoint (H) V1.13, terrestrial acidification, TAP100",contingent valuation,3.4,Euro,2019,kg SO2 eq
+Ecovalue 2012,particulate matter formation,central,"ReCiPe Midpoint (H) V1.13, particulate matter formation, PMFP",damage cost,31.2,Euro,2019,kg PM10 eq
+Cao et al 2015,land use,Thailand,"ReCiPe 2016 v1.03, midpoint (H), land use, agricultural land occupation (LOP)",abatement cost,0.0859,Euro,2015,m2*a crop Eq
+Cao et al 2015,land use,Brazil,"ReCiPe 2016 v1.03, midpoint (H), land use, agricultural land occupation (LOP)",abatement cost,0.0621,Euro,2015,m2*a crop Eq
+Cao et al 2015,land use,Italy,"ReCiPe 2016 v1.03, midpoint (H), land use, agricultural land occupation (LOP)",abatement cost,0.079,Euro,2015,m2*a crop Eq
+Cao et al 2015,land use,US,"ReCiPe 2016 v1.03, midpoint (H), land use, agricultural land occupation (LOP)",abatement cost,0.117,Euro,2015,m2*a crop Eq
+"Ligthart et al, abatement",water use,central,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",abatement cost,15.8,Euro,2019,m3
+"Ligthart et al, damage",water use,central,"ReCiPe 2016 v1.03, midpoint (H), water use, water consumption potential (WCP)",damage cost,2.38,Euro,2023,m3

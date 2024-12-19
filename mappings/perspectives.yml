@@ -1,0 +1,215 @@
+damage costs:
+  acidification:
+    - source name: Environmental prices, 2023, EU27
+      impact category: acidification
+      estimate: central
+  climate change:
+    - source name: Alberici et al. (2014)
+      impact category: climate change
+      estimate: central
+  ecotoxicity:
+    - source name: Environmental prices, 2023, EU27
+      impact category: "ecotoxicity: terrestrial"
+      estimate: central
+    - source name: Environmental prices, 2023, EU27
+      impact category: "ecotoxicity: freshwater"
+      estimate: central
+    - source name: Environmental prices, 2023, EU27
+      impact category: "ecotoxicity: marine"
+      estimate: central
+  eutrophication:
+    - source name: Environmental prices, 2023, EU27
+      impact category: "eutrophication: freshwater"
+      estimate: central
+  fossil resources:
+  human toxicity:
+    - source name: Environmental prices, 2023, EU27
+      impact category: "human toxicity: carcinogenic"
+      estimate: central
+    - source name: Environmental prices, 2023, EU27
+      impact category: "human toxicity: non-carcinogenic"
+      estimate: central
+  ionizing radiation:
+    - source name: Environmental prices, 2023, EU27
+      impact category: ionizing radiation
+      estimate: central
+  land use:
+    - source name: Environmental prices, 2023, EU27
+      impact category: land use
+      estimate: central
+  metal/mineral resources:
+  ozone depletion:
+    - source name: Environmental prices, 2023, EU27
+      impact category: ozone depletion
+      estimate: central
+  particulate matter formation:
+    - source name: Environmental prices, 2023, EU27
+      impact category: particulate matter formation
+      estimate: central 
+  photochemical oxidant formation:
+    - source name: Environmental prices, 2023, EU27
+      impact category: "photochemical oxidant formation: human health"
+      estimate: central
+    - source name: Environmental prices, 2023, EU27
+      impact category: "photochemical oxidant formation: terrestrial ecosystems"
+      estimate: central
+  water use:
+    - source name: Ligthart et al, damage
+      impact category: water use
+      estimate: central
+prevention costs:
+  acidification:
+    - source name: Eco-costs 2023
+      impact category: acidification
+      estimate: central
+  climate change:
+    - source name: Eco-costs 2023
+      impact category: climate change
+      estimate: central
+  ecotoxicity:
+    - source name: Eco-costs 2023
+      impact category: "ecotoxicity: freshwater"
+      estimate: central
+  eutrophication:
+    - source name: Eco-costs 2023
+      impact category: "eutrophication: freshwater"
+      estimate: central
+    - source name: Environmental prices, 2023, EU27
+      impact category: "eutrophication: marine"
+      estimate: central
+  fossil resources:
+  human toxicity:
+    - source name: Eco-costs 2023
+      impact category: "human toxicity: carcinogenic"
+      estimate: central
+    - source name: Eco-costs 2023
+      impact category: "human toxicity: non-carcinogenic"
+      estimate: central
+  ionizing radiation:
+  land use:
+    - source name: "Cao et al 2015"
+      impact category: land use
+      estimate: US
+  metal/mineral resources:
+    - source name: Eco-costs 2023
+      impact category: metal/mineral resources
+      estimate: central
+  ozone depletion:
+    - source name: Eco-costs 2023
+      impact category: ozone depletion
+      estimate: central
+  particulate matter formation:
+    - source name: Eco-costs 2023
+      impact category: particulate matter formation
+      estimate: central
+  photochemical oxidant formation:
+    - source name: Eco-costs 2023
+      impact category: "photochemical oxidant formation: human health"
+      estimate: central
+    - source name: Eco-costs 2023
+      impact category: "photochemical oxidant formation: terrestrial ecosystems"
+      estimate: central
+  water use:
+    - source name: Eco-costs 2023
+      impact category: water use
+      estimate: central
+budget constraint:
+  acidification:
+    - source name: Weidema et al. (2009)
+      impact category: acidification
+      estimate: central
+  climate change:
+    - source name: Weidema et al. (2009)
+      impact category: climate change
+      estimate: central
+  ecotoxicity:
+    - source name: Weidema et al. (2009)
+      impact category: "ecotoxicity: aquatic"
+      estimate: central
+    - source name: Weidema et al. (2009)
+      impact category: "ecotoxicity: terrestrial"
+      estimate: central
+  eutrophication:
+    - source name: Weidema et al. (2009)
+      impact category: "eutrophication: aquatic"
+      estimate: central
+    - source name: Weidema et al. (2009)
+      impact category: "eutrophication: terrestrial"
+      estimate: central
+  fossil resources:
+  human toxicity:
+    - source name: Weidema et al. (2009)
+      impact category: human toxicity
+      estimate: central
+  ionizing radiation:
+    - source name: Weidema et al. (2009)
+      impact category: ionizing radiation
+      estimate: central
+  land use:
+    - source name: Weidema et al. (2009)
+      impact category: land use
+      estimate: central
+  metal/mineral resources:
+    - source name: Weidema et al. (2009)
+      impact category: metal/mineral resources
+      estimate: central
+  ozone depletion:
+    - source name: Weidema et al. (2009)
+      impact category: ozone depletion
+      estimate: central
+  particulate matter formation:
+    - source name: Weidema et al. (2009)
+      impact category: particulate matter formation
+      estimate: central
+  photochemical oxidant formation:
+    - source name: Weidema et al. (2009)
+      impact category: "photochemical oxidant formation: human health"
+      estimate: central
+    - source name: Weidema et al. (2009)
+      impact category: "photochemical oxidant formation: terrestrial ecosystems"
+      estimate: central
+  water use:
+taxation costs:
+  acidification:
+    - source name: Finnveden et al. (2006)
+      impact category: acidification
+      estimate: central
+  climate change:
+    - source name: Finnveden et al. (2006)
+      impact category: climate change
+      estimate: central
+  ecotoxicity:
+    - source name: Finnveden et al. (2006)
+      impact category: "ecotoxicity: terrestrial"
+      estimate: central
+    - source name: Finnveden et al. (2006)
+      impact category: "ecotoxicity: freshwater"
+      estimate: central
+    - source name: Finnveden et al. (2006)
+      impact category: "ecotoxicity: marine"
+      estimate: central
+  eutrophication:
+    - source name: Finnveden et al. (2006)
+      impact category: eutrophication
+      estimate: central
+  fossil resources:
+    - source name: Finnveden et al. (2006)
+      impact category: fossil resources
+      estimate: central
+  human toxicity:
+    - source name: Finnveden et al. (2006)
+      impact category: human toxicity
+      estimate: central
+  ionizing radiation:
+  land use:
+  metal/mineral resources:
+  ozone depletion:
+    - source name: Finnveden et al. (2006)
+      impact category: ozone depletion
+      estimate: central
+  particulate matter formation:
+  photochemical oxidant formation:
+    - source name: Finnveden et al. (2006)
+      impact category: photochemical oxidant formation
+      estimate: central
+  water use:

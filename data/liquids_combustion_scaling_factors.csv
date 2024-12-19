@@ -1,0 +1,82 @@
+fuel name,reference fuel,name,categories,scaling factor,source
+"bioethanol, passenger car","petrol, passenger car",1-Pentene,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",2-Methylpentane,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Acetaldehyde,air::urban air close to ground,10,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Acetone,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Acrolein,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Ammonia,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Benzaldehyde,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Benzene,air::urban air close to ground,0.1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Butane,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Cadmium II,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car","Carbon dioxide, fossil",air::urban air close to ground,0.85,Characterizing Emissions from the Combustion of Biofuels
+"bioethanol, passenger car","petrol, passenger car","Carbon monoxide, fossil",air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Chromium III,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Chromium VI,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Copper ion,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Cyclohexane (for all cycloalkanes),air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Dinitrogen monoxide,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Ethane,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Ethylene,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Ethylene oxide,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Formaldehyde,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Heptane,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Hexane,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Lead II,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Mercury II,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car","Methane, fossil",air::urban air close to ground,0.2,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Methyl ethyl ketone,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car","NMVOC, non-methane volatile organic compounds",air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Nickel II,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Nitrogen oxides,air::urban air close to ground,1.0,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car","PAH, polycyclic aromatic hydrocarbons",air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car","Particulate Matter, < 2.5 um",air::urban air close to ground,0.8,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Pentane,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Propane,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Propene,air::urban air close to ground,1,Road Transport Emissions from Biofuel Consumption in the UK
+"bioethanol, passenger car","petrol, passenger car",Propylene oxide,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Selenium IV,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Styrene,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Sulfur dioxide,air::urban air close to ground,0.15,Characterizing Emissions from the Combustion of Biofuels
+"bioethanol, passenger car","petrol, passenger car",Toluene,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",Zinc II,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",m-Xylene,air::urban air close to ground,,
+"bioethanol, passenger car","petrol, passenger car",o-Xylene,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Acetaldehyde,air::urban air close to ground,91,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Acetone,air::urban air close to ground,1.20,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Acrolein,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Ammonia,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Benzaldehyde,air::urban air close to ground,0,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Benzene,air::urban air close to ground,1.04,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Butane,air::urban air close to ground,0.31,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Cadmium II,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car","Carbon dioxide, fossil",air::urban air close to ground,0.85,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car","Carbon monoxide, fossil",air::urban air close to ground,0.66,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Chromium III,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Chromium VI,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Copper ion,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Cyclohexane (for all cycloalkanes),air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Dinitrogen monoxide,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Ethane,air::urban air close to ground,0.31,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Ethylene oxide,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Formaldehyde,air::urban air close to ground,44,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Heptane,air::urban air close to ground,0.31,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Lead II,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Mercury II,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car","Methane, fossil",air::urban air close to ground,0.31,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Methyl ethyl ketone,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car","NMVOC, non-methane volatile organic compounds",air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Nickel II,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Nitrogen oxides,air::urban air close to ground,1.08,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car","PAH, polycyclic aromatic hydrocarbons",air::urban air close to ground,0.75,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car","Particulate Matter, < 2.5 um",air::urban air close to ground,0.62,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Pentane,air::urban air close to ground,0.31,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Propane,air::urban air close to ground,0.31,Road Transport Emissions from Biofuel Consumption in the UK
+"biodiesel, passenger car","diesel, passenger car",Propylene oxide,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Selenium IV,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",Styrene,air::urban air close to ground,1.55,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Sulfur dioxide,air::urban air close to ground,0.15,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Toluene,air::urban air close to ground,0.35,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",Zinc II,air::urban air close to ground,,
+"biodiesel, passenger car","diesel, passenger car",m-Xylene,air::urban air close to ground,1.14,Characterizing Emissions from the Combustion of Biofuels
+"biodiesel, passenger car","diesel, passenger car",o-Xylene,air::urban air close to ground,0,Characterizing Emissions from the Combustion of Biofuels

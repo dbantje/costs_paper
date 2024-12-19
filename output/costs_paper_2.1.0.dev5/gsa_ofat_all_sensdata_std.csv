@@ -1,0 +1,448 @@
+short name,sector,stage,location,scenario,year,sensitivity
+BIGCC,electricity production,biosphere,World,SSP2-NPi,2030,0.22212359324990658
+BIGCC,electricity production,monetization,World,SSP2-NPi,2030,0.7170732798460039
+BIGCC,electricity production,technosphere,World,SSP2-NPi,2030,0.06080312690408953
+BIGCC w CCS,electricity production,biosphere,World,SSP2-NPi,2030,0.184277642461993
+BIGCC w CCS,electricity production,monetization,World,SSP2-NPi,2030,0.7435636434810524
+BIGCC w CCS,electricity production,technosphere,World,SSP2-NPi,2030,0.0721587140569546
+"CSP, tower",electricity production,biosphere,RoW,SSP2-NPi,2030,0.12584248157425101
+"CSP, tower",electricity production,monetization,RoW,SSP2-NPi,2030,0.6043724417494745
+"CSP, tower",electricity production,technosphere,RoW,SSP2-NPi,2030,0.2697850766762745
+"CSP, trough",electricity production,biosphere,RoW,SSP2-NPi,2030,0.21937589935180357
+"CSP, trough",electricity production,monetization,RoW,SSP2-NPi,2030,0.47503551870233307
+"CSP, trough",electricity production,technosphere,RoW,SSP2-NPi,2030,0.3055885819458634
+NGCC,electricity production,biosphere,RoW,SSP2-NPi,2030,0.14292708960946968
+NGCC,electricity production,monetization,RoW,SSP2-NPi,2030,0.6429105371864842
+NGCC,electricity production,technosphere,RoW,SSP2-NPi,2030,0.21416237320404619
+NGCC w CCS (post),electricity production,biosphere,World,SSP2-NPi,2030,0.11132917882324739
+NGCC w CCS (post),electricity production,monetization,World,SSP2-NPi,2030,0.6447229229544826
+NGCC w CCS (post),electricity production,technosphere,World,SSP2-NPi,2030,0.24394789822227003
+PV commercial,electricity production,biosphere,AT,SSP2-NPi,2030,0.07435807525849024
+PV commercial,electricity production,monetization,AT,SSP2-NPi,2030,0.6708848333349526
+PV commercial,electricity production,technosphere,AT,SSP2-NPi,2030,0.2547570914065573
+PV residential,electricity production,biosphere,AT,SSP2-NPi,2030,0.02964210261254112
+PV residential,electricity production,monetization,AT,SSP2-NPi,2030,0.47408041614485863
+PV residential,electricity production,technosphere,AT,SSP2-NPi,2030,0.4962774812426003
+air-water heat pump,residential heating,biosphere,RoW,SSP2-NPi,2030,0.12175341396822692
+air-water heat pump,residential heating,monetization,RoW,SSP2-NPi,2030,0.8030772660842774
+air-water heat pump,residential heating,technosphere,RoW,SSP2-NPi,2030,0.0751693199474957
+anthracite stove,residential heating,biosphere,RoW,SSP2-NPi,2030,0.5859032555908249
+anthracite stove,residential heating,monetization,RoW,SSP2-NPi,2030,0.3646563008657066
+anthracite stove,residential heating,technosphere,RoW,SSP2-NPi,2030,0.049440443543468576
+"biodiesel, palm oil",liquids,biosphere,ID,SSP2-NPi,2030,0.04687474313672696
+"biodiesel, palm oil",liquids,monetization,ID,SSP2-NPi,2030,0.906903405799093
+"biodiesel, palm oil",liquids,technosphere,ID,SSP2-NPi,2030,0.046221851064180135
+"biodiesel, rapeseed oil",liquids,biosphere,CAZ,SSP2-NPi,2030,0.13254766477080898
+"biodiesel, rapeseed oil",liquids,monetization,CAZ,SSP2-NPi,2030,0.6971803974046707
+"biodiesel, rapeseed oil",liquids,technosphere,CAZ,SSP2-NPi,2030,0.17027193782452033
+"biodiesel, used cooking oil",liquids,biosphere,RER,SSP2-NPi,2030,0.1223510928240823
+"biodiesel, used cooking oil",liquids,monetization,RER,SSP2-NPi,2030,0.47247775316405344
+"biodiesel, used cooking oil",liquids,technosphere,RER,SSP2-NPi,2030,0.4051711540118643
+"biodiesel, used cooking oil, CCS",liquids,biosphere,RER,SSP2-NPi,2030,0.12740583493531085
+"biodiesel, used cooking oil, CCS",liquids,monetization,RER,SSP2-NPi,2030,0.4575324642033804
+"biodiesel, used cooking oil, CCS",liquids,technosphere,RER,SSP2-NPi,2030,0.41506170086130867
+"bioethanol, corn",liquids,biosphere,CAZ,SSP2-NPi,2030,0.18125490258939253
+"bioethanol, corn",liquids,monetization,CAZ,SSP2-NPi,2030,0.7146819273858958
+"bioethanol, corn",liquids,technosphere,CAZ,SSP2-NPi,2030,0.10406317002471166
+"bioethanol, corn starch",liquids,biosphere,RER,SSP2-NPi,2030,0.0964064791388733
+"bioethanol, corn starch",liquids,monetization,RER,SSP2-NPi,2030,0.8232454664586748
+"bioethanol, corn starch",liquids,technosphere,RER,SSP2-NPi,2030,0.08034805440245198
+"bioethanol, corn stover",liquids,biosphere,US,SSP2-NPi,2030,0.05883928663966736
+"bioethanol, corn stover",liquids,monetization,US,SSP2-NPi,2030,0.42944031773098307
+"bioethanol, corn stover",liquids,technosphere,US,SSP2-NPi,2030,0.5117203956293497
+"bioethanol, corn, CCS",liquids,biosphere,CAZ,SSP2-NPi,2030,0.18014119536191447
+"bioethanol, corn, CCS",liquids,monetization,CAZ,SSP2-NPi,2030,0.7166852347122782
+"bioethanol, corn, CCS",liquids,technosphere,CAZ,SSP2-NPi,2030,0.10317356992580734
+"bioethanol, eucalyptus",liquids,biosphere,ES,SSP2-NPi,2030,0.19341210210419907
+"bioethanol, eucalyptus",liquids,monetization,ES,SSP2-NPi,2030,0.7383506537640337
+"bioethanol, eucalyptus",liquids,technosphere,ES,SSP2-NPi,2030,0.0682372441317672
+"bioethanol, eucalyptus, CCS",liquids,biosphere,ES,SSP2-NPi,2030,0.15582972107187967
+"bioethanol, eucalyptus, CCS",liquids,monetization,ES,SSP2-NPi,2030,0.7803106740440977
+"bioethanol, eucalyptus, CCS",liquids,technosphere,ES,SSP2-NPi,2030,0.06385960488402263
+"bioethanol, forage sorghum",liquids,biosphere,US,SSP2-NPi,2030,0.06390503604804701
+"bioethanol, forage sorghum",liquids,monetization,US,SSP2-NPi,2030,0.6412340930125262
+"bioethanol, forage sorghum",liquids,technosphere,US,SSP2-NPi,2030,0.29486087093942687
+"bioethanol, forest residue",liquids,biosphere,US,SSP2-NPi,2030,0.039527401113144595
+"bioethanol, forest residue",liquids,monetization,US,SSP2-NPi,2030,0.3821394818287932
+"bioethanol, forest residue",liquids,technosphere,US,SSP2-NPi,2030,0.5783331170580622
+"bioethanol, grain sorghum",liquids,biosphere,US,SSP2-NPi,2030,0.18271110034332
+"bioethanol, grain sorghum",liquids,monetization,US,SSP2-NPi,2030,0.7213328610614065
+"bioethanol, grain sorghum",liquids,technosphere,US,SSP2-NPi,2030,0.09595603859527352
+"bioethanol, miscanthus",liquids,biosphere,IND,SSP2-NPi,2030,0.664344431446986
+"bioethanol, miscanthus",liquids,monetization,IND,SSP2-NPi,2030,0.19509618325097725
+"bioethanol, miscanthus",liquids,technosphere,IND,SSP2-NPi,2030,0.1405593853020368
+"bioethanol, miscanthus, CCS",liquids,biosphere,IND,SSP2-NPi,2030,0.6023118694374957
+"bioethanol, miscanthus, CCS",liquids,monetization,IND,SSP2-NPi,2030,0.269944134979135
+"bioethanol, miscanthus, CCS",liquids,technosphere,IND,SSP2-NPi,2030,0.12774399558336924
+"bioethanol, poplar",liquids,biosphere,CAZ,SSP2-NPi,2030,0.05679709638440486
+"bioethanol, poplar",liquids,monetization,CAZ,SSP2-NPi,2030,0.482229831439406
+"bioethanol, poplar",liquids,technosphere,CAZ,SSP2-NPi,2030,0.46097307217618927
+"bioethanol, poplar, CCS",liquids,biosphere,CAZ,SSP2-NPi,2030,0.07145754089055786
+"bioethanol, poplar, CCS",liquids,monetization,CAZ,SSP2-NPi,2030,0.5195182415090115
+"bioethanol, poplar, CCS",liquids,technosphere,CAZ,SSP2-NPi,2030,0.40902421760043073
+"bioethanol, sugarbeet",liquids,biosphere,CAZ,SSP2-NPi,2030,0.16376140623171148
+"bioethanol, sugarbeet",liquids,monetization,CAZ,SSP2-NPi,2030,0.6493205272467498
+"bioethanol, sugarbeet",liquids,technosphere,CAZ,SSP2-NPi,2030,0.1869180665215387
+"bioethanol, sugarbeet, CCS",liquids,biosphere,CAZ,SSP2-NPi,2030,0.17183555786295895
+"bioethanol, sugarbeet, CCS",liquids,monetization,CAZ,SSP2-NPi,2030,0.6647459480088855
+"bioethanol, sugarbeet, CCS",liquids,technosphere,CAZ,SSP2-NPi,2030,0.16341849412815568
+"bioethanol, sugarcane",liquids,biosphere,IND,SSP2-NPi,2030,0.07425263753710404
+"bioethanol, sugarcane",liquids,monetization,IND,SSP2-NPi,2030,0.8793476451604829
+"bioethanol, sugarcane",liquids,technosphere,IND,SSP2-NPi,2030,0.04639971730241312
+"bioethanol, sugarcane straw",liquids,biosphere,BR,SSP2-NPi,2030,0.04968392875705027
+"bioethanol, sugarcane straw",liquids,monetization,BR,SSP2-NPi,2030,0.8669041329819422
+"bioethanol, sugarcane straw",liquids,technosphere,BR,SSP2-NPi,2030,0.08341193826100743
+"bioethanol, sugarcane, CCS",liquids,biosphere,IND,SSP2-NPi,2030,0.15748425672296884
+"bioethanol, sugarcane, CCS",liquids,monetization,IND,SSP2-NPi,2030,0.7981760973266708
+"bioethanol, sugarcane, CCS",liquids,technosphere,IND,SSP2-NPi,2030,0.044339645950360315
+"bioethanol, sweet sorghum",liquids,biosphere,US,SSP2-NPi,2030,0.8942464583229598
+"bioethanol, sweet sorghum",liquids,monetization,US,SSP2-NPi,2030,0.0951440281470007
+"bioethanol, sweet sorghum",liquids,technosphere,US,SSP2-NPi,2030,0.010609513530039439
+"bioethanol, switchgrass",liquids,biosphere,CAZ,SSP2-NPi,2030,0.6473758538007496
+"bioethanol, switchgrass",liquids,monetization,CAZ,SSP2-NPi,2030,0.20862881160390903
+"bioethanol, switchgrass",liquids,technosphere,CAZ,SSP2-NPi,2030,0.14399533459534147
+"bioethanol, switchgrass, CCS",liquids,biosphere,CAZ,SSP2-NPi,2030,0.6328130984186969
+"bioethanol, switchgrass, CCS",liquids,monetization,CAZ,SSP2-NPi,2030,0.22647389269958856
+"bioethanol, switchgrass, CCS",liquids,technosphere,CAZ,SSP2-NPi,2030,0.14071300888171448
+"bioethanol, wheat grains",liquids,biosphere,RER,SSP2-NPi,2030,0.07379286109370559
+"bioethanol, wheat grains",liquids,monetization,RER,SSP2-NPi,2030,0.8157092275288179
+"bioethanol, wheat grains",liquids,technosphere,RER,SSP2-NPi,2030,0.11049791137747646
+"bioethanol, wheat straw",liquids,biosphere,RER,SSP2-NPi,2030,0.10591485606840713
+"bioethanol, wheat straw",liquids,monetization,RER,SSP2-NPi,2030,0.7451293068398556
+"bioethanol, wheat straw",liquids,technosphere,RER,SSP2-NPi,2030,0.14895583709173735
+"bioethanol, willow",liquids,biosphere,US,SSP2-NPi,2030,0.044682179015785424
+"bioethanol, willow",liquids,monetization,US,SSP2-NPi,2030,0.4874843134915431
+"bioethanol, willow",liquids,technosphere,US,SSP2-NPi,2030,0.4678335074926716
+biogas CHP,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.3434936307368497
+biogas CHP,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.5074596859137422
+biogas CHP,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.1490466833494081
+biogas CHP,electricity production,biosphere,RoW,SSP2-NPi,2030,0.34760488813441753
+biogas CHP,electricity production,monetization,RoW,SSP2-NPi,2030,0.5191364127911954
+biogas CHP,electricity production,technosphere,RoW,SSP2-NPi,2030,0.133258699074387
+"biogas, biowaste",hydrogen and gases,biosphere,RoW,SSP2-NPi,2030,0.0
+"biogas, biowaste",hydrogen and gases,monetization,RoW,SSP2-NPi,2030,0.872019540134502
+"biogas, biowaste",hydrogen and gases,technosphere,RoW,SSP2-NPi,2030,0.12798045986549797
+"biogas, sewage sludge",hydrogen and gases,biosphere,RoW,SSP2-NPi,2030,0.0
+"biogas, sewage sludge",hydrogen and gases,monetization,RoW,SSP2-NPi,2030,1.0
+"biogas, sewage sludge",hydrogen and gases,technosphere,RoW,SSP2-NPi,2030,0.0
+"biogas, used vegetable cooking oil",hydrogen and gases,biosphere,RoW,SSP2-NPi,2030,0.3390392560180945
+"biogas, used vegetable cooking oil",hydrogen and gases,monetization,RoW,SSP2-NPi,2030,0.4864561745450291
+"biogas, used vegetable cooking oil",hydrogen and gases,technosphere,RoW,SSP2-NPi,2030,0.17450456943687626
+biomethane boiler,residential heating,biosphere,RoW,SSP2-NPi,2030,0.14700740646573926
+biomethane boiler,residential heating,monetization,RoW,SSP2-NPi,2030,0.7112197258205621
+biomethane boiler,residential heating,technosphere,RoW,SSP2-NPi,2030,0.1417728677136986
+"biomethane, amine scrubbing",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.12328565777742193
+"biomethane, amine scrubbing",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.5136802079582622
+"biomethane, amine scrubbing",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.3630341342643159
+brine-water heat pump,residential heating,biosphere,RoW,SSP2-NPi,2030,0.12404127273933485
+brine-water heat pump,residential heating,monetization,RoW,SSP2-NPi,2030,0.7990307349834758
+brine-water heat pump,residential heating,technosphere,RoW,SSP2-NPi,2030,0.07692799227718941
+charcoal,solids,biosphere,GLO,SSP2-NPi,2030,0.4265191026859825
+charcoal,solids,monetization,GLO,SSP2-NPi,2030,0.5238106006432922
+charcoal,solids,technosphere,GLO,SSP2-NPi,2030,0.04967029667072537
+coke,solids,biosphere,RoW,SSP2-NPi,2030,0.6395991525891509
+coke,solids,monetization,RoW,SSP2-NPi,2030,0.30922051040346854
+coke,solids,technosphere,RoW,SSP2-NPi,2030,0.05118033700738057
+"diesel, bio FT",liquids,biosphere,World,SSP2-NPi,2030,0.32891536379154357
+"diesel, bio FT",liquids,monetization,World,SSP2-NPi,2030,0.6418960145541194
+"diesel, bio FT",liquids,technosphere,World,SSP2-NPi,2030,0.02918862165433719
+"diesel, bio FT, w CCS",liquids,biosphere,World,SSP2-NPi,2030,0.31761027698536953
+"diesel, bio FT, w CCS",liquids,monetization,World,SSP2-NPi,2030,0.6294291832939013
+"diesel, bio FT, w CCS",liquids,technosphere,World,SSP2-NPi,2030,0.052960539720729165
+"diesel, coal FT",liquids,biosphere,World,SSP2-NPi,2030,0.503915017164483
+"diesel, coal FT",liquids,monetization,World,SSP2-NPi,2030,0.4436357509375604
+"diesel, coal FT",liquids,technosphere,World,SSP2-NPi,2030,0.05244923189795663
+"diesel, coal FT, w CCS",liquids,biosphere,World,SSP2-NPi,2030,0.4640875472040115
+"diesel, coal FT, w CCS",liquids,monetization,World,SSP2-NPi,2030,0.47031689442099994
+"diesel, coal FT, w CCS",liquids,technosphere,World,SSP2-NPi,2030,0.06559555837498861
+"diesel, electrolysis FT",liquids,biosphere,World,SSP2-NPi,2030,0.05795787386753977
+"diesel, electrolysis FT",liquids,monetization,World,SSP2-NPi,2030,0.849304473973339
+"diesel, electrolysis FT",liquids,technosphere,World,SSP2-NPi,2030,0.0927376521591213
+"diesel, electrolysis FT, VRE",liquids,biosphere,World,SSP2-NPi,2030,0.16841070726927107
+"diesel, electrolysis FT, VRE",liquids,monetization,World,SSP2-NPi,2030,0.7564421488649318
+"diesel, electrolysis FT, VRE",liquids,technosphere,World,SSP2-NPi,2030,0.07514714386579716
+"diesel, gas FT",liquids,biosphere,World,SSP2-NPi,2030,0.10252586740246648
+"diesel, gas FT",liquids,monetization,World,SSP2-NPi,2030,0.6752404474237648
+"diesel, gas FT",liquids,technosphere,World,SSP2-NPi,2030,0.2222336851737687
+"diesel, gas FT, w CCS",liquids,biosphere,World,SSP2-NPi,2030,0.09650097780996657
+"diesel, gas FT, w CCS",liquids,monetization,World,SSP2-NPi,2030,0.7024631322881717
+"diesel, gas FT, w CCS",liquids,technosphere,World,SSP2-NPi,2030,0.20103588990186164
+"diesel, low-sulfur, refinery",liquids,biosphere,RoW,SSP2-NPi,2030,0.10287296833819069
+"diesel, low-sulfur, refinery",liquids,monetization,RoW,SSP2-NPi,2030,0.6275512585865259
+"diesel, low-sulfur, refinery",liquids,technosphere,RoW,SSP2-NPi,2030,0.26957577307528335
+"diesel, refinery",liquids,biosphere,RoW,SSP2-NPi,2030,0.10582938093727905
+"diesel, refinery",liquids,monetization,RoW,SSP2-NPi,2030,0.6458789574570925
+"diesel, refinery",liquids,technosphere,RoW,SSP2-NPi,2030,0.24829166160562857
+diffusion adsorption heat pump,residential heating,biosphere,World,SSP2-NPi,2030,0.13866366584002862
+diffusion adsorption heat pump,residential heating,monetization,World,SSP2-NPi,2030,0.6784771596618608
+diffusion adsorption heat pump,residential heating,technosphere,World,SSP2-NPi,2030,0.1828591744981105
+geothermal,electricity production,biosphere,RoW,SSP2-NPi,2030,0.1299121991314582
+geothermal,electricity production,monetization,RoW,SSP2-NPi,2030,0.3378955983419021
+geothermal,electricity production,technosphere,RoW,SSP2-NPi,2030,0.5321922025266398
+geothermal heat plant,district or industrial heat,biosphere,GLO,SSP2-NPi,2030,0.12715945041528
+geothermal heat plant,district or industrial heat,monetization,GLO,SSP2-NPi,2030,0.4320169892617921
+geothermal heat plant,district or industrial heat,technosphere,GLO,SSP2-NPi,2030,0.44082356032292785
+hard coal CHP,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.588812130647052
+hard coal CHP,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.359540370491089
+hard coal CHP,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.051647498861859
+hard coal CHP,electricity production,biosphere,RoW,SSP2-NPi,2030,0.592198927432138
+hard coal CHP,electricity production,monetization,RoW,SSP2-NPi,2030,0.36123028067962965
+hard coal CHP,electricity production,technosphere,RoW,SSP2-NPi,2030,0.04657079188823252
+hard coal IGCC,electricity production,biosphere,World,SSP2-NPi,2030,0.6058093814834858
+hard coal IGCC,electricity production,monetization,World,SSP2-NPi,2030,0.3594264041838311
+hard coal IGCC,electricity production,technosphere,World,SSP2-NPi,2030,0.03476421433268311
+hard coal IGCC w CCS (pre),electricity production,biosphere,World,SSP2-NPi,2030,0.6227892102538576
+hard coal IGCC w CCS (pre),electricity production,monetization,World,SSP2-NPi,2030,0.33991544780661054
+hard coal IGCC w CCS (pre),electricity production,technosphere,World,SSP2-NPi,2030,0.03729534193953181
+hard coal briquette stove,residential heating,biosphere,RoW,SSP2-NPi,2030,0.5561114873167368
+hard coal briquette stove,residential heating,monetization,RoW,SSP2-NPi,2030,0.3493509943065536
+hard coal briquette stove,residential heating,technosphere,RoW,SSP2-NPi,2030,0.0945375183767095
+hard coal briquettes,solids,biosphere,RoW,SSP2-NPi,2030,0.6580375457855053
+hard coal briquettes,solids,monetization,RoW,SSP2-NPi,2030,0.2949853958214333
+hard coal briquettes,solids,technosphere,RoW,SSP2-NPi,2030,0.04697705839306135
+hard coal heating plant,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.584095254449751
+hard coal heating plant,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.36210091353000984
+hard coal heating plant,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.053803832020239147
+hard coal power plant,electricity production,biosphere,RoW,SSP2-NPi,2030,0.5883760172965034
+hard coal power plant,electricity production,monetization,RoW,SSP2-NPi,2030,0.35093289004430955
+hard coal power plant,electricity production,technosphere,RoW,SSP2-NPi,2030,0.06069109265918701
+hard coal w CCS (oxy),electricity production,biosphere,World,SSP2-NPi,2030,0.6427667132502801
+hard coal w CCS (oxy),electricity production,monetization,World,SSP2-NPi,2030,0.3179765243535634
+hard coal w CCS (oxy),electricity production,technosphere,World,SSP2-NPi,2030,0.039256762396156546
+hard coal w CCS (post),electricity production,biosphere,World,SSP2-NPi,2030,0.6419181839617382
+hard coal w CCS (post),electricity production,monetization,World,SSP2-NPi,2030,0.31867036128760223
+hard coal w CCS (post),electricity production,technosphere,World,SSP2-NPi,2030,0.039411454750659596
+hardwood chips,solids,biosphere,RoW,SSP2-NPi,2030,0.3154892790933645
+hardwood chips,solids,monetization,RoW,SSP2-NPi,2030,0.4585290810670656
+hardwood chips,solids,technosphere,RoW,SSP2-NPi,2030,0.22598163983956995
+hardwood heating plant,district or industrial heat,biosphere,World,SSP2-NPi,2030,0.5476483248495544
+hardwood heating plant,district or industrial heat,monetization,World,SSP2-NPi,2030,0.3814077427721197
+hardwood heating plant,district or industrial heat,technosphere,World,SSP2-NPi,2030,0.07094393237832582
+"hardwood heating plant, modern",district or industrial heat,biosphere,World,SSP2-NPi,2030,0.2519879440994393
+"hardwood heating plant, modern",district or industrial heat,monetization,World,SSP2-NPi,2030,0.6254293893789098
+"hardwood heating plant, modern",district or industrial heat,technosphere,World,SSP2-NPi,2030,0.1225826665216509
+heavy fuel oil heating plant,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.5043300148031217
+heavy fuel oil heating plant,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.3831618243734179
+heavy fuel oil heating plant,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.11250816082346049
+"heavy fuel oil, refinery",liquids,biosphere,RoW,SSP2-NPi,2030,0.11113382357002173
+"heavy fuel oil, refinery",liquids,monetization,RoW,SSP2-NPi,2030,0.6767622553742744
+"heavy fuel oil, refinery",liquids,technosphere,RoW,SSP2-NPi,2030,0.21210392105570383
+"hydro, pumped storage",electricity production,biosphere,RoW,SSP2-NPi,2030,0.3917245467531828
+"hydro, pumped storage",electricity production,monetization,RoW,SSP2-NPi,2030,0.5143894490098999
+"hydro, pumped storage",electricity production,technosphere,RoW,SSP2-NPi,2030,0.0938860042369173
+"hydro, reservoir, alpine region",electricity production,biosphere,RoW,SSP2-NPi,2030,0.10881409828555062
+"hydro, reservoir, alpine region",electricity production,monetization,RoW,SSP2-NPi,2030,0.8582905716698137
+"hydro, reservoir, alpine region",electricity production,technosphere,RoW,SSP2-NPi,2030,0.03289533004463577
+"hydro, reservoir, non-alpine region",electricity production,biosphere,RoW,SSP2-NPi,2030,0.11052735132281469
+"hydro, reservoir, non-alpine region",electricity production,monetization,RoW,SSP2-NPi,2030,0.8544907801147802
+"hydro, reservoir, non-alpine region",electricity production,technosphere,RoW,SSP2-NPi,2030,0.03498186856240502
+"hydro, reservoir, tropical region",electricity production,biosphere,RoW,SSP2-NPi,2030,0.10865692537048216
+"hydro, reservoir, tropical region",electricity production,monetization,RoW,SSP2-NPi,2030,0.8456580781333637
+"hydro, reservoir, tropical region",electricity production,technosphere,RoW,SSP2-NPi,2030,0.045684996496154144
+"hydro, run-of-river",electricity production,biosphere,RoW,SSP2-NPi,2030,0.10207884175274044
+"hydro, run-of-river",electricity production,monetization,RoW,SSP2-NPi,2030,0.2903191629854792
+"hydro, run-of-river",electricity production,technosphere,RoW,SSP2-NPi,2030,0.6076019952617804
+hydrogen turbine,electricity production,biosphere,World,SSP2-NPi,2030,0.04695978243638138
+hydrogen turbine,electricity production,monetization,World,SSP2-NPi,2030,0.8576565591334228
+hydrogen turbine,electricity production,technosphere,World,SSP2-NPi,2030,0.09538365843019583
+"hydrogen, PEM electrolysis",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.04440234314465567
+"hydrogen, PEM electrolysis",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.8595765289734892
+"hydrogen, PEM electrolysis",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.09602112788185511
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.1565649078964485
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.7657669412432294
+"hydrogen, PEM electrolysis, VRE",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.07766815086032218
+"hydrogen, biomethane",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.11465737613025612
+"hydrogen, biomethane",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.529350977276483
+"hydrogen, biomethane",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.35599164659326105
+"hydrogen, biomethane, CCS",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.11939852092558892
+"hydrogen, biomethane, CCS",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.5374292272193267
+"hydrogen, biomethane, CCS",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.3431722518550843
+"hydrogen, hard coal",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.5445425763963277
+"hydrogen, hard coal",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.4024647074708398
+"hydrogen, hard coal",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.0529927161328326
+"hydrogen, hard coal, CCS",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.5038467855004266
+"hydrogen, hard coal, CCS",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.4281799838755422
+"hydrogen, hard coal, CCS",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.06797323062403109
+"hydrogen, methane pyrolysis",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.067928426369385
+"hydrogen, methane pyrolysis",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.823651853330413
+"hydrogen, methane pyrolysis",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.10841972030020194
+"hydrogen, natural gas",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.07342761366765088
+"hydrogen, natural gas",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.5432078126815695
+"hydrogen, natural gas",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.3833645736507798
+"hydrogen, natural gas, CCS",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.09539877228193913
+"hydrogen, natural gas, CCS",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.5153654340444427
+"hydrogen, natural gas, CCS",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.38923579367361827
+"hydrogen, water splitting",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.4358272080243968
+"hydrogen, water splitting",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.5284809503236566
+"hydrogen, water splitting",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.035691841651946575
+"hydrogen, woody biomass",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.3371781232825633
+"hydrogen, woody biomass",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.6394956918739274
+"hydrogen, woody biomass",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.023326184843509224
+"hydrogen, woody biomass, CCS",hydrogen and gases,biosphere,World,SSP2-NPi,2030,0.32724243002293407
+"hydrogen, woody biomass, CCS",hydrogen and gases,monetization,World,SSP2-NPi,2030,0.6235053567704629
+"hydrogen, woody biomass, CCS",hydrogen and gases,technosphere,World,SSP2-NPi,2030,0.04925221320660307
+industry wood chips heating plant,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.24884395620956726
+industry wood chips heating plant,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.6372282191111147
+industry wood chips heating plant,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.11392782467931796
+"kerosene, bio FT",liquids,biosphere,World,SSP2-NPi,2030,0.3293058470002154
+"kerosene, bio FT",liquids,monetization,World,SSP2-NPi,2030,0.6416321551307372
+"kerosene, bio FT",liquids,technosphere,World,SSP2-NPi,2030,0.029061997869047382
+"kerosene, bio FT, w CCS",liquids,biosphere,World,SSP2-NPi,2030,0.3180528915068845
+"kerosene, bio FT, w CCS",liquids,monetization,World,SSP2-NPi,2030,0.6289367533455409
+"kerosene, bio FT, w CCS",liquids,technosphere,World,SSP2-NPi,2030,0.05301035514757472
+"kerosene, coal FT",liquids,biosphere,RER,SSP2-NPi,2030,0.5345027120681743
+"kerosene, coal FT",liquids,monetization,RER,SSP2-NPi,2030,0.41306178466540433
+"kerosene, coal FT",liquids,technosphere,RER,SSP2-NPi,2030,0.05243550326642131
+"kerosene, coal FT, w CCS",liquids,biosphere,RER,SSP2-NPi,2030,0.49861810202274626
+"kerosene, coal FT, w CCS",liquids,monetization,RER,SSP2-NPi,2030,0.4384653373975299
+"kerosene, coal FT, w CCS",liquids,technosphere,RER,SSP2-NPi,2030,0.06291656057972367
+"kerosene, electrolysis FT",liquids,biosphere,World,SSP2-NPi,2030,0.05797122420305503
+"kerosene, electrolysis FT",liquids,monetization,World,SSP2-NPi,2030,0.8492928807346939
+"kerosene, electrolysis FT",liquids,technosphere,World,SSP2-NPi,2030,0.09273589506225104
+"kerosene, gas FT",liquids,biosphere,World,SSP2-NPi,2030,0.1022957373270076
+"kerosene, gas FT",liquids,monetization,World,SSP2-NPi,2030,0.6758403884495903
+"kerosene, gas FT",liquids,technosphere,World,SSP2-NPi,2030,0.22186387422340217
+"kerosene, gas FT, w CCS",liquids,biosphere,World,SSP2-NPi,2030,0.09669859590924315
+"kerosene, gas FT, w CCS",liquids,monetization,World,SSP2-NPi,2030,0.7017663861271629
+"kerosene, gas FT, w CCS",liquids,technosphere,World,SSP2-NPi,2030,0.20153501796359397
+"kerosene, refinery",liquids,biosphere,RoW,SSP2-NPi,2030,0.1060545876818196
+"kerosene, refinery",liquids,monetization,RoW,SSP2-NPi,2030,0.6469227864163773
+"kerosene, refinery",liquids,technosphere,RoW,SSP2-NPi,2030,0.24702262590180296
+light fuel oil heating plant,district or industrial heat,biosphere,World,SSP2-NPi,2030,0.17317098545459328
+light fuel oil heating plant,district or industrial heat,monetization,World,SSP2-NPi,2030,0.629080004639468
+light fuel oil heating plant,district or industrial heat,technosphere,World,SSP2-NPi,2030,0.19774900990593866
+lignite CHP,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.6261259039683059
+lignite CHP,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.322669441100558
+lignite CHP,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.05120465493113609
+lignite CHP,electricity production,biosphere,RoW,SSP2-NPi,2030,0.6265215918550191
+lignite CHP,electricity production,monetization,RoW,SSP2-NPi,2030,0.3226830670972048
+lignite CHP,electricity production,technosphere,RoW,SSP2-NPi,2030,0.0507953410477761
+lignite IGCC,electricity production,biosphere,World,SSP2-NPi,2030,0.6743340149423672
+lignite IGCC,electricity production,monetization,World,SSP2-NPi,2030,0.30723148033942577
+lignite IGCC,electricity production,technosphere,World,SSP2-NPi,2030,0.018434504718207127
+lignite IGCC w CCS (pre),electricity production,biosphere,World,SSP2-NPi,2030,0.6689798523011515
+lignite IGCC w CCS (pre),electricity production,monetization,World,SSP2-NPi,2030,0.31159743525630434
+lignite IGCC w CCS (pre),electricity production,technosphere,World,SSP2-NPi,2030,0.019422712442543975
+lignite briquette stove,residential heating,biosphere,RoW,SSP2-NPi,2030,0.623382609606542
+lignite briquette stove,residential heating,monetization,RoW,SSP2-NPi,2030,0.30114177009568394
+lignite briquette stove,residential heating,technosphere,RoW,SSP2-NPi,2030,0.07547562029777409
+lignite briquettes,solids,biosphere,RoW,SSP2-NPi,2030,0.6509021163270016
+lignite briquettes,solids,monetization,RoW,SSP2-NPi,2030,0.30252603861208444
+lignite briquettes,solids,technosphere,RoW,SSP2-NPi,2030,0.04657184506091399
+lignite power plant,electricity production,biosphere,RoW,SSP2-NPi,2030,0.626003133459719
+lignite power plant,electricity production,monetization,RoW,SSP2-NPi,2030,0.31967908823222513
+lignite power plant,electricity production,technosphere,RoW,SSP2-NPi,2030,0.05431777830805589
+lignite w CCS (oxy),electricity production,biosphere,World,SSP2-NPi,2030,0.6649658770225785
+lignite w CCS (oxy),electricity production,monetization,World,SSP2-NPi,2030,0.3127334297162782
+lignite w CCS (oxy),electricity production,technosphere,World,SSP2-NPi,2030,0.022300693261143315
+lignite w CCS (post),electricity production,biosphere,World,SSP2-NPi,2030,0.6656305403809978
+lignite w CCS (post),electricity production,monetization,World,SSP2-NPi,2030,0.3120416729924469
+lignite w CCS (post),electricity production,technosphere,World,SSP2-NPi,2030,0.02232778662655534
+natural gas CHP,district or industrial heat,biosphere,World,SSP2-NPi,2030,0.13936231185677542
+natural gas CHP,district or industrial heat,monetization,World,SSP2-NPi,2030,0.6702854644441557
+natural gas CHP,district or industrial heat,technosphere,World,SSP2-NPi,2030,0.1903522236990688
+natural gas CHP,electricity production,biosphere,World,SSP2-NPi,2030,0.144935399113298
+natural gas CHP,electricity production,monetization,World,SSP2-NPi,2030,0.6587743603967016
+natural gas CHP,electricity production,technosphere,World,SSP2-NPi,2030,0.1962902404900005
+natural gas CHP CC,district or industrial heat,biosphere,World,SSP2-NPi,2030,0.14270384708170697
+natural gas CHP CC,district or industrial heat,monetization,World,SSP2-NPi,2030,0.6572881760778768
+natural gas CHP CC,district or industrial heat,technosphere,World,SSP2-NPi,2030,0.20000797684041632
+natural gas CHP CC,electricity production,biosphere,World,SSP2-NPi,2030,0.14518583514433275
+natural gas CHP CC,electricity production,monetization,World,SSP2-NPi,2030,0.6480607154168347
+natural gas CHP CC,electricity production,technosphere,World,SSP2-NPi,2030,0.2067534494388327
+natural gas boiler,residential heating,biosphere,World,SSP2-NPi,2030,0.1434607233115765
+natural gas boiler,residential heating,monetization,World,SSP2-NPi,2030,0.6451293720261233
+natural gas boiler,residential heating,technosphere,World,SSP2-NPi,2030,0.21140990466230014
+natural gas heating plant,district or industrial heat,biosphere,World,SSP2-NPi,2030,0.13510189080399904
+natural gas heating plant,district or industrial heat,monetization,World,SSP2-NPi,2030,0.6694952054519836
+natural gas heating plant,district or industrial heat,technosphere,World,SSP2-NPi,2030,0.19540290374401736
+natural gas power plant,electricity production,biosphere,RoW,SSP2-NPi,2030,0.14609753628328717
+natural gas power plant,electricity production,monetization,RoW,SSP2-NPi,2030,0.6593487263469809
+natural gas power plant,electricity production,technosphere,RoW,SSP2-NPi,2030,0.194553737369732
+natural gas subcritical,electricity production,biosphere,World,SSP2-NPi,2030,0.11594840615595665
+natural gas subcritical,electricity production,monetization,World,SSP2-NPi,2030,0.6790931823257889
+natural gas subcritical,electricity production,technosphere,World,SSP2-NPi,2030,0.2049584115182545
+"natural gas, offshore",hydrogen and gases,biosphere,AE,SSP2-NPi,2030,0.21821666020140504
+"natural gas, offshore",hydrogen and gases,monetization,AE,SSP2-NPi,2030,0.6448638201983011
+"natural gas, offshore",hydrogen and gases,technosphere,AE,SSP2-NPi,2030,0.1369195196002939
+"natural gas, onshore",hydrogen and gases,biosphere,AE,SSP2-NPi,2030,0.21640803907685668
+"natural gas, onshore",hydrogen and gases,monetization,AE,SSP2-NPi,2030,0.6110410921298035
+"natural gas, onshore",hydrogen and gases,technosphere,AE,SSP2-NPi,2030,0.1725508687933399
+"nuclear, boiling water reactor",electricity production,biosphere,RoW,SSP2-NPi,2030,0.21753681525858923
+"nuclear, boiling water reactor",electricity production,monetization,RoW,SSP2-NPi,2030,0.6340702317490017
+"nuclear, boiling water reactor",electricity production,technosphere,RoW,SSP2-NPi,2030,0.14839295299240915
+"nuclear, pressure water reactor",electricity production,biosphere,RoW,SSP2-NPi,2030,0.22532213051989056
+"nuclear, pressure water reactor",electricity production,monetization,RoW,SSP2-NPi,2030,0.6173837618874337
+"nuclear, pressure water reactor",electricity production,technosphere,RoW,SSP2-NPi,2030,0.1572941075926757
+"nuclear, pressure water reactor, heavy water moderated",electricity production,biosphere,RoW,SSP2-NPi,2030,0.13523665576174518
+"nuclear, pressure water reactor, heavy water moderated",electricity production,monetization,RoW,SSP2-NPi,2030,0.7889431003497568
+"nuclear, pressure water reactor, heavy water moderated",electricity production,technosphere,RoW,SSP2-NPi,2030,0.07582024388849808
+oil CHP,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.19713375211552175
+oil CHP,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.6322322197579265
+oil CHP,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.17063402812655173
+oil CHP,electricity production,biosphere,RoW,SSP2-NPi,2030,0.18543051278183006
+oil CHP,electricity production,monetization,RoW,SSP2-NPi,2030,0.6416261464379309
+oil CHP,electricity production,technosphere,RoW,SSP2-NPi,2030,0.17294334078023907
+oil boiler,residential heating,biosphere,World,SSP2-NPi,2030,0.16752473074907595
+oil boiler,residential heating,monetization,World,SSP2-NPi,2030,0.5641994302743131
+oil boiler,residential heating,technosphere,World,SSP2-NPi,2030,0.26827583897661095
+"oil boiler, condensing",residential heating,biosphere,World,SSP2-NPi,2030,0.16724986975968142
+"oil boiler, condensing",residential heating,monetization,World,SSP2-NPi,2030,0.5645055826614899
+"oil boiler, condensing",residential heating,technosphere,World,SSP2-NPi,2030,0.26824454757882865
+oil power plant,electricity production,biosphere,RoW,SSP2-NPi,2030,0.17416332013287666
+oil power plant,electricity production,monetization,RoW,SSP2-NPi,2030,0.6359974087655654
+oil power plant,electricity production,technosphere,RoW,SSP2-NPi,2030,0.18983927110155802
+peat,solids,biosphere,RoW,SSP2-NPi,2030,0.09595598282098954
+peat,solids,monetization,RoW,SSP2-NPi,2030,0.8524505671367761
+peat,solids,technosphere,RoW,SSP2-NPi,2030,0.051593450042234264
+"petrol, refinery",liquids,biosphere,RoW,SSP2-NPi,2030,0.09700124080234489
+"petrol, refinery",liquids,monetization,RoW,SSP2-NPi,2030,0.5931204812100238
+"petrol, refinery",liquids,technosphere,RoW,SSP2-NPi,2030,0.30987827798763135
+petroleum coke,solids,biosphere,RoW,SSP2-NPi,2030,0.11338732446603872
+petroleum coke,solids,monetization,RoW,SSP2-NPi,2030,0.6874419260338311
+petroleum coke,solids,technosphere,RoW,SSP2-NPi,2030,0.19917074950013017
+softwood chips,solids,biosphere,RoW,SSP2-NPi,2030,0.16687816588383225
+softwood chips,solids,monetization,RoW,SSP2-NPi,2030,0.5268904915330918
+softwood chips,solids,technosphere,RoW,SSP2-NPi,2030,0.306231342583076
+softwood heating plant,district or industrial heat,biosphere,World,SSP2-NPi,2030,0.24711236837730796
+softwood heating plant,district or industrial heat,monetization,World,SSP2-NPi,2030,0.6267459954081206
+softwood heating plant,district or industrial heat,technosphere,World,SSP2-NPi,2030,0.12614163621457136
+"wind, offshore",electricity production,biosphere,RoW,SSP2-NPi,2030,0.12121105904691834
+"wind, offshore",electricity production,monetization,RoW,SSP2-NPi,2030,0.6842565164803882
+"wind, offshore",electricity production,technosphere,RoW,SSP2-NPi,2030,0.19453242447269345
+"wind, onshore, large",electricity production,biosphere,RoW,SSP2-NPi,2030,0.04022381129506652
+"wind, onshore, large",electricity production,monetization,RoW,SSP2-NPi,2030,0.8372468902110894
+"wind, onshore, large",electricity production,technosphere,RoW,SSP2-NPi,2030,0.12252929849384402
+"wind, onshore, medium",electricity production,biosphere,RoW,SSP2-NPi,2030,0.053019225785160766
+"wind, onshore, medium",electricity production,monetization,RoW,SSP2-NPi,2030,0.6096828399866547
+"wind, onshore, medium",electricity production,technosphere,RoW,SSP2-NPi,2030,0.33729793422818455
+"wind, onshore, small",electricity production,biosphere,RoW,SSP2-NPi,2030,0.07926840897553729
+"wind, onshore, small",electricity production,monetization,RoW,SSP2-NPi,2030,0.7237767768793436
+"wind, onshore, small",electricity production,technosphere,RoW,SSP2-NPi,2030,0.19695481414511914
+wood CHP,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.21714677933125573
+wood CHP,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.6492374523485788
+wood CHP,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.13361576832016547
+wood CHP,electricity production,biosphere,RoW,SSP2-NPi,2030,0.2171467747675593
+wood CHP,electricity production,monetization,RoW,SSP2-NPi,2030,0.6492374542439255
+wood CHP,electricity production,technosphere,RoW,SSP2-NPi,2030,0.1336157709885152
+wood CHP modern,district or industrial heat,biosphere,RoW,SSP2-NPi,2030,0.22340128896967787
+wood CHP modern,district or industrial heat,monetization,RoW,SSP2-NPi,2030,0.6401438068242244
+wood CHP modern,district or industrial heat,technosphere,RoW,SSP2-NPi,2030,0.1364549042060976
+wood CHP modern,electricity production,biosphere,RoW,SSP2-NPi,2030,0.22340128944188484
+wood CHP modern,electricity production,monetization,RoW,SSP2-NPi,2030,0.64014380401467
+wood CHP modern,electricity production,technosphere,RoW,SSP2-NPi,2030,0.1364549065434452
+wood heater,residential heating,biosphere,RoW,SSP2-NPi,2030,0.4661664983659422
+wood heater,residential heating,monetization,RoW,SSP2-NPi,2030,0.49129963364229823
+wood heater,residential heating,technosphere,RoW,SSP2-NPi,2030,0.042533867991759476
+"wood heater, modern",residential heating,biosphere,RoW,SSP2-NPi,2030,0.4564707100472621
+"wood heater, modern",residential heating,monetization,RoW,SSP2-NPi,2030,0.5002979693887589
+"wood heater, modern",residential heating,technosphere,RoW,SSP2-NPi,2030,0.043231320563979034
+wood pellets,solids,biosphere,RoW,SSP2-NPi,2030,0.9426855023177677
+wood pellets,solids,monetization,RoW,SSP2-NPi,2030,0.045803236195755964
+wood pellets,solids,technosphere,RoW,SSP2-NPi,2030,0.01151126148647642
+wood power plant,electricity production,biosphere,RER,SSP2-NPi,2030,0.4256869132037246
+wood power plant,electricity production,monetization,RER,SSP2-NPi,2030,0.4708857951669893
+wood power plant,electricity production,technosphere,RER,SSP2-NPi,2030,0.10342729162928611
+wood power plant w CCS,electricity production,biosphere,RER,SSP2-NPi,2030,0.35846026193669833
+wood power plant w CCS,electricity production,monetization,RER,SSP2-NPi,2030,0.5401578206972669
+wood power plant w CCS,electricity production,technosphere,RER,SSP2-NPi,2030,0.10138191736603469
