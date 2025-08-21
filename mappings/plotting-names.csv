@@ -13,12 +13,12 @@ PV commercial,PV commercial,PV commercial
 PV residential,PV residential,PV residential
 "CSP, tower",CSP,CSP
 "wind, offshore","wind, offshore","wind, offshore"
-"wind, onshore, medium","wind, onshore","wind, offshore"
+"wind, onshore, medium","wind, onshore","wind, onshore"
 "hydro, reservoir, non-alpine region","hydro, reservoir","hydro, reservoir"
 "hydro, reservoir, alpine region","hydro, reservoir,\nalpine region","hydro, reservoir, alpine region"
 BIGCC,bio IGCC,bio IGCC
-BIGCC w CCS,"bio IGCC, CCS","wind, offshore"
-geothermal,geothermal,"wind, offshore"
+BIGCC w CCS,"bio IGCC, CCS","bio IGCC, CCS"
+geothermal,geothermal,"geothermal"
 "nuclear, pressure water reactor",nuclear,nuclear PP
 "diesel, refinery","diesel, refinery","diesel, refinery"
 "biodiesel, rapeseed oil","biodiesel,\nrapeseed oil","biodiesel, rapeseed oil"

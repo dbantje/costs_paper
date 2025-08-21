@@ -1,0 +1,25 @@
+short name,region,capacity factor
+PV commercial,CAZ,0.2
+PV commercial,CHA,0.2
+PV commercial,EUR,0.2
+PV commercial,IND,0.2
+PV commercial,JPN,0.2
+PV commercial,LAM,0.2
+PV commercial,MEA,0.2
+PV commercial,NEU,0.2
+PV commercial,OAS,0.2
+PV commercial,REF,0.2
+PV commercial,SSA,0.2
+PV commercial,USA,0.2
+"wind, onshore, medium",CAZ,0.35
+"wind, onshore, medium",CHA,0.35
+"wind, onshore, medium",EUR,0.35
+"wind, onshore, medium",IND,0.35
+"wind, onshore, medium",JPN,0.35
+"wind, onshore, medium",LAM,0.35
+"wind, onshore, medium",MEA,0.35
+"wind, onshore, medium",NEU,0.35
+"wind, onshore, medium",OAS,0.35
+"wind, onshore, medium",REF,0.35
+"wind, onshore, medium",SSA,0.35
+"wind, onshore, medium",USA,0.35

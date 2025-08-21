@@ -235,8 +235,8 @@ def comparing_cost_perspectives_subplot_noCC(df, ax, plot_total=False, inset_tec
                        label="total cost")
         return line
 
-def cost_trends_subplot(df, ax, scenarios, annotate_scenarios=False, 
-                        plot_total=False):
+def cost_trends_subplot(df, ax, scenarios, annotate_scenarios=False, annotation_names=None,
+                        plot_total=False, arrow_positions=[0.055, 0.035], arrow_size=0.02):
     bwidth = 0.3
     spacing = 0.1
 
@@ -256,10 +256,11 @@ def cost_trends_subplot(df, ax, scenarios, annotate_scenarios=False,
         ax.set_xlim([-0.5, 3.5])
 
     if annotate_scenarios:
-        ax.annotate(scenarios[0], xy=(1-(spacing+bwidth)/2, 0.055), xytext=(1-(spacing+bwidth)/2, 0.055+0.02),
+        names = scenarios if annotation_names is None else annotation_names
+        ax.annotate(names[0], xy=(1-(spacing+bwidth)/2, arrow_positions[0]), xytext=(1-(spacing+bwidth)/2, arrow_positions[0]+arrow_size),
                     arrowprops=dict(facecolor='black', shrink=0.05), rotation=90, ha="center", va="bottom"
                     )
-        ax.annotate(scenarios[1], xy=(1+(spacing+bwidth)/2, 0.035), xytext=(1+(spacing+bwidth)/2, 0.035+0.02),
+        ax.annotate(names[1], xy=(1+(spacing+bwidth)/2, arrow_positions[1]), xytext=(1+(spacing+bwidth)/2, arrow_positions[0]+arrow_size),
                     arrowprops=dict(facecolor='black', shrink=0.05), rotation=90, ha="center", va="bottom"
                     )
         
